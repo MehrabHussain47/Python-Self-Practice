@@ -1,0 +1,1407 @@
+Injury Name,Sl No,Patient Name,Patient Code,Father’s Name,Age,Sex,M. Status,District,Occupation,Mobile Number
+Road Traffic Accident (RTA),1,Sujon Rifat,15.01.000311.01,Ibrahim,12,M,Si,Dhaka,Student,1775920257
+Road Traffic Accident (RTA),2,Saidur Rahman,15.01.000613.01,Sherajul Dhali,48,M,M,Munshiganj,Not Applicable,1917407444
+Road Traffic Accident (RTA),3,Hossain Ali,15.01.000621.01,Abdul Bakab Ali,35,M,M,Gaibandha,Not Applicable,1745982207
+Road Traffic Accident (RTA),4,Ripon Reza Md.,15.01.000639.01,Md. Awlad Hossain,,M,Si,Meherpur,Service - CRP,1923209597
+Road Traffic Accident (RTA),5,Laisna,15.01.000667.01,Daoud,32,F,M,Narail,Not Applicable,1932251064
+Road Traffic Accident (RTA),6,Md. Shohag,15.01.000923.01,Sultan Hosain,26,M,,Dhaka,Not Applicable,1915555823
+Road Traffic Accident (RTA),7,Ripon,15.01.000927.01,Alif Kazi,35,M,M,Gopalganj,Not Applicable,1792105937
+Road Traffic Accident (RTA),8,Forhad Hossain,15.01.001245.01,Sadek Ali,48,M,M,Dhaka,Service holder,1716274142
+Road Traffic Accident (RTA),9,Azizul,15.01.001710.01,Nobu Mollah,26,M,M,Manikgonj,Not Applicable,1734659007
+Road Traffic Accident (RTA),10,Gonesh Chandra Pal,15.01.001887.01,Narayon Chandra Pal,44,M,M,Dhaka,Farmer,1718513861
+Road Traffic Accident (RTA),11,Alamgir Hossain,15.01.002085.01,Monir Hossain,34,M,M,Dhaka,Service holder,1795695451
+Road Traffic Accident (RTA),12,Shohorab Hossain,15.01.002087.01,X,33,M,M,Dinajpur,Not Applicable,1721148875
+Road Traffic Accident (RTA),13,Nurul Alam,15.01.002108.01,Md. Alimullah,35,M,M,Dhaka,Service holder,1918299441
+Road Traffic Accident (RTA),14,Mostafizur Rahman,15.01.002201.01,Mofizur Rahman,50,M,M,Noakhali,Not Applicable,1726415247
+Road Traffic Accident (RTA),15,Md. Titu,15.01.002286.01,Ali Ahmad,32,M,M,Dhaka,Not Applicable,1675736236
+Road Traffic Accident (RTA),16,Asaruddin,15.01.002320.01,Feroz,60,M,M,Chuadanga,Not Applicable,1714738642
+Road Traffic Accident (RTA),17,Rustom Ali,15.01.002347.01,Md. Afsar Ali,32,M,M,Gazipur,Service holder,1843133094
+Road Traffic Accident (RTA),18,Faruk Ahmeed,15.01.002400.01,X,34,M,M,Chandpur,Not Applicable,1831704498
+Road Traffic Accident (RTA),19,Rumana Jahan Mrs.,15.01.002539.01,Md. Abdur Rab Hawlader,35,F,M,Patuakhali,Govt. Service Holder,1825439667
+Road Traffic Accident (RTA),20,Shishiliya Costa,15.01.002992.01,S,34,F,M,Dhaka,Housewife,1742812446
+Road Traffic Accident (RTA),21,Abdul Alim,15.01.003151.01,Md. Abbas Ali,44,M,M,Dhaka,Service holder,1921052146
+Road Traffic Accident (RTA),22,Md. Nurul Islam,15.01.003348.01,A. Aziz Mollah,34,M,M,Jhenaidah,Not Applicable,1719973292
+Road Traffic Accident (RTA),23,Muksed Ali Bhuiyan,15.01.003356.01,Enazuddin Bhuiyan,55,M,M,Dhaka,Farmer,1747782784
+Road Traffic Accident (RTA),24,Yeasmin Begum,15.01.003611.01,Badsha,34,F,M,Dhaka,Housewife,1816347943
+Road Traffic Accident (RTA),25,Khalid Bin Walid,15.01.003908.01,Abul Kalam,18,M,Si,Barisal,Student,1198208027
+Road Traffic Accident (RTA),26,Kawser,15.01.004244.01,Late A Rashid,18,M,Si,Cox’s Bazar,Not Applicable,1827051369
+Road Traffic Accident (RTA),27,Md. Habibur Rahman,15.01.004310.01,Late. Junab Ali,45,M,M,Dhaka,Not Applicable,1724538055
+Road Traffic Accident (RTA),28,Shamim,15.01.004474.01,Nazim Uddin,20,M,Si,Netrokona,Student,1720610302
+Road Traffic Accident (RTA),29,Ripon,15.01.004724.01,Late Zinnat Ali,35,M,M,Chandpur,Businessman,1711033905
+Road Traffic Accident (RTA),30,Md Faruk,15.01.004800.01,Sha Alam,37,M,M,Chittagong,Not Applicable,1832761767
+Road Traffic Accident (RTA),31,Imran,15.01.004907.01,Dulal Miah,15,M,Si,Dhaka,Student,1918936194
+Road Traffic Accident (RTA),32,Jhorna,15.01.004962.01,Late. A. Gofur,14,F,Si,Netrokona,Not Applicable,1840151202
+Road Traffic Accident (RTA),33,Mahbubur Rahaman,15.01.005399.01,Kholilur,32,M,M,Gaibandha,Non-Govt. Service Holder,1724057589
+Road Traffic Accident (RTA),34,Md. Al-Amin Mollah,15.01.005615.01,Abul Basher Mollah,28,M,Si,Barguna,Daily Labour,1939758956
+Road Traffic Accident (RTA),35,Bacchu Mia,15.01.006208.01,Late Zobed Ali,55,M,M,Manikgonj,Not Applicable,1825776640
+Road Traffic Accident (RTA),36,Ahmed Nabi,15.01.006211.01,Hamid Box,38,M,M,Chittagong,Not Applicable,1778021215
+Road Traffic Accident (RTA),37,Mokseda Akter,15.01.006216.01,Moklasur Rahman,12,F,Si,Dhaka,Not Applicable,1914490968
+Road Traffic Accident (RTA),38,Amran Hossain Pias,15.01.006274.01,Zohirul Islam,6,M,Si,Noakhali,Not Applicable,1843409779
+Road Traffic Accident (RTA),39,Shahidul Islam,15.01.006959.01,Abdul Malek,30,M,M,Dhaka,Non-Govt. Service Holder,1814350890
+Road Traffic Accident (RTA),40,Md. Abul Kalam,15.01.007204.01,Nador Ali,28,M,M,Lakshmipur,Not Applicable,1774806028
+Road Traffic Accident (RTA),41,Shifat,15.01.007360.01,Lokman,18,M,Si,Dhaka,Not Applicable,1625339591
+Road Traffic Accident (RTA),42,Ria,15.01.007437.01,Aminur Rahman,22,F,Si,Thakurgaon,Not Applicable,1712464846
+Road Traffic Accident (RTA),43,Rabiul Islam,15.01.007458.01,Abdullah Zoadder,27,M,M,Khulna,Not Applicable,1917955750
+Road Traffic Accident (RTA),44,Md. Lablu Mridha,15.01.007466.01,Rahaman,27,M,M,Bagerhat,Not Applicable,1738680362
+Road Traffic Accident (RTA),45,Ekram Hossan,15.01.007475.01,Mintu Mia,23,F,Si,Brahmanbaria,Not Applicable,1732971078
+Road Traffic Accident (RTA),46,Raisa,15.01.007698.01,Md Dildarul Alom,11,F,Si,Dhaka,Not Applicable,1775847073
+Road Traffic Accident (RTA),47,Samsul Alom,15.01.007807.01,Faridur Rahman,42,M,M,Comilla,Not Applicable,1932787513
+Road Traffic Accident (RTA),48,Ershad,15.01.007977.01,Abul Kasem,28,M,M,Dhaka,Not Applicable,1740268207
+Road Traffic Accident (RTA),49,Faruk Akter,15.01.008417.01,Sakender Ali,38,M,M,Nowgaon,Not Applicable,1972002211
+Road Traffic Accident (RTA),50,Billal Hossain Md.,15.01.008654.01,Kelamuddin Dewan,45,M,M,Manikgonj,Not Applicable,171704452
+Road Traffic Accident (RTA),51,Maliha Jahan Kona,15.01.009223.01,A. Kadir,18,F,Si,Dhaka,Not Applicable,1818307171
+Road Traffic Accident (RTA),52,Khalil,15.01.009871.01,Md Suruj Ali,25,M,M,Jamalpur,Driver,1930640216
+Road Traffic Accident (RTA),53,Raton,15.01.009941.01,Diranro,46,M,M,Dhaka,Businessman,1746260935
+Road Traffic Accident (RTA),54,Saifullah Mia,15.01.010009.01,A Motin,38,M,M,Noakhali,Not Applicable,1814891206
+Road Traffic Accident (RTA),55,Kaisar Ahmed,15.01.010614.01,Yeunus Ali,25,M,Si,Habiganj,Not Applicable,1732544908
+Road Traffic Accident (RTA),56,Taposh,15.01.010752.01,Brojo,35,M,M,Comilla,Service holder,1922877043
+Road Traffic Accident (RTA),57,Abdur Razzak,15.01.010771.01,Rowshon,42,M,M,Comilla,Not Applicable,1817129409
+Road Traffic Accident (RTA),58,Anarul Islam,15.01.010793.01,Idris Ali,60,M,M,Chapai Nawabganj,Not Applicable,1727907743
+Road Traffic Accident (RTA),59,Shahidul Islam,15.01.011427.01,M,50,M,M,Chuadanga,Daily Labour,1779747616
+Road Traffic Accident (RTA),60,Sayed,15.01.011501.01,Shirajul Islam,22,M,Si,Dhaka,Student,1950042021
+Road Traffic Accident (RTA),61,Ala Uddin,15.01.011827.01,M,62,M,M,Natore,Not Applicable,1717497884
+Road Traffic Accident (RTA),62,Md. Badsha Mia,15.01.011893.01,Tosir Uddin,42,M,M,Dhaka,Not Applicable,1932716069
+Road Traffic Accident (RTA),63,Moudud Ahmed,15.01.011966.01,Yeasin,35,M,M,Lakshmipur,Not Applicable,1710897587
+Road Traffic Accident (RTA),64,Bushra,15.01.012945.01,Sofi Uddin Manik,14,F,Si,Shariatpur,Not Applicable,1740555100
+Road Traffic Accident (RTA),65,Tarof Ali Md.,15.01.012950.01,Rafiquddin,55,M,M,Manikgonj,Farmer,1720229869
+Road Traffic Accident (RTA),66,Abdur Razzak Mollah,15.01.013645.01,Late Yaed Ali Mollah,70,M,M,Tangail,Non-Govt. Service Holder,1786162406
+Road Traffic Accident (RTA),67,Mr Omar Faruk,15.01.013672.01,Souid Hossan,35,M,M,Cox’s Bazar,Businessman,1818980970
+Road Traffic Accident (RTA),68,Md. Abdur Rashid,15.01.013714.01,Late Fotah Ali Biswas,42,M,M,Chuadanga,Not Applicable,1948801197
+Road Traffic Accident (RTA),69,Nur Nabi Md.,15.01.013718.01,Mojibur Rahman,23,M,M,Khulna,Driver,1942550155
+Road Traffic Accident (RTA),70,Md. Ikram Hosain,15.01.014297.01,Md. Haji Nazim Uddin,35,M,M,Comilla,Not Applicable,1713629965
+Road Traffic Accident (RTA),71,Salauddin Md.,15.01.014357.01,Siddiqur Rahman,28,M,M,Dhaka,Non-Govt. Service Holder,1622702019
+Road Traffic Accident (RTA),72,Fazle Rahman,15.01.014602.01,Aher Ali Shekh,40,M,M,Sirajganj,Service holder,1751177412
+Road Traffic Accident (RTA),73,Hasan,15.01.014603.01,Fazal Fakir,18,M,Si,Manikgonj,Daily Labour,1816006480
+Road Traffic Accident (RTA),74,Raju,15.01.014761.01,Gokul,25,M,M,Kushtia,Not Applicable,1719478848
+Road Traffic Accident (RTA),75,Sujon Miah Md.,15.01.014770.01,Samsuddin,35,M,M,Netrokona,Daily Labour,1714734533
+Road Traffic Accident (RTA),76,Salam,15.01.015070.01,Akabbar Fakir,45,M,M,Sirajganj,Rickshaw Puller,1834352048
+Road Traffic Accident (RTA),77,Naiem,15.01.015761.01,Alal,16,M,Si,Dhaka,Not Applicable,1715840858
+Road Traffic Accident (RTA),78,Md Faruk,15.01.016098.01,A Mannan,35,M,M,Dhaka,Businessman,1732152676
+Road Traffic Accident (RTA),79,Shafikul Islam,15.01.016228.01,Amir Hamza,40,M,M,Dhaka,Not Applicable,1715523103
+Road Traffic Accident (RTA),80,Md Jubaiyer Hosain,15.01.016336.01,Suja Bhuyain,25,M,Si,Lakshmipur,Not Applicable,18439696
+Road Traffic Accident (RTA),81,Mukles Sikder,15.01.016458.01,Ali Ahmed Sikder,40,M,M,Madaripur,Farmer,1771997534
+Road Traffic Accident (RTA),82,Md A Salam,15.01.016625.01,Late Samsur Rahman Mollah,45,M,M,Satkhira,Driver,1747782639
+Road Traffic Accident (RTA),83,Shakh Torikul Islam,15.01.016874.01,Shakh Bodruzzaman,33,M,M,Satkhira,Not Applicable,1727908341
+Road Traffic Accident (RTA),84,Almgir Hossain,15.01.016962.01,Dudu Miah,26,M,M,Bogra,Not Applicable,1719829275
+Road Traffic Accident (RTA),85,Jahangir Alom,15.01.017242.01,Moinuddin,19,M,M,Tangail,Not Applicable,1845621664
+Road Traffic Accident (RTA),86,Kamruzzaman Siddiki,15.01.017489.01,Late Nasir Uddin,50,M,M,Jessore,Not Applicable,1769017010
+Road Traffic Accident (RTA),87,Fatik Miah,15.01.017641.01,Late Foizuddin,50,M,M,Tangail,Not Applicable,1718181952
+Road Traffic Accident (RTA),88,Abdur Rashid,15.01.017935.01,A Kashem,30,M,M,Patuakhali,Not Applicable,1798468637
+Road Traffic Accident (RTA),89,Md Mamun,15.01.018238.01,X,23,M,Si,Pabna,Not Applicable,1712242446
+Road Traffic Accident (RTA),90,Ful Mala,15.01.018406.01,Sorhab Uddin,30,F,M,Manikgonj,Not Applicable,1710068482
+Road Traffic Accident (RTA),91,Rashid,15.01.018496.01,Bayezed Ali,25,M,M,Sherpur,Farmer,1913063571
+Road Traffic Accident (RTA),92,Ershad,15.01.018775.01,Edat Ullah,25,M,M,Kishoreganj,Not Applicable,1715459115
+Road Traffic Accident (RTA),93,Puspo,15.01.018855.01,Yesin,19,F,Si,Chuadanga,Not Applicable,1921172504
+Road Traffic Accident (RTA),94,Alauddin,15.01.018857.01,Late A Kader,28,M,M,Dhaka,Businessman,1710252419
+Road Traffic Accident (RTA),95,Mohidul Islam,15.01.018891.01,Ful Miah,30,M,M,Gopalganj,Not Applicable,1735023844
+Road Traffic Accident (RTA),96,Vutto,15.01.018897.01,Late Ali Sheikh,35,M,M,Manikgonj,Farmer,1770112809
+Road Traffic Accident (RTA),97,Faruk Sarker,15.01.018904.01,A Rahman,25,M,Si,Gazipur,Not Applicable,1799925628
+Road Traffic Accident (RTA),98,Don Miah,15.01.018949.01,Jahed Ali,42,M,Si,Comilla,Not Applicable,1814359494
+Road Traffic Accident (RTA),99,Rafiqule Islam,15.01.019066.01,Late. Sahad Ali,60,M,M,Narsingdi,Not Applicable,1792078985
+Road Traffic Accident (RTA),100,Kazi Abdul Mannan,15.01.019250.01,X,65,M,M,Bogra,Retired,1713805559
+Road Traffic Accident (RTA),101,Abdus Sattar,15.01.019308.01,Late Kazumuddin,50,M,M,Manikgonj,Not Applicable,1969512243
+Road Traffic Accident (RTA),102,Milon,15.01.019313.01,A Shek,40,M,M,Kushtia,Not Applicable,1892393350
+Road Traffic Accident (RTA),103,Rajib Sorker,15.01.019506.01,L Ram Jibon Sorker,30,M,M,Narayanganj,Businessman,1676589392
+Road Traffic Accident (RTA),104,Gobindo Mondol,15.01.019580.01,Horan Mondol,42,M,M,Faridpur,Not Applicable,1727653713
+Road Traffic Accident (RTA),105,Romij Uddin,15.01.019682.01,Najim Uddin,21,M,Si,Noakhali,Not Applicable,1859841693
+Road Traffic Accident (RTA),106,Saiful Islam,15.01.019852.01,X,45,M,M,Jessore,Not Applicable,1776237204
+Road Traffic Accident (RTA),107,Abdur Razzak,15.01.019956.01,Late. Md. Shafiuddin,50,M,M,Meherpur,Not Applicable,1734514908
+Road Traffic Accident (RTA),108,Anower Hassain,15.01.020028.01,Eddis Ali,41,M,M,Narsingdi,Not Applicable,1856478800
+Road Traffic Accident (RTA),109,Anowarul Sarker,15.01.020248.01,Md Sowkot Sorker,29,M,M,Brahmanbaria,Not Applicable,1718588543
+Road Traffic Accident (RTA),110,Md Ibrahim Sek,15.01.020474.01,Md Korim Sek,16,M,Si,Munshiganj,Not Applicable,10000
+Road Traffic Accident (RTA),111,Abdul Goni,15.01.020506.01,Md. Sobhan Munshi,40,M,M,Tangail,Not Applicable,1949968578
+Road Traffic Accident (RTA),112,Jabbar Ali,15.01.020719.01,Late. Anisur Rahman,40,M,M,Chapai Nawabganj,Farmer,1733191158
+Road Traffic Accident (RTA),113,Sabuj Mia,15.01.020938.01,A Hossan,4,M,Si,Manikgonj,Not Applicable,1840508886
+Road Traffic Accident (RTA),114,Ripon,15.01.021241.01,Tofiz Sheik,35,M,M,Pabna,Not Applicable,1727416657
+Road Traffic Accident (RTA),115,Hafizur Rahman,15.01.021245.01,Mufazzal,29,F,M,Sherpur,Not Applicable,1933718921
+Road Traffic Accident (RTA),116,Nasir Uddin,15.01.021247.01,Sultan Ali,40,M,M,Gazipur,Not Applicable,1920849779
+Road Traffic Accident (RTA),117,Tomal,15.01.021505.01,Nazrul Islam,22,M,Si,Chuadanga,Not Applicable,1725702500
+Road Traffic Accident (RTA),118,A. Mannan,15.01.021636.01,Latye. Ahmed Bhuyan,63,M,M,Noakhali,Govt. Service Holder,1949072509
+Road Traffic Accident (RTA),119,Monju Pal,15.01.021712.01,Monindo Pal,60,M,M,Habiganj,Not Applicable,1721968715
+Road Traffic Accident (RTA),120,Md. Ukil,15.01.021732.01,Moslem Uddin,21,M,M,Jamalpur,Not Applicable,1949945902
+Road Traffic Accident (RTA),121,Adam Ali,15.01.022117.01,Abbas Ali,28,M,M,Tangail,Daily Labour,1713538388
+Road Traffic Accident (RTA),122,Sanwar Hossain,15.01.022615.01,Entaz Mollah,40,M,M,Dhaka,Not Applicable,1764101249
+Road Traffic Accident (RTA),123,Sadik Md.,15.01.022836.01,Yousuf Ali,45,M,M,Brahmanbaria,Service holder,1729422223
+Road Traffic Accident (RTA),124,Ibrahim,15.01.023043.01,Mulok Chan,45,M,M,Shariatpur,Not Applicable,1967508487
+Road Traffic Accident (RTA),125,Abul Kalam Azad,15.01.023291.01,Late Sabuzuddin Jamardeer,41,M,M,Barisal,Not Applicable,1731169996
+Road Traffic Accident (RTA),126,Nomita Rani,15.01.024081.01,X,28,F,M,Kishoreganj,Housewife,1744492452
+Road Traffic Accident (RTA),127,Md Mohosin Moillik,15.01.024301.01,Late Mohomod,36,M,M,Dhaka,Govt. Service Holder,1711568336
+Road Traffic Accident (RTA),128,Robiul Islam,15.01.024323.01,Late Mannaf,23,M,Si,Dhaka,Daily Labour,1928915158
+Road Traffic Accident (RTA),129,Sagor Md.,15.01.024631.01,Mohammad Ali,18,M,Si,Dhaka,Not Applicable,1739190541
+Road Traffic Accident (RTA),130,Likhon Kuvi,15.01.025183.01,Bhula Nath,45,M,M,Dhaka,Businessman,197732473
+Road Traffic Accident (RTA),131,Md Babul,15.01.025337.01,Rostom Ali,48,M,M,Dhaka,Retired,1719519505
+Road Traffic Accident (RTA),132,Hasi Khatun,15.01.025571.01,X,36,F,M,Kushtia,Not Applicable,1752632524
+Road Traffic Accident (RTA),133,Md. Nasir,15.01.026195.01,Rozzob Ali,45,M,M,Bhola,Not Applicable,1626844231
+Road Traffic Accident (RTA),134,Nur Uddin,15.01.026406.01,Belayet Laskor,35,M,M,Pabna,Not Applicable,1716076210
+Road Traffic Accident (RTA),135,Al-Amin,15.01.026424.01,Yousuf Ali,22,M,Si,Brahmanbaria,Not Applicable,1759126865
+Road Traffic Accident (RTA),136,Md. Alam Mondal,15.01.026526.01,Joynuddin Mondol,50,M,M,Tangail,Not Applicable,1787806998
+Road Traffic Accident (RTA),137,Nazrul Islam,15.01.027336.01,A Ohab,50,M,M,Bhola,Businessman,1716608864
+Road Traffic Accident (RTA),138,Shafiul Kadir Rubel,15.01.027378.01,Fazlul Haque,25,M,Si,Chittagong,Not Applicable,1824978279
+Road Traffic Accident (RTA),139,Shapon Kumar Das,15.01.027404.01,Jogesf,45,M,M,Bogra,Not Applicable,1711573466
+Road Traffic Accident (RTA),140,Kali Choron Das,15.01.027485.01,Moni Mohon Das,62,M,M,Dhaka,Not Applicable,1728580573
+Road Traffic Accident (RTA),141,Sayed Ali,15.01.027631.01,A Jabber,31,M,M,Narsingdi,Not Applicable,1956569052
+Road Traffic Accident (RTA),142,Rofiql Islam,15.01.027646.01,A. Kuddus Mia,45,M,M,Mymensingh,Not Applicable,1723171892
+Road Traffic Accident (RTA),143,Johorul Islam,15.01.027752.01,Moslem Uddin,44,M,M,Kushtia,Not Applicable,1716139688
+Road Traffic Accident (RTA),144,Mamun,15.01.027933.01,A Rohim,26,M,Si,Dhaka,Not Applicable,1914640283
+Road Traffic Accident (RTA),145,Manik,15.01.028264.01,Abid Ali,40,M,M,Narsingdi,Not Applicable,1815703427
+Road Traffic Accident (RTA),146,Manik,15.01.028317.01,X,22,M,M,Lakshmipur,Not Applicable,1875246646
+Road Traffic Accident (RTA),147,Shamsuddin,15.01.028661.01,Nabab Mia,61,M,M,Narayanganj,Not Applicable,1964358565
+Road Traffic Accident (RTA),148,Shapon Chandra,15.01.028988.01,Gobinda,35,M,M,Dhaka,Not Applicable,1878797514
+Road Traffic Accident (RTA),149,Md. Abul Kalam,15.01.029010.01,Rojob Ali,35,M,M,Bagerhat,Driver,1843497548
+Road Traffic Accident (RTA),150,Mamunur Rashid,15.01.029130.01,Habibur Rahman,34,M,M,Sylhet,Not Applicable,1747468978
+Road Traffic Accident (RTA),151,Kamruzzaman,15.01.029252.01,Ashraf,41,M,M,Dhaka,Businessman,1852338701
+Road Traffic Accident (RTA),152,Bul Bul Ahmed,15.01.029264.01,Late A Mojid Howlader,45,M,M,Jhalokathi,Farmer,1717841871
+Road Traffic Accident (RTA),153,Lal Mia,15.01.030158.01,Lat Bahaz,40,M,M,Tangail,Not Applicable,1719881454
+Road Traffic Accident (RTA),154,Yearun,15.01.030269.01,Abdul Hamid Uddin,45,M,M,Madaripur,Not Applicable,1721087837
+Road Traffic Accident (RTA),155,Samsul Huda,15.01.030335.01,Moshref Hossain,30,M,M,Dinajpur,Not Applicable,1727997604
+Road Traffic Accident (RTA),156,Babul,15.01.030495.01,Karim Miah,28,M,M,Tangail,Businessman,1716800341
+Road Traffic Accident (RTA),157,Md Saidul Islam,15.01.030766.01,A Jolil,26,M,Si,Dhaka,Driver,1711017446
+Road Traffic Accident (RTA),158,Momtaz Begum,15.01.030921.01,X,57,F,M,Jessore,Housewife,1925538038
+Road Traffic Accident (RTA),159,Toffazal Hossain,15.01.031108.01,Maiz Uddin,40,M,M,Sunamganj,Not Applicable,1798666535
+Road Traffic Accident (RTA),160,Md Ripon Molla,15.01.031660.01,Md Atahar Molla,26,M,M,Barisal,Not Applicable,1924359753
+Road Traffic Accident (RTA),161,Awlad Hossain Mr.,15.01.032343.01,Kafiluddin Bapari,48,M,M,Manikgonj,Not Applicable,1918300376
+Road Traffic Accident (RTA),162,Jahanara,15.01.032525.01,Vx,30,F,M,Tangail,Not Applicable,1725467739
+Road Traffic Accident (RTA),163,Biplop,15.01.032777.01,Nogendro Chondro Day,45,M,M,Mymensingh,Driver,1723262606
+Road Traffic Accident (RTA),164,Abdur Rashid Md.,15.01.032859.01,Hasen Ali,40,M,M,Dhaka,Not Applicable,1722121334
+Road Traffic Accident (RTA),165,Abdul Kader,15.01.032888.01,Late Mofiz Uddin,45,F,M,Natore,Not Applicable,1734218123
+Road Traffic Accident (RTA),166,Nayan Mr.,15.01.033013.01,Mohammad Ali,12,M,Si,Dhaka,Not Applicable,1918495688
+Road Traffic Accident (RTA),167,Tariqul Islam,15.01.033027.01,Amir Hosain,13,M,Si,Munshiganj,Not Applicable,1732681238
+Road Traffic Accident (RTA),168,Lipi Akter Mrs.,15.01.033074.01,Barekm Miah,31,F,M,Dhaka,Not Applicable,1763434511
+Road Traffic Accident (RTA),169,Hazi Sale Ahmed,15.01.033717.01,Md Ishak,75,M,M,Feni,Not Applicable,1816944372
+Road Traffic Accident (RTA),170,Sweety,15.01.033815.01,X,20,F,M,Barisal,Housewife,1791039321
+Road Traffic Accident (RTA),171,Sahaalam Md.,15.01.034020.01,Badsha Kazi,30,M,M,Dhaka,Not Applicable,1775351131
+Road Traffic Accident (RTA),172,Faruk,15.01.034062.01,Late Mohobbat Ali,50,M,M,Pirojpur,Non-Govt. Service Holder,1713952230
+Road Traffic Accident (RTA),173,Joy Saha,15.01.034532.01,Jibon,21,M,Si,Dhaka,Service holder,1732681238
+Road Traffic Accident (RTA),174,Hamida,15.01.034578.01,X,45,F,M,Shariatpur,Not Applicable,1819488594
+Road Traffic Accident (RTA),175,Rozina Begum,15.01.034937.01,Md Akbar Ali,22,F,Si,Kurigram,Not Applicable,1723399393
+Road Traffic Accident (RTA),176,Zelani,15.01.034984.01,Ruhul Amin,24,M,Si,Comilla,Not Applicable,1770681314
+Road Traffic Accident (RTA),177,Komol Bosak,15.01.035058.01,Sree Narayan Chandra Bosak,52,M,M,Mymensingh,Businessman,1712846742
+Road Traffic Accident (RTA),178,Batashi Mrs.,15.01.035067.01,Keramat Ali,30,F,M,Dhaka,Not Applicable,1717069281
+Road Traffic Accident (RTA),179,Lipi,15.01.035668.01,\,30,F,M,Tangail,Housewife,1742848116
+Road Traffic Accident (RTA),180,Bayzid,15.01.035815.01,Harun Or Rashid,25,M,Si,Barisal,Not Applicable,1712410389
+Road Traffic Accident (RTA),181,Abdul Hanif Md.,15.01.035817.01,Moniruddin,43,M,M,Jessore,Not Applicable,1716464350
+Road Traffic Accident (RTA),182,Rassel Md.,15.01.035933.01,Md. Younus,28,M,Si,Chittagong,Service holder,1817760239
+Road Traffic Accident (RTA),183,Abdul Gofur,15.01.035971.01,Khairat Ali,35,M,M,Thakurgaon,Businessman,1767322039
+Road Traffic Accident (RTA),184,Ali,15.01.036049.01,Golam Sarwar,28,M,Si,Noakhali,Not Applicable,1718304696
+Road Traffic Accident (RTA),185,Kamrul Hasan,15.01.036068.01,Abul Kalam,25,M,M,Comilla,Not Applicable,1817591931
+Road Traffic Accident (RTA),186,Rezaul Karim Md.,15.01.036184.01,Late Afiluddin,55,M,M,Khulna,Not Applicable,1717874862
+Road Traffic Accident (RTA),187,Md. Gias Uddin,15.01.036231.01,Late. Gadu Mollah,55,M,M,Manikgonj,Not Applicable,1768810132
+Road Traffic Accident (RTA),188,Babon Sordar,15.01.036329.01,Tousuf Sardar,50,F,M,Magura,Not Applicable,1863507806
+Road Traffic Accident (RTA),189,Fatema Begum,15.01.036469.01,Abu Saied,14,F,Si,Chapai Nawabganj,Not Applicable,1721797400
+Road Traffic Accident (RTA),190,Shajedul Islam,15.01.036602.01,Osman Goni,24,M,M,Jhenaidah,Service holder,1716875015
+Road Traffic Accident (RTA),191,Rubel Hossain Md.,15.01.037103.01,Khosh Mohammad,30,M,M,Chapai Nawabganj,Farmer,1705995519
+Road Traffic Accident (RTA),192,Aminul Islam,15.01.037806.01,X,60,M,M,Dhaka,Not Applicable,1912469213
+Road Traffic Accident (RTA),193,Abdul Hamid Mr.,15.01.037973.01,Hafez Abdul Quddus,80,M,M,Dhaka,Not Applicable,1742315262
+Road Traffic Accident (RTA),194,Md. Khokon,15.01.038045.01,Gul Mohammad,28,M,M,Jamalpur,Not Applicable,1731934212
+Road Traffic Accident (RTA),195,Shahidul Islam,15.01.038153.01,Late Ansar Uddin,62,M,M,Magura,Not Applicable,1716520220
+Road Traffic Accident (RTA),196,Jahir Ahmed,15.01.038214.01,A Hai,35,M,M,Khulna,Not Applicable,1937560898
+Road Traffic Accident (RTA),197,Dulal Saikh Md.,15.01.038299.01,Duha Saikh,34,M,M,Sirajganj,Not Applicable,1742594875
+Road Traffic Accident (RTA),198,Johir,15.01.038390.01,Joinal,39,F,M,Comilla,Not Applicable,1817507937
+Road Traffic Accident (RTA),199,A.H.M Jahangir Alam,15.01.038526.01,Abdus Sattar,36,M,M,Gazipur,Not Applicable,1835034536
+Road Traffic Accident (RTA),200,Jinnah Mr.,15.01.038570.01,Siddiqur Rahman,30,M,M,Comilla,Not Applicable,1914816051
+Road Traffic Accident (RTA),201,Monniruzzaman,15.01.038609.01,Nazrul Islam,24,M,Si,Jessore,Govt. Service Holder,1925217713
+Road Traffic Accident (RTA),202,Akkas Ali,15.01.038732.01,Aynal Bapari,42,M,M,Manikgonj,Driver,1924512449
+Road Traffic Accident (RTA),203,Motiur Rahman,16.01.000255.01,Johor Ali,25,M,M,Mymensingh,Not Applicable,1709503312
+Road Traffic Accident (RTA),204,Keshob Sarker,16.01.000343.01,Bijoy Sarker,23,M,Si,Habiganj,Not Applicable,1732880673
+Road Traffic Accident (RTA),205,Roni Ahmed,16.01.000410.01,Shahajan,16,M,Si,Dhaka,Not Applicable,1980779320
+Road Traffic Accident (RTA),206,Sumon Sikder,16.01.000627.01,Md Ali,30,M,M,Jhalokathi,Driver,1950859889
+Road Traffic Accident (RTA),207,Mohsin Kabir Mr.,16.01.000741.01,Late Haji Md. Akkas,28,M,Si,Dhaka,Not Applicable,1772885548
+Road Traffic Accident (RTA),208,Rafikul Islam,16.01.000832.01,Mosharaf Hossan,27,M,M,Dhaka,Not Applicable,1959983176
+Road Traffic Accident (RTA),209,Nur Alam,16.01.001109.01,Yousuf Ali,22,M,M,Netrokona,Farmer,1911015329
+Road Traffic Accident (RTA),210,Shofikul Islam Shanto,16.01.001341.01,A Kuddus,25,M,M,Pabna,Service holder,1705707476
+Road Traffic Accident (RTA),211,Nipa,16.01.001472.01,Imtiaz Uddin,23,F,M,Dhaka,Not Applicable,1682821671
+Road Traffic Accident (RTA),212,Taleb Ali,16.01.001565.01,Late Josim Uddin,50,M,M,Sherpur,Not Applicable,1718951342
+Road Traffic Accident (RTA),213,Hafiz Md Babul Hossain,16.01.001854.01,Lat Shahab Uddin,38,M,M,Narayanganj,Not Applicable,1980400838
+Road Traffic Accident (RTA),214,Towfiqur Rahman,16.01.001904.01,Nur Mohammad,20,M,Si,Nowgaon,Student,161330734
+Road Traffic Accident (RTA),215,Joy Chad,16.01.001968.01,Sadhon Chandra,47,M,M,Dhaka,Not Applicable,1794723773
+Road Traffic Accident (RTA),216,Md. Asaduzzaman,16.01.002014.01,A. Aziz,45,M,M,Dhaka,Businessman,1725001420
+Road Traffic Accident (RTA),217,Mr. Shahajahan Ali,16.01.002134.01,Jalal Shekh,55,M,M,Sirajganj,Not Applicable,1720675945
+Road Traffic Accident (RTA),218,Kuddus Sorder,16.01.002268.01,Mutalab,45,M,M,Barisal,Driver,1718670975
+Road Traffic Accident (RTA),219,Md. Turap Shek,16.01.002316.01,Md. Sadon Shek,55,M,M,Faridpur,Not Applicable,1927813036
+Road Traffic Accident (RTA),220,Md Razu,16.01.002561.01,Nur Uddin,27,M,M,Lakshmipur,Service holder,1711781648
+Road Traffic Accident (RTA),221,Kamruzzaman,16.01.002675.01,Lat Nasir Uddin,50,M,M,Jessore,Not Applicable,1740642082
+Road Traffic Accident (RTA),222,Bazlur Rahman,16.01.002798.01,Katib Ali,50,M,M,Brahmanbaria,Not Applicable,1954855736
+Road Traffic Accident (RTA),223,Md Arif,16.01.002802.01,Yeakub Ali,22,M,M,Sherpur,Not Applicable,1829034928
+Road Traffic Accident (RTA),224,Babul,16.01.002991.01,Abdul Mozid,40,M,M,Lakshmipur,Not Applicable,1991230505
+Road Traffic Accident (RTA),225,Mohammad Moinuddin,16.01.003093.01,Md Shahab Uddin,33,M,M,Noakhali,Businessman,1825997637
+Road Traffic Accident (RTA),226,Sayed Amir Ali,16.01.003180.01,Sayde,65,M,M,Dhaka,Not Applicable,1712509550
+Road Traffic Accident (RTA),227,Dulal Sikder,16.01.003607.01,Motahar Ali Sikder,52,M,M,Jhalokathi,Not Applicable,1911186348
+Road Traffic Accident (RTA),228,Shariful Islam,16.01.003718.01,Golam Hosain,26,M,M,Meherpur,Not Applicable,1980242672
+Road Traffic Accident (RTA),229,Jakir Hosain,16.01.003819.01,A Razak,20,M,Si,Comilla,Non-Govt. Service Holder,1857680071
+Road Traffic Accident (RTA),230,Faroque Md.,16.01.004145.01,Chan Miah,25,M,Si,Noakhali,Not Applicable,1726771032
+Road Traffic Accident (RTA),231,Suruj Ali,16.01.004528.01,Rojob Ali,40,M,M,Mymensingh,Not Applicable,1929989312
+Road Traffic Accident (RTA),232,Saidur Rahman,16.01.004955.01,Late Shaeb Ullah,70,M,M,Gaibandha,Retired,1978333300
+Road Traffic Accident (RTA),233,Abul Hosain,16.01.005165.01,Late A Sobhan,30,M,M,Comilla,Businessman,1839621922
+Road Traffic Accident (RTA),234,Omar Faruk,16.01.005178.01,Mostafa Kamal,23,M,Si,Comilla,Not Applicable,1825965048
+Road Traffic Accident (RTA),235,Abdur Rob,16.01.005507.01,Musa Mia,60,M,M,Bhola,Not Applicable,1959977350
+Road Traffic Accident (RTA),236,Rimon,16.01.005831.01,Mozaffor Rahman,26,M,Si,Bogra,Not Applicable,1725674125
+Road Traffic Accident (RTA),237,Atowar Hossain,16.01.005925.01,Josim Uddin,34,M,M,Dhaka,Not Applicable,1714909234
+Road Traffic Accident (RTA),238,Mostakim,16.01.006049.01,Mojammel,16,M,Si,Joypurhat,Not Applicable,1928395493
+Road Traffic Accident (RTA),239,Momtaj Uddin,16.01.006214.01,Gias Uddin,54,M,M,Jamalpur,Not Applicable,1982524738
+Road Traffic Accident (RTA),240,Nipendro Mojumder,16.01.006270.01,Sushin Kumar,37,M,M,Dhaka,Not Applicable,1986891409
+Road Traffic Accident (RTA),241,Apu Mr.,16.01.006465.01,Nawshed Ali,26,M,Si,Sherpur,Not Applicable,1672635158
+Road Traffic Accident (RTA),242,Saidur Rahman Md.,16.01.006691.01,Md. Nur Hossain,20,M,Si,Dhaka,Student,1714004172
+Road Traffic Accident (RTA),243,Jakir Hossain,16.01.006717.01,Harun Or Rashid,45,M,M,Barisal,Not Applicable,1611148348
+Road Traffic Accident (RTA),244,Ziaul Haque,16.01.007157.01,Mofizul Haque,37,M,M,Chandpur,Not Applicable,1913757775
+Road Traffic Accident (RTA),245,Md. Didarul Alom,16.01.007279.01,A.K.M. Mohiuddin,46,M,M,Bagerhat,Not Applicable,1767789960
+Road Traffic Accident (RTA),246,Parvez Mia,16.01.007294.01,Gias Uddin,23,M,Si,Brahmanbaria,Not Applicable,1815150604
+Road Traffic Accident (RTA),247,A Rahman,16.01.007612.01,A Latif,52,M,M,Narayanganj,Not Applicable,1941414852
+Road Traffic Accident (RTA),248,Md. Sohel,16.01.007811.01,X,32,M,M,Dhaka,Not Applicable,1835324350
+Road Traffic Accident (RTA),249,Feroz Mia,16.01.007881.01,Aminul Islam,45,M,M,Mymensingh,Not Applicable,1684508250
+Road Traffic Accident (RTA),250,Md. Seraj,16.01.008188.01,Abdul Gofur Shek,40,M,M,Gopalganj,Not Applicable,1916165993
+Road Traffic Accident (RTA),251,Maznu Miah,16.01.008665.01,Ansar Miah,45,M,M,Dhaka,Rickshaw Puller,1719748624
+Road Traffic Accident (RTA),252,Israt Jahan,16.01.009388.01,Md. Earshad Hosain,45,F,M,Dhaka,Not Applicable,1711649132
+Road Traffic Accident (RTA),253,Altaf Hosain,16.01.010059.01,Late. Fozor Ali,55,M,M,Bogra,Not Applicable,1728925958
+Road Traffic Accident (RTA),254,Babu,16.01.010344.01,Omor Ali,30,M,M,Sirajganj,Not Applicable,1763958433
+Road Traffic Accident (RTA),255,Tomiz Uddin Ahmad,16.01.010351.01,Late. Mezbah Uddin Ahmad,32,M,M,Gopalganj,Not Applicable,1718419296
+Road Traffic Accident (RTA),256,Sanowara Begum,16.01.010614.01,X,48,F,M,Gazipur,Not Applicable,1969529818
+Road Traffic Accident (RTA),257,Abul Hossain,16.01.010745.01,Bodruddin,50,M,M,Dhaka,Not Applicable,1715238987
+Road Traffic Accident (RTA),258,Abdul Kader Md.,16.01.010846.01,Late. Ye?d Ali,50,M,M,Tangail,Govt. Service Holder,1756980796
+Road Traffic Accident (RTA),259,Rubel Hossain,16.01.011028.01,A. Hakim,36,M,M,Madaripur,Service holder,1713562975
+Road Traffic Accident (RTA),260,Alamin,16.01.011030.01,Alauddin,21,M,Si,Natore,Not Applicable,1719842672
+Road Traffic Accident (RTA),261,Md Shorifullah,16.01.011039.01,N,65,M,M,Noakhali,Not Applicable,1919186973
+Road Traffic Accident (RTA),262,Bristy,16.01.011191.01,A Gofur,17,F,Si,Khulna,Student,1781378639
+Road Traffic Accident (RTA),263,Milon,16.01.011889.01,Yeasuf Ffakir,35,M,M,Jhalokathi,Not Applicable,1627145909
+Road Traffic Accident (RTA),264,Joynal Abedin,16.01.012876.01,Hamed Ali,23,M,Si,Gaibandha,Not Applicable,1717088446
+Road Traffic Accident (RTA),265,Asma Akter,16.01.012967.01,Ibrahim,42,F,M,Tangail,Housewife,1734485737
+Road Traffic Accident (RTA),266,Jahangir Alam,16.01.013252.01,A. Mozid,35,M,M,Jamalpur,Service holder,1937689806
+Road Traffic Accident (RTA),267,Rahman Sarder,16.01.013409.01,Late. Dabir Sarder,45,M,M,Pabna,Not Applicable,1772937125
+Road Traffic Accident (RTA),268,Md Mamun,16.01.013428.01,Almas,23,M,M,Gazipur,Not Applicable,1985949620
+Road Traffic Accident (RTA),269,Yousuf Ali,16.01.013521.01,Habibur Rahman,30,M,M,Tangail,Not Applicable,1732130990
+Road Traffic Accident (RTA),270,Mr Jakir,16.01.013546.01,Chan Miah Jomadar,45,M,M,Chandpur,Driver,1837430411
+Road Traffic Accident (RTA),271,Atiar Rahman,16.01.014088.01,Shahid Sek,40,M,M,Bagerhat,Not Applicable,1927430262
+Road Traffic Accident (RTA),272,Md. Rasel,16.01.014120.01,Late. Labirul Islam,35,F,M,Rajshahi,Not Applicable,1756499488
+Road Traffic Accident (RTA),273,Lablu,16.01.014541.01,Md. Abdul Akand,30,M,Si,Gaibandha,Not Applicable,1796023874
+Road Traffic Accident (RTA),274,Zafor Hasan Mahmood,16.01.015294.01,Abdul Latif Khan,61,M,M,Jessore,Advocate,1774093337
+Road Traffic Accident (RTA),275,Monjurul Islam,16.01.015940.01,Sirajul Islam,35,M,M,Mymensingh,Not Applicable,1723304497
+Road Traffic Accident (RTA),276,Sadekul Islam,16.01.016841.01,A Khalek,40,M,M,Tangail,Not Applicable,1717258928
+Road Traffic Accident (RTA),277,Md. Sahin,16.01.017868.01,J,25,M,Si,Chuadanga,Not Applicable,1744300629
+Road Traffic Accident (RTA),278,Robiul Khan,16.01.018133.01,Mosharrof Khan,60,M,M,Faridpur,Not Applicable,1876742408
+Road Traffic Accident (RTA),279,Bilkis Begum,16.01.018208.01,X,30,F,M,Manikgonj,Not Applicable,1732577666
+Road Traffic Accident (RTA),280,Asif Iqbal Chowdhury,16.01.018868.01,Rowfol Chowdhury,38,M,M,Dhaka,Not Applicable,1819203652
+Road Traffic Accident (RTA),281,Shohel Rana,16.01.019169.01,Abdul Haque,26,M,M,Faridpur,Not Applicable,1720578777
+Road Traffic Accident (RTA),282,Josim Uddin,16.01.019284.01,Late. Hakim Ali,20,M,Si,Cox’s Bazar,Not Applicable,1843112537
+Road Traffic Accident (RTA),283,Shima,16.01.019325.01,S,29,F,M,Dhaka,Not Applicable,1989434617
+Road Traffic Accident (RTA),284,Md. Eyaz Ahmad,16.01.019407.01,Late. Razi Uddin,44,M,M,Dhaka,Not Applicable,1912389646
+Road Traffic Accident (RTA),285,Nazrul,16.01.020002.01,A Rashid,26,M,M,Patuakhali,Not Applicable,1710238940
+Road Traffic Accident (RTA),286,Irfan,16.01.020309.01,Asir Uddin,28,M,M,Gaibandha,Not Applicable,1723876799
+Road Traffic Accident (RTA),287,A Rashid,16.01.020338.01,Khan,40,M,M,Rangpur,Not Applicable,1622891605
+Road Traffic Accident (RTA),288,Ridwanul Imam,16.01.020735.01,Robiyul Imam,19,M,Si,Chandpur,Not Applicable,1814983192
+Road Traffic Accident (RTA),289,Md. Suroz Ali,16.01.020960.01,Rozzob Ali,30,M,M,Mymensingh,Not Applicable,1929989312
+Road Traffic Accident (RTA),290,Chumki Begum,16.01.021117.01,Solaman Shek,30,F,M,Khulna,Not Applicable,1956128522
+Road Traffic Accident (RTA),291,Belal Hossain,16.01.021273.01,Fazlur Rahman,50,M,M,Natore,Not Applicable,1760332913
+Road Traffic Accident (RTA),292,Nurul Amin,16.01.021393.01,Abu Hanif,32,M,M,Netrokona,Not Applicable,184548766
+Road Traffic Accident (RTA),293,Shakawat Hossan,16.01.021424.01,Late Harun Or Rashid,48,M,M,Sirajganj,Not Applicable,1716213079
+Road Traffic Accident (RTA),294,Babul,16.01.021554.01,Korim Kha,40,M,M,Dhaka,Not Applicable,1959245268
+Road Traffic Accident (RTA),295,Mhedi Hassan,16.01.022023.01,Mmd Motiur Rhoman,21,M,Si,Jessore,Student,1922934496
+Road Traffic Accident (RTA),296,Laili Akter,16.01.022123.01,A Kashem Mollah,29,,,,,
+Road Traffic Accident (RTA),302,Ruhul Amin,16.01.024153.01,Haji Julfu Miah,18,M,Si,Comilla,Student,1821516013
+Road Traffic Accident (RTA),303,Shafiullah,16.01.025563.01,Abdul Kader,50,M,M,Chandpur,Not Applicable,1732461300
+Road Traffic Accident (RTA),304,Rozub Ali,16.01.025724.01,X,50,M,M,Dinajpur,Not Applicable,
+Road Traffic Accident (RTA),305,Kazi Mostafazur Rahman,16.01.025771.01,Lat Mabud,66,M,M,Chittagong,Not Applicable,1814722411
+Road Traffic Accident (RTA),306,Nazrul Islam Md.,16.01.026202.01,Abu Siddique,30,M,Si,Narsingdi,Not Applicable,1945136031
+Road Traffic Accident (RTA),307,Md Sayed Khan,16.01.026309.01,Sajahan Khan,22,M,M,Comilla,Student,1818998985
+Road Traffic Accident (RTA),308,Rezwana,16.01.026431.01,Sekh Rabiul Islam,20,F,Si,Khulna,Student,1556337941
+Road Traffic Accident (RTA),309,Monju Miya,16.01.026461.01,Dullal Miya,28,M,M,Mymensingh,Not Applicable,1730066138
+Road Traffic Accident (RTA),310,Julakha Begum,16.01.026522.01,X,35,F,M,Gopalganj,Not Applicable,1746128813
+Road Traffic Accident (RTA),311,Kamrul Shakh,16.01.026781.01,Rawshon Shakh,40,M,M,Gopalganj,Not Applicable,1937114252
+Road Traffic Accident (RTA),312,Sourov,16.01.026841.01,Monor Uddin,10,M,Si,Dhaka,Not Applicable,1733292389
+Road Traffic Accident (RTA),313,Md. Rofiqul Islam,16.01.027254.01,Late. Tomiz Uddin,50,M,M,Joypurhat,Not Applicable,1753455465
+Road Traffic Accident (RTA),314,Khokon Miah,16.01.027282.01,Billal Miah,30,M,Si,Dhaka,Not Applicable,1818982674
+Road Traffic Accident (RTA),315,Sultan Md.,16.01.027534.01,X,45,M,M,Gazipur,Not Applicable,1984501370
+Road Traffic Accident (RTA),316,Mizanur Rahman,16.01.027724.01,X,40,M,M,Dhaka,Not Applicable,1717579279
+Road Traffic Accident (RTA),317,Mamun,16.01.028436.01,Shazal Sarder,30,M,M,Narayanganj,Not Applicable,1687674901
+Road Traffic Accident (RTA),318,Enayed Hossin,16.01.028457.01,X,16,M,Si,Comilla,Not Applicable,1874523828
+Road Traffic Accident (RTA),319,Yesmin,16.01.028581.01,C,31,F,M,Manikgonj,Not Applicable,1742242379
+Road Traffic Accident (RTA),320,Ainal,16.01.029084.01,Samsul,30,M,M,Tangail,Not Applicable,1983244476
+Road Traffic Accident (RTA),321,Kabir Hossain Md.,16.01.029567.01,Abul Bashar,45,M,M,Lakshmipur,Not Applicable,1715482720
+Road Traffic Accident (RTA),322,Mahabub Alam,16.01.030208.01,Dudu Miya,35,M,M,Cox’s Bazar,Not Applicable,1845101376
+Road Traffic Accident (RTA),323,Ariful Islam,16.01.030333.01,Sahadat,19,M,M,Sirajganj,Not Applicable,1743168231
+Road Traffic Accident (RTA),324,Abdul Hai,16.01.030428.01,Somed Ali,20,M,Si,Tangail,Not Applicable,1720684563
+Road Traffic Accident (RTA),325,Shofikul Haque,16.01.030483.01,Foyjur Rahman,30,M,M,Sylhet,Not Applicable,1741233296
+Road Traffic Accident (RTA),326,Bellal,16.01.030849.01,Usuf,50,M,M,Joypurhat,Not Applicable,1943191923
+Road Traffic Accident (RTA),327,Md. Alamin,16.01.031341.01,Md. Amir Ali,30,M,M,Sunamganj,Not Applicable,1951145536
+Road Traffic Accident (RTA),328,Khalid Saifulla,16.01.032291.01,Manan,32,M,M,Comilla,Not Applicable,1918202273
+Road Traffic Accident (RTA),329,Md Selim,16.01.032674.01,Jalal Udin,40,M,M,Chuadanga,Not Applicable,1945611321
+Road Traffic Accident (RTA),330,Raton Sarker,16.01.033108.01,Nibaron,50,M,M,Dhaka,Not Applicable,1727397554
+Road Traffic Accident (RTA),331,Abul Khayer,16.01.033178.01,A Barek,35,M,M,Chandpur,Not Applicable,1817111322
+Road Traffic Accident (RTA),332,Nobo Islam,16.01.033323.01,Gofur Bisas,40,M,M,Magura,Not Applicable,1712162003
+Road Traffic Accident (RTA),333,Humayon,16.01.033423.01,Abdus Samad,20,M,Si,Mymensingh,Student,1790635554
+Road Traffic Accident (RTA),334,Kazi Torikul Isla,16.01.033788.01,Kazi Md Masum,18,M,Si,Chandpur,Student,1670462038
+Road Traffic Accident (RTA),335,Subrato Chandra Das,16.01.033913.01,Sree Nikndra Das,27,M,M,Gazipur,Not Applicable,1883412501
+Road Traffic Accident (RTA),336,Nur Alam,16.01.034141.01,Sikander,60,M,M,Joypurhat,Farmer,1741119286
+Road Traffic Accident (RTA),337,Nazrul Islam,16.01.034312.01,M,35,M,M,Joypurhat,Service holder,17055415662
+Road Traffic Accident (RTA),338,Abdus Salam,16.01.034447.01,Masem Promanik,28,M,M,Kushtia,Not Applicable,1732539021
+Road Traffic Accident (RTA),339,Halima,16.01.034868.01,Zahrul Islam,22,F,Si,Dhaka,Not Applicable,x
+Road Traffic Accident (RTA),340,Tapan Sarker,16.01.035182.01,Madhab Sarker,35,M,M,Dhaka,Not Applicable,1678038805
+Road Traffic Accident (RTA),341,Kabir,16.01.035200.01,Tazir Islam,22,M,M,Comilla,Not Applicable,1876260408
+Road Traffic Accident (RTA),342,Md Rubel Hossan,16.01.035997.01,Alomgir Hossan,32,M,M,Barisal,Teacher,1716666117
+Road Traffic Accident (RTA),343,Md Habibur Rahman,16.01.036134.01,A Razzak,30,M,M,Habiganj,Businessman,1734262533
+Road Traffic Accident (RTA),344,Mobarok,16.01.036327.01,Md. Chand Miah,25,M,M,Narsingdi,Not Applicable,1790145788
+Road Traffic Accident (RTA),345,Md Forid,16.01.036563.01,A Ali,25,M,Si,Dhaka,Not Applicable,1704898643
+Road Traffic Accident (RTA),346,Md Rofikul Islam,16.01.036788.01,Md Younus Ali,35,M,M,Sherpur,Service holder,1827075661
+Road Traffic Accident (RTA),347,Bahadur,16.01.036849.01,Abdul Salam,22,M,Si,Manikgonj,Service holder,1736525823
+Road Traffic Accident (RTA),348,Rasho Raj,16.01.037087.01,Sree Charan,50,M,M,Gazipur,Not Applicable,1731266340
+Road Traffic Accident (RTA),349,Year Mohammad,16.01.037613.01,Safuruddin,35,M,Si,Dhaka,Not Applicable,1760518414
+Road Traffic Accident (RTA),350,Abdur Rahim,16.01.037669.02,Abdul Goni,40,M,M,Mymensingh,Not Applicable,1911831046
+Road Traffic Accident (RTA),351,Madan Kumar Mr.,16.01.037776.01,Satish Barmon,27,M,Si,Dhaka,Govt. Service Holder,1736409422
+Road Traffic Accident (RTA),352,Dildar,16.01.037854.01,Abdul Suban,35,M,Si,Dhaka,Not Applicable,1622235412
+Road Traffic Accident (RTA),353,Haji Md. Shafiqul Islam.,16.01.037978.01,Hji Amanullah,60,M,M,Sherpur,Not Applicable,1932100199
+Road Traffic Accident (RTA),354,Abdul Basad,16.01.037996.01,Shahab Uddin,21,M,Si,Noakhali,Student,1985900585
+Road Traffic Accident (RTA),355,Haji Abu Hosain,16.01.038763.01,Late Abu Bokker,75,M,M,Sirajganj,Not Applicable,1924422932
+Road Traffic Accident (RTA),356,Din Islam,16.01.039161.01,A Bari,20,M,M,Kishoreganj,Not Applicable,1716356209
+Road Traffic Accident (RTA),357,Sumaiya Akhter,16.01.039206.01,Helal,14,F,Si,Narayanganj,Student,1673013760
+Road Traffic Accident (RTA),358,Rohima Begum,16.01.039452.01,Golam Rabbani,32,F,M,Kurigram,Housewife,1756872840
+Road Traffic Accident (RTA),359,Fazlul Haque,16.01.040005.01,Nabab Ali,55,M,M,Mymensingh,Not Applicable,1715765591
+Road Traffic Accident (RTA),360,Rashel Shak,16.01.040136.01,Badsha,4,M,Si,Khulna,Not Applicable,1710369718
+Road Traffic Accident (RTA),361,Moaz,16.01.040630.01,Kamal Uddin,22,M,Si,Comilla,Not Applicable,1713163307
+Road Traffic Accident (RTA),362,Azahar Ali,17.01.000390.01,Abbas Ali,38,M,M,Natore,Farmer,1733430112
+Road Traffic Accident (RTA),363,Kabil,17.01.000726.01,Shafi Uddin,24,M,Si,Jhenaidah,Not Applicable,1753172206
+Road Traffic Accident (RTA),364,Askir Mia,17.01.001261.01,Taziullah,45,M,M,Sylhet,Not Applicable,1715236371
+Road Traffic Accident (RTA),365,Md. Jafor,17.01.001493.01,Jamir,40,M,M,Jessore,Businessman,1714298653
+Road Traffic Accident (RTA),366,Fakrul Alom,17.01.001522.01,Kazi Kefaetullah,38,M,M,Comilla,Not Applicable,1835102673
+Road Traffic Accident (RTA),367,A Karim,17.01.002022.01,Gura Miah,19,M,Si,Chittagong,Student,1842413268
+Road Traffic Accident (RTA),368,Rashid,17.01.002188.01,Majibur Mandal,26,M,M,Rajbari,Not Applicable,1629615304
+Road Traffic Accident (RTA),369,Imran Hossain,17.01.002512.01,Motiur Rahman,20,M,Si,Sirajganj,Not Applicable,1963339896
+Road Traffic Accident (RTA),370,Salaha,17.01.002618.01,Munsur Ali,45,F,M,Pirojpur,Not Applicable,xxxxxxxxxx
+Road Traffic Accident (RTA),371,Mozammel,17.01.002745.01,Dulal,30,M,M,Dhaka,Not Applicable,1712841184
+Road Traffic Accident (RTA),372,Suna Miah,17.01.002768.01,Abed Ali,45,M,M,Faridpur,Farmer,1948138611
+Road Traffic Accident (RTA),373,Mmd Sabbir Ahmed,17.01.002892.01,Rahmot Ali,20,M,Si,Netrokona,Not Applicable,1757682374
+Road Traffic Accident (RTA),374,Rezaul Karim,17.01.004410.01,Md. Rehet Ullah,20,M,Si,Nilphamari,Student,1771577519
+Road Traffic Accident (RTA),375,Mohammad Nasir Uddin,17.01.004540.01,Sultan Ali,45,M,M,Gazipur,Businessman,1739862664
+Road Traffic Accident (RTA),376,Md. Majnuddin,17.01.004700.01,Late. A. Hashim,65,M,M,Dhaka,Businessman,1746619668
+Road Traffic Accident (RTA),377,Rasheda Begum,17.01.004726.01,D,32,F,M,Jessore,Not Applicable,1858319161
+Road Traffic Accident (RTA),378,Hosen Ali Md.,17.01.004949.01,Habibuddin,60,M,M,Manikgonj,Not Applicable,1796497986
+Road Traffic Accident (RTA),379,Kamruzzaman,17.01.005019.01,Late. Moulovi Aziz,48,M,M,Feni,Businessman,1860140134
+Road Traffic Accident (RTA),380,Asma Khatun,17.01.005417.01,Nur Mohammod,30,F,M,Khulna,Not Applicable,1722394164
+Road Traffic Accident (RTA),381,Kabir Ahmed,17.01.006031.01,Jalil,32,M,M,Dhaka,Not Applicable,1716169951
+Road Traffic Accident (RTA),382,Shawkat Ali Md.,17.01.006368.01,Gola Mawla,47,M,M,Pabna,Not Applicable,1747871548
+Road Traffic Accident (RTA),383,Bappi,17.01.006764.01,A Razzak,25,M,Si,Noakhali,Not Applicable,1815530910
+Road Traffic Accident (RTA),384,Jesmin,17.01.006908.01,X,18,F,M,Gazipur,Housewife,1913303639
+Road Traffic Accident (RTA),385,Md Rohul Amin,17.01.007386.01,Yeasin Munshe,52,M,M,Chuadanga,Not Applicable,1724531168
+Road Traffic Accident (RTA),386,Dalia Begum,17.01.007594.01,X,32,F,M,Sirajganj,Housewife,1716243395
+Road Traffic Accident (RTA),387,Md Shimul,17.01.007777.01,Abdur Rohim,27,M,M,Comilla,Not Applicable,1818088882
+Road Traffic Accident (RTA),388,Babul Fakir,17.01.008274.01,Goffar Fakir,41,M,M,Khulna,Not Applicable,1729953342
+Road Traffic Accident (RTA),389,Hriday Ghosh,17.01.008657.01,Robi Ghosh,20,M,Si,Dhaka,Not Applicable,1739798801
+Road Traffic Accident (RTA),390,Tipu,17.01.009123.01,Nurul Islam,25,M,Si,Chuadanga,Not Applicable,1745363593
+Road Traffic Accident (RTA),391,Bablu,17.01.009261.01,Akter Hosain,45,M,M,Jhenaidah,Businessman,1923857567
+Road Traffic Accident (RTA),392,Ibrahim Khalil,17.01.009884.01,Md Jahangir Alam,21,M,Si,Gazipur,Not Applicable,1840027040
+Road Traffic Accident (RTA),393,Jony,17.01.010019.01,Sahajahan,21,M,Si,Brahmanbaria,Student,1715357429
+Road Traffic Accident (RTA),394,Sabbir Hossen,17.01.010057.01,Emdarul,16,M,Si,Rangpur,Not Applicable,171713635
+Road Traffic Accident (RTA),395,Shah Alam,17.01.011442.01,Amor Ali,60,M,M,Gazipur,Not Applicable,1782261432
+Road Traffic Accident (RTA),396,Mohammad Gahangir Alom,17.01.011855.01,Motier,25,M,Si,Jessore,Farmer,1931247894
+Road Traffic Accident (RTA),397,Sagor,17.01.011954.01,Md Sahalm,19,M,Si,Noakhali,Not Applicable,1814374751
+Road Traffic Accident (RTA),398,Nasima Begum,17.01.011984.01,Bazlul Karim,38,F,M,Dhaka,Not Applicable,181543570
+Road Traffic Accident (RTA),399,Md. Muazzem Hossain,17.01.012117.01,Somor Uddin Fakir,,M,M,Sirajganj,Not Applicable,1723198693
+Road Traffic Accident (RTA),400,Jamal,17.01.012264.01,D,40,M,M,Chandpur,Not Applicable,199715346
+Road Traffic Accident (RTA),401,Sofikul Islam,17.01.012295.01,Rohim Miah,37,M,M,Tangail,Not Applicable,1716262209
+Road Traffic Accident (RTA),402,Sohel,17.01.012709.01,Khalil Forazi,25,M,Si,Dhaka,Not Applicable,1725409395
+Road Traffic Accident (RTA),403,Sofikul Islam,17.01.013548.01,Mohajer,36,M,M,Pabna,Not Applicable,1750143578
+Road Traffic Accident (RTA),404,A Khalek Molla,17.01.013664.01,Let Hamed Molla,60,M,M,Natore,Not Applicable,1725866804
+Road Traffic Accident (RTA),405,Junayed,17.01.014115.01,Hasan,22,M,Si,Narayanganj,Not Applicable,1855963815
+Road Traffic Accident (RTA),406,Mirza Ashfaquzzaman,17.01.014443.01,Md Abzal Hossen,40,M,M,Khulna,Not Applicable,1711859088
+Road Traffic Accident (RTA),407,Manik,17.01.014689.01,Babul Mia,29,M,M,Dhaka,Not Applicable,1772922070
+Road Traffic Accident (RTA),408,Md Kamal Hossain,17.01.014748.01,Nur Md,34,M,M,Patuakhali,Farmer,1760421389
+Road Traffic Accident (RTA),409,Sorafot Ali,17.01.014772.01,Mesar Ali,72,M,M,Dhaka,Not Applicable,1825557589
+Road Traffic Accident (RTA),410,Arif Gazi,17.01.014842.01,Ali Gazi,25,M,Si,Bagerhat,Not Applicable,1921064251
+Road Traffic Accident (RTA),411,Saidul Islam,17.01.015064.01,Md Sanaullah,42,M,M,Dhaka,Teacher,1816660263
+Road Traffic Accident (RTA),412,A Hakim Khan,17.01.015167.01,Noyab Ali,60,M,M,Patuakhali,Not Applicable,1742940288
+Road Traffic Accident (RTA),413,Fazlul Haque Milon,17.01.017612.01,Md Sekander Ali,38,M,M,Patuakhali,Not Applicable,1751913809
+Road Traffic Accident (RTA),414,Jahangir Alam,17.01.017694.01,Habibur,33,M,M,Natore,Farmer,1723006703
+Road Traffic Accident (RTA),415,Afaz Uddin,17.01.017751.01,Late Ahmed Ali,70,M,M,Narayanganj,Not Applicable,1633544525
+Road Traffic Accident (RTA),416,Khurshed Alam Mrs.,17.01.018546.01,Abdul Majid,40,F,M,Dhaka,Not Applicable,1920542492
+Road Traffic Accident (RTA),417,Al Amin,17.01.019165.01,Haider Ali,30,M,M,Gazipur,Not Applicable,1878666259
+Road Traffic Accident (RTA),418,Md Yasin,17.01.019166.01,Shahidullah,16,M,Si,Cox’s Bazar,Student,1860294329
+Road Traffic Accident (RTA),419,Md. Julhash Uddin,17.01.019286.01,Abul Kalam Azad,51,M,M,Tangail,Not Applicable,1819865283
+Road Traffic Accident (RTA),420,Sohel,17.01.019339.01,Tajjuddin,27,M,M,Tangail,Not Applicable,1779075268
+Road Traffic Accident (RTA),421,Mr. Mamun,17.01.019656.01,Md Shah Alam,22,M,Si,Comilla,Businessman,1829051934
+Road Traffic Accident (RTA),422,Md. Hannan,17.01.019896.01,Md. Abdul Hai,38,M,M,Dhaka,Service holder,1829961221
+Road Traffic Accident (RTA),423,Sayed Ahmed Md.,17.01.019926.01,Joynal Abedin,61,M,M,Dhaka,Not Applicable,1724031191
+Road Traffic Accident (RTA),424,Gazi Rifat,17.01.020054.01,Kazi Kalam,19,M,Si,Dhaka,Student,1977337796
+Road Traffic Accident (RTA),425,Nasir,17.01.020124.01,Masud Ur Rahman,45,M,M,Noakhali,Not Applicable,1709252949
+Road Traffic Accident (RTA),426,Ripon Sheikh,17.01.020171.01,Md. Lilton Sheikh,40,M,M,Gopalganj,Farmer,1733808835
+Road Traffic Accident (RTA),427,Sanowar Hossain,17.01.020405.01,Tomij Uddin,50,M,M,Tangail,Not Applicable,1731735962
+Road Traffic Accident (RTA),428,Roksana Begum,17.01.020962.01,M,35,F,M,Dhaka,Not Applicable,1944868855
+Road Traffic Accident (RTA),429,Rakib,17.01.021040.01,Late Mahmud Ali,17,M,Si,Bhola,Not Applicable,1721312727
+Road Traffic Accident (RTA),430,Yeasin,17.01.021159.01,Md Piar Ali,30,M,M,Dhaka,Not Applicable,186570238
+Road Traffic Accident (RTA),431,Jashim,17.01.021541.01,Md Muslim,40,M,M,Dhaka,Not Applicable,1674417002
+Road Traffic Accident (RTA),432,Bhokto Mohon Sarker,17.01.021646.01,Chan Mohon,35,M,M,Tangail,Not Applicable,1732597578
+Road Traffic Accident (RTA),433,Matlib Mia,17.01.021735.01,Anwar Hossain,38,M,M,Narsingdi,Not Applicable,1731162632
+Road Traffic Accident (RTA),434,Md. Monirul Islam,17.01.022070.01,Jabbar Sqala,40,M,M,Satkhira,Not Applicable,1938137221
+Road Traffic Accident (RTA),435,Raseda,17.01.023321.01,G,30,F,M,Comilla,Not Applicable,1852698799
+Road Traffic Accident (RTA),436,Jalal Uddin,17.01.023352.01,Amir Hossain,25,M,M,Dhaka,Not Applicable,1963207974
+Road Traffic Accident (RTA),437,Arif,17.01.023504.01,X,27,M,M,Manikgonj,Not Applicable,1723905203
+Road Traffic Accident (RTA),438,Habib Miah,17.01.024326.01,Ful Miah,25,M,M,Kishoreganj,Driver,1732845652
+Road Traffic Accident (RTA),439,Kamil,17.01.024368.01,Rois Ali,18,M,Si,Sylhet,Daily Labour,1727947493
+Road Traffic Accident (RTA),440,S M A Lotif,17.01.024384.01,Md Rowson Ali,46,M,M,Dhaka,Service holder,1962578455
+Road Traffic Accident (RTA),441,Ripon,17.01.024965.01,Sirajul Islam Sheikh,35,M,M,Gopalganj,Not Applicable,1733808835
+Road Traffic Accident (RTA),442,Jomir Uddin,17.01.025245.01,G,65,M,M,Dhaka,Not Applicable,1711277876
+Road Traffic Accident (RTA),443,Abdul Alim,17.01.025695.01,Zillur Rahman,21,M,Si,Chapai Nawabganj,Not Applicable,1822818388
+Road Traffic Accident (RTA),444,Abul Kalam,17.01.025877.01,G,45,M,M,Madaripur,Not Applicable,1746389036
+Road Traffic Accident (RTA),445,Md Monir Hossain,17.01.026502.01,Myeenuddin,34,M,M,Gazipur,Businessman,1715633395
+Road Traffic Accident (RTA),446,Ambia,17.01.026559.01,F,50,F,M,Tangail,Housewife,1903979484
+Road Traffic Accident (RTA),447,Monir Hossain,17.01.026625.01,Fazol Karim,26,F,Si,Noakhali,Not Applicable,1854183495
+Road Traffic Accident (RTA),448,Mr Liton,17.01.026700.01,Mofizur Rahman,30,M,M,Feni,Not Applicable,1813593322
+Road Traffic Accident (RTA),449,Md Tipu,17.01.026855.01,Piar Ali,35,M,M,Dhaka,Not Applicable,1825443785
+Road Traffic Accident (RTA),450,Judge Ali,17.01.027705.01,Lokman Mondol,40,M,M,Dhaka,Not Applicable,1715511714
+Road Traffic Accident (RTA),451,Md Raihan Ali,17.01.027949.01,Sakendrt Ali,30,M,M,Bogra,Not Applicable,1732186277
+Road Traffic Accident (RTA),452,Shorif,17.01.028331.01,Md Saiful,26,M,M,Meherpur,Non-Govt. Service Holder,1785350078
+Road Traffic Accident (RTA),453,Md. Hasen Ali Mondol,17.01.028415.01,Late. Abdul Laif,70,M,M,Nowgaon,Not Applicable,1717142076
+Road Traffic Accident (RTA),454,Baby Marium,17.01.028594.01,Md Monirul Islam,2,F,Si,Mymensingh,Not Applicable,1952228505
+Road Traffic Accident (RTA),455,Hafiz Mahfuz Ahmed,17.01.028677.01,Badsha Miah,22,M,Si,Sunamganj,Student,1712960467
+Road Traffic Accident (RTA),456,Alom Khan,17.01.028838.01,Jomir Khan,40,M,M,Tangail,Not Applicable,1710586620
+Road Traffic Accident (RTA),457,Fakhrul Islam,17.01.029631.01,Solaiman,45,M,M,Dhaka,Not Applicable,1815062190
+Road Traffic Accident (RTA),458,Hafiz Mahfuz Ahmed,17.01.029635.01,Badsha Mia,22,M,Si,Sunamganj,Not Applicable,1712960467
+Road Traffic Accident (RTA),459,Dulal Akand Md.,17.01.029816.01,Khabir Akand,32,M,M,Dhaka,Not Applicable,1724301309
+Road Traffic Accident (RTA),460,Jakir Hossain,17.01.030245.01,Late Amzad Hossain,45,M,M,Tangail,Not Applicable,1711455343
+Road Traffic Accident (RTA),461,Ronju,17.01.030369.01,",M",37,M,M,Gopalganj,Not Applicable,1750270383
+Road Traffic Accident (RTA),462,Nayon,17.01.030729.01,Rofiqul Islam,8,M,Si,Bhola,Not Applicable,1721988913
+Road Traffic Accident (RTA),463,Gobindo Gosh,17.01.030873.01,Direndro,40,M,M,Dhaka,Not Applicable,1749022707
+Road Traffic Accident (RTA),464,Bakul,17.01.030955.01,Abul Kasem,55,M,M,Dhaka,Not Applicable,1720835775
+Road Traffic Accident (RTA),465,Monir Hossain,17.01.030966.01,Amin Uddin,37,M,M,Sirajganj,Not Applicable,1739949692
+Road Traffic Accident (RTA),466,Kobir,17.01.031643.01,A Razzak,30,M,M,Chandpur,Not Applicable,1681014045
+Road Traffic Accident (RTA),467,Rafiqul Islam M,17.01.032165.01,Ratanuddin Md.,38,M,M,Faridpur,Not Applicable,1671502501
+Road Traffic Accident (RTA),468,Md. Nazrul Islam,17.01.032471.01,A. Razzak,42,M,M,Kushtia,Not Applicable,1768645603
+Road Traffic Accident (RTA),469,Hasan Tarek,17.01.033311.01,Md. Sohorab Hawlader,25,M,Si,Pirojpur,Not Applicable,1915526615
+Road Traffic Accident (RTA),470,Md. Abdul Goni,17.01.033474.01,X,38,M,M,Nowgaon,Service holder,1731826492
+Road Traffic Accident (RTA),471,Md. Shimul,17.01.034025.01,Kamrul Islam,20,M,Si,Bhola,Not Applicable,1710779112
+Road Traffic Accident (RTA),472,Ahsanullah,17.01.034210.01,X,27,M,Si,Comilla,Not Applicable,1714003139
+Road Traffic Accident (RTA),473,Furkan,17.01.034704.01,Khan Jahan Ali,22,M,Si,Dhaka,Not Applicable,1728144754
+Road Traffic Accident (RTA),474,Jahanara Begum,17.01.034779.01,X,48,F,M,Narail,Not Applicable,1919846164
+Road Traffic Accident (RTA),475,S.M.A. Lotif,17.01.035206.01,Shoukat Sardar,55,M,M,Pabna,Not Applicable,1712188131
+Road Traffic Accident (RTA),476,Alom Miah,17.01.035225.01,X,46,M,M,Dhaka,Not Applicable,1716990231
+Road Traffic Accident (RTA),477,Mohidul Islam,17.01.035563.01,Morzem Ali,25,M,Si,Meherpur,Housewife,1789734282
+Road Traffic Accident (RTA),478,Shakhor,17.01.035643.01,Hamid Mia,35,M,M,Kishoreganj,Not Applicable,1767195580
+Road Traffic Accident (RTA),479,Md Sukkur Ali,17.01.036198.01,Kitab Ali,50,M,M,Tangail,Not Applicable,1795446235
+Road Traffic Accident (RTA),480,Abdul Hannan Md.,17.01.036363.01,Haji Khan,30,M,M,Gazipur,Service holder,1626404455
+Road Traffic Accident (RTA),481,Shahidul Islam Md.,17.01.036652.01,Md. Abdul Barek,30,M,M,Jamalpur,Not Applicable,1746316083
+Road Traffic Accident (RTA),482,Afsana Nimi,17.01.036742.01,Feroz Ahamed,18,F,Si,Rajshahi,Not Applicable,1790261094
+Carrying Heavy Load on Head,1,Md Kamal,12.01.000007.01,Abdul Jalil,30,M,M,Comilla,Not Applicable,
+Carrying Heavy Load on Head,2,Sajahan,12.01.000094.01,Shak Hossain,40,M,M,Dhaka,Businessman,1917556525
+Carrying Heavy Load on Head,3,Tula Mia,12.01.000443.01,Mostofa,35,M,M,Dhaka,Not Applicable,
+Carrying Heavy Load on Head,4,Abdul Khaleq,12.01.003169.01,Y,50,M,M,Dhaka,Daily Labour,
+Carrying Heavy Load on Head,5,A. Hossain,12.01.003198.01,Sador Uddin,,M,M,Manikgonj,Farmer,
+Carrying Heavy Load on Head,6,Shakander Ali,12.01.003217.01,Y,35,M,M,Dhaka,Daily Labour,
+Carrying Heavy Load on Head,7,Jibon Nesa,12.01.003404.01,X,42,F,M,Dhaka,Housewife,
+Carrying Heavy Load on Head,8,Md Nur Alom,12.01.003507.01,Y,30,M,M,Dhaka,Businessman,
+Carrying Heavy Load on Head,9,Mostofa Kamal,12.01.005653.01,X,26,M,M,Dhaka,Service holder,1930208938
+Carrying Heavy Load on Head,10,Farid Ahmed,12.01.006313.01,Abdur Rahman Sikder,45,M,M,Jhalokathi,Service holder,1811487613
+Carrying Heavy Load on Head,11,Ikbal Hossain,12.01.017405.01,Y,50,M,M,Tangail,Not Applicable,1745392880
+Carrying Heavy Load on Head,12,Mashuk Ahmed,12.01.017805.01,Late A M Wadoood,50,M,M,Dhaka,Businessman,1678381628
+Carrying Heavy Load on Head,13,Mokhles Mia,13.01.002386.01,Cheton Mondal,32,M,M,Chuadanga,Unemployed,1937561220
+Carrying Heavy Load on Head,14,Ahasan,13.01.005396.01,Bano Lat,55,M,M,Kushtia,Farmer,1747176602
+Carrying Heavy Load on Head,15,Monir Hossain Md,13.01.006759.01,Md Sultan,30,M,M,Dhaka,Farmer,1713562835
+Carrying Heavy Load on Head,16,Rofik Mia,13.01.008424.01,Kurban Shak,35,M,M,Manikgonj,Daily Labour,1751127397
+Carrying Heavy Load on Head,17,Enamul Hossan,13.01.008763.01,Moslem Uddin,37,M,M,Manikgonj,Not Applicable,1917163461
+Carrying Heavy Load on Head,18,Md. Azahar Hossain,13.01.009702.01,Chan Miah,35,M,M,Dhaka,Farmer,
+Carrying Heavy Load on Head,19,Jilful Murad Sanu,13.01.009884.01,Yeaed Ali,23,M,Si,Dhaka,Student,1670793344
+Carrying Heavy Load on Head,20,Anisur Rahman,13.01.011411.01,Najrul Islam,18,M,Si,Manikgonj,Unemployed,1767711006
+Carrying Heavy Load on Head,21,Rayhan Saroyar,13.01.011832.01,Forid Hossain,18,M,Si,Manikgonj,Student,1812367970
+Carrying Heavy Load on Head,22,Forkan Hawlader,13.01.013509.01,Sarif Ali Hawlader,35,M,M,Patuakhali,Daily Labour,01XXXXXXXX
+Carrying Heavy Load on Head,23,Nur E Alam,13.01.014215.01,Late. A Razzak,44,M,M,Bhola,Farmer,1710964815
+Carrying Heavy Load on Head,24,Murshed,13.01.014272.01,A Mojid,26,M,Si,Dhaka,Student,182322257
+Carrying Heavy Load on Head,25,Raju,13.01.015468.01,Sah Ali Paramanik,26,M,M,Jamalpur,Non-Govt. Service Holder,1925952764
+Carrying Heavy Load on Head,26,Sukumar Gosh,13.01.018304.01,",",30,M,M,Manikgonj,Businessman,1702420555
+Carrying Heavy Load on Head,27,A Salam,13.01.018898.01,Md Hanif Miah,28,M,M,Dhaka,Businessman,1911226610
+Carrying Heavy Load on Head,28,Mokhles/Md.,13.01.020260.01,Billal Bepari,27,M,M,Manikgonj,Farmer,01XXXXXXXX
+Carrying Heavy Load on Head,29,Mizanur Rahman,13.01.021117.01,Rashid Bepari,25,M,M,Manikgonj,Not Applicable,1720964719
+Carrying Heavy Load on Head,30,Anower Hossain,13.01.026138.01,Suna Miah,50,M,M,Dhaka,Farmer,1732938763
+Carrying Heavy Load on Head,31,Towhid Ali,13.01.026463.01,Wazad Ali,38,M,M,Bagerhat,Daily Labour,1776591666
+Carrying Heavy Load on Head,32,Saidur,13.01.027147.01,Mohamad Ali,32,M,M,Manikgonj,Not Applicable,1822594456
+Carrying Heavy Load on Head,33,Sahmez,13.01.027213.01,Hamed Ali,35,M,M,Manikgonj,Not Applicable,1771113009
+Carrying Heavy Load on Head,34,Md Siddiq,13.01.029942.01,Md. Hanif,35,M,M,Dhaka,Service holder,1749406603
+Carrying Heavy Load on Head,35,Siddiquer Rahman,13.01.031385.01,Sokil Uddin Bishas,38,M,M,Dhaka,Businessman,1941063076
+Carrying Heavy Load on Head,36,Md Sahaalom,13.01.031660.01,Lat Sahadot,44,M,M,Dhaka,Farmer,1754248461
+Carrying Heavy Load on Head,37,Ashraf Ali,13.01.032131.01,Jabed Ali,33,M,M,Chuadanga,Not Applicable,1927262832
+Carrying Heavy Load on Head,38,Nuru Islam,14.01.000001.01,Abul Kashem Ali,50,M,M,Dhaka,Farmer,100
+Carrying Heavy Load on Head,39,Haji Md. Jehar Ali,14.01.000481.01,Late. Mohor Ali,65,M,M,Dhaka,Not Applicable,1760717073
+Carrying Heavy Load on Head,40,M A Mohshin,14.01.002832.01,X,50,M,M,Jessore,Not Applicable,1713337265
+Carrying Heavy Load on Head,41,Md. Habibullah,14.01.008299.01,Abu Tahir,38,M,M,Bhola,Farmer,1742724053
+Carrying Heavy Load on Head,42,Nur Ahmed,14.01.010678.01,Samsuddin,50,M,M,Mymensingh,Not Applicable,1924115922
+Carrying Heavy Load on Head,43,Tota Mia,14.01.019471.01,Fazal Haq,35,M,M,Manikgonj,Farmer,1819981283
+Carrying Heavy Load on Head,44,Jubayer-Ul-Hassan,14.01.026947.01,Md Tara Mia,23,M,Si,Dhaka,Student,1673479114
+Carrying Heavy Load on Head,45,Kamal Hossan,14.01.030733.01,Noimuddin,30,M,Si,Mymensingh,Not Applicable,1715523011
+Carrying Heavy Load on Head,46,Hassan,14.01.033370.01,Late Afazuddin Sikder,35,M,M,Patuakhali,Farmer,1710085656
+Carrying Heavy Load on Head,47,Azim Uddin,14.01.036621.01,A. Latif,52,M,Si,Dhaka,Not Applicable,1912270208
+Carrying Heavy Load on Head,48,Samsu Kha,14.01.038569.01,Kalu Khan,42,M,M,Dhaka,Not Applicable,1
+Carrying Heavy Load on Head,49,Amir Hosain,15.01.000740.01,Razet Khan,35,M,M,Gopalganj,Not Applicable,1919869817
+Carrying Heavy Load on Head,50,A Mozid,15.01.010046.01,Eman,35,M,M,Jessore,Businessman,1957462602
+Carrying Heavy Load on Head,51,Ismail Hossain,15.01.010209.01,Md Ali,27,M,Si,Dhaka,Service holder,192592709
+Carrying Heavy Load on Head,52,Ruhul Amin,15.01.024660.01,Abul Ksihem Bapari,30,M,M,Munshiganj,Not Applicable,1931727498
+Carrying Heavy Load on Head,53,Khadiza,16.01.001760.01,S,35,F,M,Dhaka,Housewife,1934466820
+Carrying Heavy Load on Head,54,Md. Lukman Hossain,17.01.033304.01,Babul Hossain,26,M,M,Dhaka,Not Applicable,1878253110
+Carrying Heavy Load on Head,55,Limon Hossain,19.01.019260.01,Shahidul Islam,20,M,Si,Mymensingh,Not Applicable,1627220048
+Carrying Heavy Load on Head,56,Md Mukter Hossain,19.01.020449.01,Md Ujir Ali,48,M,M,Dhaka,Not Applicable,1712825562
+Carrying Heavy Load on Head,57,Md Mansur Rahman,19.01.022671.01,Md Nobi Hosen Mulla,20,M,Si,Dhaka,Not Applicable,1841370657
+Carrying Heavy Load on Head,58,Abdur Rahim,19.01.034623.01,Yesin,27,M,M,Dhaka,Not Applicable,1756502978
+Carrying Heavy Load on Head,59,Kamrul Islam,19.01.036607.01,Azgor Ali,55,M,M,Dhaka,Not Applicable,1817572376
+Carrying Heavy Load on Head,60,Rupam Chandro Sarkar,19.01.039118.01,Shushanto Sarkar,23,M,Si,Barisal,Not Applicable,1714498047
+Carrying Heavy Load on Head,61,Md Anwor Hossain,19.01.040055.01,X,15,M,Si,Madaripur,Not Applicable,1772575830
+Carrying Heavy Load on Head,62,Nur Uddin,19.01.041881.01,Hazrat Ali,27,M,M,Dhaka,Not Applicable,1987363384
+Carrying Heavy Load on Head,63,Md Ishak,20.01.015525.01,Siraj,55,M,M,Dhaka,Not Applicable,1956475482
+Carrying Heavy Load on Head,64,Md Rasel,20.01.016199.01,Golam Mostofa,25,M,Si,Rajshahi,Not Applicable,1743597289
+Carrying Heavy Load on Head,65,Uzzal Molla,20.01.017250.01,M,30,M,M,Dhaka,Not Applicable,1872793173
+Fall From height,1,Md Saidul Islam,15.01.000239.01,Md Kafil Uddin,26,M,Si,Gazipur,Not Applicable,1822749342
+Fall From height,2,Jahirul Islam,15.01.000377.01,Md Joynal,17,M,Si,Barguna,Not Applicable,1749073492
+Fall From height,3,Mamun Ahmed,15.01.000546.01,Moniuddin,27,M,Si,Sylhet,Not Applicable,1726080047
+Fall From height,4,Sorowar Khan,15.01.000573.01,Hamid Khan,55,M,M,Patuakhali,Not Applicable,1790508129
+Fall From height,5,Hasna Begum,15.01.000731.01,X,38,F,Si,Dhaka,Not Applicable,1750181847
+Fall From height,6,Meer Mashrur Arafat,15.01.000804.01,Shamsul Alam,21,M,Si,Chittagong,Not Applicable,1845434910
+Fall From height,7,Halima Akter,15.01.001091.01,A Barak,17,F,Si,Dhaka,Student,1688539573
+Fall From height,8,Mini Begum,15.01.001163.01,Ismile,35,F,M,Manikgonj,Housewife,1754574279
+Fall From height,9,Haji Sabid Ali,15.01.001333.01,X,75,M,M,Dhaka,Not Applicable,1716849695
+Fall From height,10,Tarek,15.01.001546.01,X,45,M,M,Dhaka,Not Applicable,1953563431
+Fall From height,11,Rahima Begum,15.01.001571.01,Akbor Ali,24,F,Si,Patuakhali,Not Applicable,1735620497
+Fall From height,12,Tauhidur Rahman,15.01.002181.01,Late Fazlur Rahman,36,M,M,Faridpur,Not Applicable,1834517530
+Fall From height,13,Sohel,15.01.002901.01,Azimuddin,27,M,M,Tangail,Businessman,1716956180
+Fall From height,14,Md Forkan Uddin,15.01.002964.01,Sofur Uddin,35,M,M,Gazipur,Not Applicable,1726420430
+Fall From height,15,Rakib Hosssain,15.01.003116.01,Saidul Hossain,32,M,M,Comilla,Not Applicable,1917460578
+Fall From height,16,Sawkot,15.01.004264.01,Samsul Alam,28,M,Si,Cox’s Bazar,Not Applicable,1822858901
+Fall From height,17,Afroza,15.01.004271.01,Altab Hossain Khan,13,F,Si,Dhaka,Student,1715850397
+Fall From height,18,Miss Momtaz Begum,15.01.004328.01,Md Joban Ali,26,F,M,Rajbari,Service holder,1686626705
+Fall From height,19,Yeaz Uddin,15.01.004652.01,Kolim Uddin,29,M,Si,Dhaka,Businessman,1762566592
+Fall From height,20,Ruksana Hamid,15.01.004810.01,Baker,55,F,M,Manikgonj,Housewife,1741127933
+Fall From height,21,Sabuj,15.01.005348.01,Saheb Ali,27,M,M,Dhaka,Not Applicable,1911813898
+Fall From height,22,Delowar Hossan,15.01.005407.01,Late Mohar Ali,44,M,M,Dhaka,Not Applicable,1741174783
+Fall From height,23,Sofikul Islam,15.01.006732.01,Habib,25,M,Si,Bagerhat,Not Applicable,1726516239
+Fall From height,24,Lili Begum,15.01.007029.01,X,44,F,M,Dhaka,Not Applicable,1732890587
+Fall From height,25,Akter Hossain,15.01.007367.01,Abdul Khalak Ali,13,M,Si,Nilphamari,Not Applicable,1920830583
+Fall From height,26,Md Masud,15.01.007835.01,Golam Mostofa,35,M,M,Noakhali,Not Applicable,1862922263
+Fall From height,27,Shathi,15.01.007926.01,Md Daru Mia,18,F,M,Narsingdi,Not Applicable,17813921863
+Fall From height,28,Samidul,15.01.008181.01,Hamidul,32,M,M,Meherpur,Not Applicable,1925380204
+Fall From height,29,Komala,15.01.008350.01,Rohomat Ali,24,F,M,Bogra,Housewife,1754034021
+Fall From height,30,Sohan,15.01.008464.01,Shabi Mondal,18,M,Si,Jhenaidah,Not Applicable,1762346444
+Fall From height,31,Md Musha,15.01.008801.01,Razzak Mia,22,M,Si,Chandpur,Daily Labour,1839004961
+Fall From height,32,Ripon Dewan,15.01.008808.01,Fajul Dewan,40,M,M,Munshiganj,Not Applicable,1679442592
+Fall From height,33,Anamul,15.01.009405.01,Kayem Mondul,65,M,M,Rajshahi,Not Applicable,1714458995
+Fall From height,34,Ataur Rahman,15.01.010560.01,Abdul Awal,50,M,M,Comilla,Not Applicable,1742152862
+Fall From height,35,Juwel Hossain,15.01.010909.01,Hamot Ali,30,M,M,Meherpur,Service holder,1715670106
+Fall From height,36,Md. Abu Sayeed,15.01.010961.01,Somezuddin,32,M,M,Tangail,Farmer,1765065237
+Fall From height,37,Akter Hosen,15.01.011959.01,A Jolil,27,M,M,Dhaka,Not Applicable,1731023165
+Fall From height,38,Emran,15.01.011977.01,Mannan,20,M,M,Madaripur,Student,1960481221
+Fall From height,39,Nur Hossain,15.01.012144.01,Anar Ullah,42,M,M,Chandpur,Not Applicable,1824997154
+Fall From height,40,Akter Hosain,15.01.012207.01,Jolil Mia,27,M,M,Dhaka,Not Applicable,1731023165
+Fall From height,41,A Mannan,15.01.012237.01,A Kader,34,M,M,Dhaka,Businessman,1812181427
+Fall From height,42,Samsun Nahar,15.01.012457.01,M,46,M,M,Comilla,Housewife,1819168917
+Fall From height,43,Abdur Rashid,15.01.012505.01,Moslem Dhali,50,M,M,Khulna,Not Applicable,1933196925
+Fall From height,44,Jewel,15.01.012734.01,Abdul Hai,22,M,Si,Dhaka,Farmer,1732052828
+Fall From height,45,Md. Sojib,15.01.012750.01,Nurul Haque,15,M,Si,Madaripur,Not Applicable,1938074826
+Fall From height,46,Shekh Akbar Ali,15.01.012823.01,Shekh Meher Ali,65,M,M,Bagerhat,Not Applicable,1711289458
+Fall From height,47,Shaheen,15.01.012971.01,Md Yeakub Ali,40,M,M,Manikgonj,Service holder,1715373411
+Fall From height,48,Md. Samrat,15.01.013225.01,Afsar Uddin,27,M,Si,Narayanganj,Not Applicable,1918416804
+Fall From height,49,Md. Solaiman Seikh,15.01.013458.01,Insar Ali Biswas,28,M,Si,Jhenaidah,Service holder,1768451020
+Fall From height,50,Amena Khatun,15.01.013508.01,Afjal Bapari,60,F,M,Dhaka,Housewife,1967901043
+Fall From height,51,Md Shahazahan Mia,15.01.013892.01,Lal Mia,22,M,Si,Cox’s Bazar,Not Applicable,1828425326
+Fall From height,52,Rafia,15.01.014010.01,Md Samsul Haquer,23,F,Si,Dhaka,Student,1689098115
+Fall From height,53,Chaina Akter,15.01.014238.01,Kandu Kazi,35,F,M,Dhaka,Housewife,1621375078
+Fall From height,54,Sanwar Hossan,15.01.014756.01,Somir Uddin,32,M,M,Dhaka,Not Applicable,1715220540
+Fall From height,55,Amena,15.01.015219.01,Humayon Kabir,1,F,Si,Dhaka,Not Applicable,1730184142
+Fall From height,56,Saiful Islam,15.01.015917.01,Late. A. Mannan,31,M,M,Lakshmipur,Not Applicable,1724359093
+Fall From height,57,Sabbir Ahmed Sorker,15.01.015949.01,Md Motin Sorker,19,M,Si,Comilla,Student,1979447722
+Fall From height,58,Sayed Ali Khan,15.01.015968.01,Md. Ali,40,M,M,Gazipur,Businessman,1922595441
+Fall From height,59,Md Motaleb Hosain,15.01.016254.01,Loate Afsar Ali Sarker,30,M,M,Dhaka,Non-Govt. Service Holder,1715822886
+Fall From height,60,Md Shofikul Islam,15.01.016820.01,Simot Ali,45,M,M,Bhola,Businessman,1953887140
+Fall From height,61,Razzak,15.01.017359.01,Late Tafazzol,50,M,M,Chapai Nawabganj,Not Applicable,1756911627
+Fall From height,62,Sahanur Begum,15.01.017432.01,X,50,F,M,Dhaka,Not Applicable,1734838057
+Fall From height,63,Shimul,15.01.018317.01,Md Alauddin,27,F,M,Dhaka,Service holder,1620797447
+Fall From height,64,Golap Miah,15.01.018338.01,Late Nur Chandl,56,M,M,Kishoreganj,Not Applicable,1713803146
+Fall From height,65,Md. A. Khaleque,15.01.018438.01,Md. A. Salam,40,M,M,Tangail,Not Applicable,1712468106
+Fall From height,66,Majeda Begum,15.01.018614.01,X,57,F,M,Satkhira,Housewife,1818492963
+Fall From height,67,Shahinur,15.01.019064.01,S,18,F,M,Dhaka,Housewife,1872548776
+Fall From height,68,Rabea Khatun,15.01.019092.01,X,80,F,M,Dhaka,Not Applicable,1751997933
+Fall From height,69,Sadia Sultana,15.01.019381.01,Delowar Hossain,15,F,Si,Gazipur,Not Applicable,1782442010
+Fall From height,70,Mahi Azadi,15.01.019438.01,Mostafa Kamal Azadi,12,F,Si,Dhaka,Not Applicable,1716191024
+Fall From height,71,Muksuda Akter,15.01.019641.01,Abdul Kuddus,20,F,M,Tangail,Student,1799304842
+Fall From height,72,Shahadat,15.01.020078.01,Mohoshin Ali,26,M,Si,Panchagarh,Farmer,1772745278
+Fall From height,73,Kajol Rwekha,15.01.020747.01,X,38,F,M,Comilla,Housewife,1726419501
+Fall From height,74,Jahangir Alom,15.01.020770.01,Late Akkel Ali,35,M,M,Barisal,Not Applicable,1911211265
+Fall From height,75,Saiful,15.01.020908.01,Zobeda Ali,24,M,M,Manikgonj,Not Applicable,1739573021
+Fall From height,76,Md Shahin,15.01.021412.01,Nurul Haque,28,M,Si,Munshiganj,Not Applicable,1919938800
+Fall From height,77,Syed Maksodul Hassan Chowdhury,15.01.022144.01,Md Ali Chowdhury,35,M,M,Dhaka,Businessman,1819211529
+Fall From height,78,Abul Hasem,15.01.023017.01,Nesar Uddin,60,M,M,Bagerhat,Not Applicable,1859360951
+Fall From height,79,Md. Ismail,15.01.023245.01,N,27,M,M,Bhola,Not Applicable,1712945673
+Fall From height,80,Rokeya Begum,15.01.023497.01,Hanjala Munshi,40,F,M,Manikgonj,Not Applicable,1731816528
+Fall From height,81,Elahi,15.01.023517.01,Sabid Ali,60,M,M,Jhenaidah,Not Applicable,17
+Fall From height,82,Kholilur,15.01.023581.01,Azher,32,M,M,Patuakhali,Not Applicable,1732693319
+Fall From height,83,Bablu Fokir,15.01.023989.01,Aktab Fokr,35,M,M,Pabna,Not Applicable,1753581980
+Fall From height,84,Milon Mollah,15.01.024409.01,A Hai,41,M,M,Narayanganj,Not Applicable,1920074420
+Fall From height,85,Jolilur Rahman,15.01.024728.01,X,60,M,M,Comilla,Not Applicable,1712060816
+Fall From height,86,Sabuj,15.01.025033.01,Sarwar Hossain,28,M,Si,Faridpur,Not Applicable,1729492757
+Fall From height,87,Shirin Akter,15.01.025156.01,X,40,F,M,Noakhali,Not Applicable,1818198753
+Fall From height,88,Zahid Md.,15.01.025161.01,Shajahan Bapari,23,M,Si,Pirojpur,Not Applicable,1918844624
+Fall From height,89,Mithu Mia,15.01.025583.01,Bulu Pramanik,35,M,M,Bogra,Not Applicable,1796728028
+Fall From height,90,Mijanur Rahman,15.01.025787.01,Shak Rustum Ali,35,F,M,Faridpur,Not Applicable,1718192580
+Fall From height,91,Ebadul,15.01.025881.01,Mongol,35,M,M,Shariatpur,Not Applicable,1761710864
+Fall From height,92,Azizul Islam,15.01.026063.01,Nurul Islam,27,M,M,Dhaka,Service holder,1913364822
+Fall From height,93,Prodip Das,15.01.026858.01,Badol Das,45,M,Si,Chittagong,Not Applicable,1823944202
+Fall From height,94,Md Sultan,15.01.027273.01,Sadikul Islam,18,M,M,Dinajpur,Businessman,1836795625
+Fall From height,95,Shafiqul Islam,15.01.027281.01,Golam Mostofa,28,M,M,Khulna,Not Applicable,1911777158
+Fall From height,96,Sonia,15.01.027430.01,Amir Hossain,24,F,M,Dhaka,Not Applicable,1922794274
+Fall From height,97,Tabssum Barsha,15.01.029425.01,Saidur Rahman,14,F,Si,Jhenaidah,Not Applicable,1711380546
+Fall From height,98,Sathi,15.01.029462.01,Abdul Halim,30,F,M,Sirajganj,Not Applicable,1830647864
+Fall From height,99,Saiful Islam,15.01.030073.01,Golam Mostofa,18,M,Si,Brahmanbaria,Student,1733768159
+Fall From height,100,A Mannan,15.01.030127.01,L Asan Ali,55,M,M,Mymensingh,Not Applicable,1748297175
+Fall From height,101,Shafikur Rahman,15.01.031577.01,X,35,M,M,Magura,Not Applicable,1715950439
+Fall From height,102,Rotna,15.01.032117.01,Asadul,25,F,Si,Satkhira,Not Applicable,1785543244
+Fall From height,103,Israt Jahan Orna,15.01.032514.01,Ikbal Hossain Sowpon,18,F,Si,Feni,Housewife,1712861353
+Fall From height,104,Marufa Begum,15.01.032841.01,S,50,F,M,Dhaka,Housewife,
+Fall From height,105,Roshan,15.01.032870.01,Md. Saiful Islam,2,M,Si,Dhaka,Not Applicable,1926158960
+Fall From height,106,Sudhir Kumar Mr.,15.01.032917.01,Late Budhu Kumar,50,M,M,Kushtia,Not Applicable,1749632632
+Fall From height,107,A. Samad,15.01.032991.01,Late. Hayet Ali,70,M,M,Dhaka,Not Applicable,1624489390
+Fall From height,108,Salauddin Md.,15.01.033579.01,Abdul Motaleb,17,M,Si,Bhola,Not Applicable,1944177822
+Fall From height,109,Saiful Islam,15.01.034105.01,Md. Boriban,35,M,M,Thakurgaon,Service holder,1798810174
+Fall From height,110,Lokman Hosain,15.01.034482.01,Late Khabir,55,M,M,Pabna,Govt. Service Holder,1718507845
+Fall From height,111,Hayder Ali Khan,15.01.034484.01,Late. Md. Solaiman Ali Khan,59,M,M,Narayanganj,Not Applicable,1940987423
+Fall From height,112,Rubel Khma,15.01.034590.01,Malak Khan,25,M,Si,Mymensingh,Not Applicable,1818264648
+Fall From height,113,Feroza Begum,15.01.034663.01,Late. Abul Hasim,45,F,M,Comilla,Not Applicable,1715012548
+Fall From height,114,Delowar Hosain,15.01.034759.01,Late Hosain Ahmed,45,M,M,Lakshmipur,Daily Labour,1863709756
+Fall From height,115,Tofael Ahmed,15.01.034879.01,Mowlana Abdullah,32,M,Si,Habiganj,Farmer,1731193330
+Fall From height,116,Bellal Hosain,15.01.035033.01,Hosain Ahmed,45,M,M,Lakshmipur,Not Applicable,1857318607
+Fall From height,117,Md Khayer,15.01.035208.01,A Mojid,29,M,Si,Comilla,Non-Govt. Service Holder,1685582161
+Fall From height,118,Tarab Ali Md.,15.01.035483.01,Late Badaruddin,55,M,M,Tangail,Daily Labour,1738036204
+Fall From height,119,Sharmin Akter,15.01.035670.01,Md. A. Samad,20,F,Si,Dhaka,Student,1928774436
+Fall From height,120,Arun Chandro Rajboshi,15.01.035789.01,Nibaron Chandro Rajboshi,35,M,M,Gazipur,Not Applicable,1732150715
+Fall From height,121,Ibrahim Sujon,15.01.035950.01,Azha Mia,28,M,Si,Chittagong,Not Applicable,1811536544
+Fall From height,122,Sohel,15.01.035975.01,Kamal,26,M,M,Munshiganj,Non-Govt. Service Holder,1921412751
+Fall From height,123,Md. Jamal,15.01.036198.01,Abru Mia,25,M,M,Brahmanbaria,Not Applicable,1967312719
+Fall From height,124,Nur Alam Md.,15.01.036236.01,Abdul Goni Sarker,21,M,Si,Dhaka,Not Applicable,1722245696
+Fall From height,125,Mohasin,15.01.036498.01,Motiyur,22,M,Si,Manikgonj,Not Applicable,1535856670
+Fall From height,126,Md. Idris,15.01.036693.01,Md. Harun Or Rashid,40,M,M,Cox’s Bazar,Not Applicable,1969681009
+Fall From height,127,Shafayetullah Md.,15.01.037453.01,Late Afsaruddin Bhuiyan,75,M,M,Dhaka,Not Applicable,1716714463
+Fall From height,128,Jusna,15.01.037505.01,Md. Mofiz,22,F,Si,Sylhet,Not Applicable,no
+Fall From height,129,Shirajul Islam Md.,15.01.037548.01,Rabiul Islam Uddin,22,M,M,Dhaka,Not Applicable,1926907545
+Fall From height,130,Selim Md.,15.01.038241.01,Bill Haque Sarkar,35,M,M,Pabna,Not Applicable,1765074768
+Fall From height,131,Rakibul Islam Md.,15.01.038279.01,Md. Hossen Ali,19,M,Si,Manikgonj,Not Applicable,1856749175
+Fall From height,132,Nasir Uddin,15.01.038925.01,A. Rashid Howlader,35,M,M,Patuakhali,Not Applicable,1739556847
+Fall From height,133,Khus Mahmud,15.01.038929.01,Rehan Ali,25,M,M,Mymensingh,Not Applicable,1923561854
+Fall From height,134,Masuda Sultana,16.01.000118.01,S,42,F,M,Dhaka,Housewife,1915617974
+Fall From height,135,Ansar Ali,16.01.000306.01,X,60,M,M,Chapai Nawabganj,Not Applicable,1733281970
+Fall From height,136,Razia Khatun,16.01.000706.01,Rofik Miah,65,F,M,Dhaka,Housewife,1721994860
+Fall From height,137,Abu Tahir,16.01.000748.01,X,40,M,M,Comilla,Not Applicable,1866648069
+Fall From height,138,Shahadat Hossain,16.01.000825.01,Md Hossain Dali,40,M,M,Chandpur,Not Applicable,1921620384
+Fall From height,139,Md Choton,16.01.000843.01,Tajul Islam,22,M,Si,Noakhali,Not Applicable,1845716056
+Fall From height,140,Boshir Uddin,16.01.001058.01,Ali Ahmed,17,M,Si,Chuadanga,Not Applicable,1770064438
+Fall From height,141,Md Mozammel,16.01.001084.01,Md. Hasem Mia,26,M,M,Mymensingh,Not Applicable,1944478362
+Fall From height,142,Nargis Begum,16.01.001921.01,Kuddus Mia,30,F,M,Dhaka,Housewife,1743975542
+Fall From height,143,Famin,16.01.002848.01,Md Faiz,5,F,Si,Dhaka,Not Applicable,1771118324
+Fall From height,144,Nishat,16.01.002993.01,Afzal Kazi,18,M,Si,Dhaka,Not Applicable,1953185350
+Fall From height,145,Alom,16.01.003480.01,Md Yunus Ali,32,M,M,Tangail,Not Applicable,1729924315
+Fall From height,146,Shafikul,16.01.003578.01,Hasan Ali,30,M,M,Sherpur,Not Applicable,1951145536
+Fall From height,147,Lutfor Rahman Md.,16.01.003887.01,Late Abdul Gafur,62,M,M,Jessore,Not Applicable,1716993925
+Fall From height,148,Mezbah Uddin,16.01.004522.01,Late Mokbul Ahmed,30,M,Si,Feni,Not Applicable,1714560750
+Fall From height,149,Hosneara,16.01.004650.01,L,60,F,M,Dhaka,Not Applicable,1199490476
+Fall From height,150,Shakhawat Hosain,16.01.004795.01,Md Ali Hosain,35,M,M,Comilla,Daily Labour,1722245113
+Fall From height,151,Sahanaz,16.01.004942.01,X,35,M,M,Gaibandha,Not Applicable,1773290852
+Fall From height,152,Rabbi,16.01.005121.01,Torikul Islam,4,M,Si,Dhaka,Not Applicable,1000
+Fall From height,153,Monir Hossain,16.01.005393.01,Humayun Mia,25,M,M,Brahmanbaria,Not Applicable,1776284363
+Fall From height,154,Bishwajit Rai Mr.,16.01.005537.01,Rajesshar Rai,35,M,M,Bagerhat,Service holder,1781952637
+Fall From height,155,Babul,16.01.006078.01,Malek Prodhan,50,M,M,Comilla,Not Applicable,1818889863
+Fall From height,156,Abdul Kadir,16.01.006321.01,Salam Fakir,27,M,Si,Madaripur,Not Applicable,1749829242
+Fall From height,157,Moriyum Akter,16.01.006557.01,C,32,F,M,Dhaka,Not Applicable,1722866783
+Fall From height,158,Abul Kashem,16.01.006737.01,Samsuddin Ahmed,58,M,M,Patuakhali,Not Applicable,1734621440
+Fall From height,159,Shohan,16.01.006962.01,Shohed,5,M,Si,Noakhali,Not Applicable,1815984082
+Fall From height,160,Delowar Hosain,16.01.007132.01,A. Hakim,25,M,M,Dhaka,Not Applicable,1811678771
+Fall From height,161,Md. Al-Amin,16.01.007276.01,Md. Lokman Halder,33,M,M,Munshiganj,Not Applicable,1949482021
+Fall From height,162,Junayet,16.01.007798.01,Sajahan,10,M,Si,Dhaka,Not Applicable,1721324570
+Fall From height,163,Md. Babul Mollah,16.01.008112.01,Late. Sorab Mollah,52,M,M,Gazipur,Not Applicable,1716629037
+Fall From height,164,Baizit Kha,16.01.008395.01,Barik Kha,45,M,M,Jessore,Not Applicable,1734139472
+Fall From height,165,Md Fosiar Murol,16.01.008428.01,Late A Karim Mollah,52,M,M,Khulna,Not Applicable,1918293353
+Fall From height,166,Khalid Mia,16.01.008906.01,Abdur Rahman,26,M,M,Maulivibazar,Not Applicable,1705632049
+Fall From height,167,Ohidul Islam,16.01.009189.01,Mobarak Sekh,45,M,M,Faridpur,Not Applicable,1942372251
+Fall From height,168,Sobuj Akand,16.01.009211.01,Mohidul Akand,33,M,M,Gaibandha,Not Applicable,"172,194,963,501,724,000,000"
+Fall From height,169,Ruhul Amin,16.01.009416.01,Dhonu Mia,65,M,M,Comilla,Not Applicable,1813669934
+Fall From height,170,Bacchu Mia,16.01.010408.01,Nasir Uddin Late,28,M,M,Bhola,Not Applicable,1732169362
+Fall From height,171,Omar Faruk,16.01.010598.01,Abul Hasem,40,M,M,Comilla,Non-Govt. Service Holder,1711124106
+Fall From height,172,Sohag,16.01.011337.01,Nazmul,1,M,Si,Rajbari,Not Applicable,1748994403
+Fall From height,173,Samina Akter,16.01.011777.01,Nurul Amin,25,F,M,Noakhali,Not Applicable,1814983105
+Fall From height,174,Abul Bashar,16.01.012274.01,Lat Sultan Ahmed,39,M,M,Patuakhali,Not Applicable,1719693468
+Fall From height,175,Nazmul Hossain,16.01.012739.01,A Samad,10,M,Si,Satkhira,Student,1725038109
+Fall From height,176,Bilkis,16.01.012781.01,X\,30,F,M,Munshiganj,Not Applicable,1927425901
+Fall From height,177,Nazmul Haque,16.01.013860.01,Anowarul Haque,21,M,Si,Noakhali,Student,1911034697
+Fall From height,178,Ronjit Sutro Dhar,16.01.014407.01,Robinro Nath Sutro Dhar,45,M,M,Tangail,Development worker,1719984095
+Fall From height,179,Monir Hossain,16.01.014668.01,Abdul Khalek,26,M,Si,Dhaka,Not Applicable,1938523309
+Fall From height,180,Alomgir Sarker,16.01.015796.01,Hassan Uddin,45,M,M,Gazipur,Not Applicable,1790267249
+Fall From height,181,Md. Mamun Hossain,16.01.015815.01,Khukon Halder,30,M,Si,Munshiganj,Not Applicable,1927442522
+Fall From height,182,Md. Khursed Alam,16.01.016080.01,Jamal,18,M,Si,Lakshmipur,Development worker,1746360116
+Fall From height,183,Rohima Khatun,16.01.016977.01,Akbar Ali,44,F,M,Satkhira,Not Applicable,1711065391
+Fall From height,184,Swadin Saha,16.01.017089.01,Sanker Nath Saha,37,M,M,Dhaka,Not Applicable,1911384484
+Fall From height,185,Mohasin,16.01.019010.01,Feroz,30,M,M,Munshiganj,Not Applicable,1869623338
+Fall From height,186,Barek Khan,16.01.019167.01,X,26,M,M,Pabna,Not Applicable,1627474157
+Fall From height,187,Hasan,16.01.019478.01,Sarwar Hossain,27,M,M,Bhola,Not Applicable,1725282334
+Fall From height,188,Azizul Haque,16.01.019789.01,Mokrum,50,M,M,Kurigram,Not Applicable,1931703065
+Fall From height,189,Ahasanullah,16.01.020823.01,A Rohim,46,M,M,Tangail,Not Applicable,1712811120
+Fall From height,190,Joha Mia,16.01.021066.01,Samsul Haque,32,M,M,Gaibandha,Not Applicable,1715597307
+Fall From height,191,Mira Khatun,16.01.022090.01,Mahtab Buddin,35,F,M,Kushtia,Housewife,1746113114
+Fall From height,192,Ruhul Amin,16.01.022709.01,Nurul Islam,45,M,M,Pirojpur,Not Applicable,1712162232
+Fall From height,193,Santa,16.01.023073.01,X,20,F,M,Dhaka,Housewife,1793882924
+Fall From height,194,Azizul,16.01.024098.01,Mamun,18,M,Si,Dinajpur,Not Applicable,1724256622
+Fall From height,195,Sakhwat Hossain Shuvo,16.01.024163.01,Samsul Haque,20,M,Si,Narayanganj,Not Applicable,192180800
+Fall From height,196,Hazi Moklesur Rahman,16.01.025481.01,Chan Mia,60,M,M,Chandpur,Not Applicable,1876489328
+Fall From height,197,Khalilur Rahoman,16.01.026219.01,Humayen Ahmed,60,M,M,Munshiganj,Not Applicable,1716517950
+Fall From height,198,Hedayet Md.,16.01.026394.01,Kanchon Saikh,32,M,M,Gazipur,Daily Labour,1919602454
+Fall From height,199,Md Abdul Khalak,16.01.028544.01,Lat Monsur Ali,35,M,M,Dinajpur,Not Applicable,1773322034
+Fall From height,200,Salaha,16.01.028545.01,Latesalimuddin,55,F,M,Natore,Housewife,1753806585
+Fall From height,201,Shoaib,16.01.028874.01,Bachu,10,M,Si,Faridpur,Not Applicable,1760305261
+Fall From height,202,Josim Mollah,16.01.029511.01,G,36,M,M,Dhaka,Not Applicable,1943370208
+Fall From height,203,Kabed Gazi,16.01.030028.01,Amzad Gazi,40,M,M,Patuakhali,Not Applicable,1736460878
+Fall From height,204,Nurunnabi,16.01.030081.01,Late. Kobir Ahmad,25,M,Si,Feni,Not Applicable,1814366641
+Fall From height,205,Batsa Miya,16.01.030901.01,Abdul Rahoma,65,M,M,Manikgonj,Not Applicable,1776186282
+Fall From height,206,Sohrab,16.01.032133.01,Nasir Uddin,45,M,M,Dhaka,Not Applicable,1927109766
+Fall From height,207,Leon,16.01.032145.01,Ruhol,22,M,Si,Munshiganj,Not Applicable,1921349881
+Fall From height,208,Sharif Md.,16.01.033552.01,Shabuddin Md.,25,M,Si,Bhola,Daily Labour,1770045171
+Fall From height,209,Saleha Begum,16.01.034921.01,Abdur Raham,60,F,M,Barisal,Not Applicable,1911077535
+Fall From height,210,Mahmud Younus,16.01.035012.01,Zahid Hossain,25,M,Si,Cox’s Bazar,Not Applicable,1832465118
+Fall From height,211,A Hai,16.01.035177.01,X,30,M,M,Dhaka,Not Applicable,1723795630
+Fall From height,212,Selim,16.01.035203.01,Ansar Ali,35,M,M,Jessore,Not Applicable,1753570074
+Fall From height,213,Nazmun Nahar,16.01.035496.01,Rofik Morul,38,F,M,Jessore,Not Applicable,1929594262
+Fall From height,214,Babu,16.01.035613.01,Khushi Mohol,35,M,M,Dhaka,Daily Labour,1724168047
+Fall From height,215,Amzad Hossain,16.01.036201.01,Habibur,28,M,Si,Dhaka,Not Applicable,1929748939
+Fall From height,216,Md Suruj Ali,16.01.036657.01,Md Tofsir,50,M,M,Narail,Not Applicable,1935178080
+Fall From height,217,Chan Mia,16.01.037325.01,Hakim Ali,60,M,M,Chandpur,Not Applicable,1917291533
+Fall From height,218,Abdullah Md.,16.01.038285.01,Anwar Md.,15,M,Si,Pabna,Service holder,1755804621
+Fall From height,219,Shohel Mia,16.01.038910.01,Md. Samsu Mia,27,M,Si,Habiganj,Not Applicable,1728393823
+Fall From height,220,Billal Hossain,16.01.039692.01,Late. Abul Hossain,26,M,Si,Chandpur,Not Applicable,1935446997
+Fall From height,221,Rani Bgrum,16.01.039889.01,X,40,F,M,Dhaka,Not Applicable,1922474620
+Fall From height,222,Altaf Sarder,16.01.039949.01,Safar Ali Sarder,50,M,M,Shariatpur,Not Applicable,1987626392
+Fall From height,223,Rabiul Awal,16.01.040267.01,Samsul Haque,28,M,M,Narayanganj,Not Applicable,1793236065
+Fall From height,224,Tahmina,17.01.000229.01,Vc,50,F,M,Lakshmipur,Not Applicable,1712539384
+Fall From height,225,Bikash Biswas,17.01.000249.01,Tarop,35,M,M,Jessore,Daily Labour,1911770645
+Fall From height,226,Taltu Shakh,17.01.000360.01,Rustom Shakh,32,M,M,Pabna,Not Applicable,1770082832
+Fall From height,227,Jesmin Akter,17.01.000370.01,Asok Ali,28,F,M,Mymensingh,Housewife,1912739753
+Fall From height,228,Abul Basher,17.01.000387.01,Abul Hashem,45,M,M,Barguna,Businessman,1919355011
+Fall From height,229,Milon,17.01.001165.01,Hozullo,30,M,M,Jhenaidah,Not Applicable,1993086591
+Fall From height,230,A Hasim,17.01.002438.01,Nrul Hoque,35,M,M,Sylhet,Not Applicable,1772634522
+Fall From height,231,Md. Monir,17.01.002903.01,Rofij Uddin,34,M,M,Jamalpur,Businessman,1742568671
+Fall From height,232,Md. Titu,17.01.003108.01,Jakir Ali,17,M,Si,Jessore,Not Applicable,1955278261
+Fall From height,233,Md. Mona,17.01.003144.01,A Jolil,25,M,M,Shariatpur,Not Applicable,1922034512
+Fall From height,234,Hares,17.01.003189.01,Sahed Ali,45,M,M,Netrokona,Not Applicable,1748074084
+Fall From height,235,Abdul Jalil,17.01.003592.01,Rafique Alam,20,M,M,Chapai Nawabganj,Student,1735178791
+Fall From height,236,Ikram Hossain,17.01.003852.01,A Ahad,17,M,Si,Jessore,Not Applicable,1936804025
+Fall From height,237,Aminul Islam Md.,17.01.004012.01,Abdus Sattar,34,M,M,Dhaka,Not Applicable,1814401556
+Fall From height,238,Robin Md.,17.01.004018.01,Md. Shahabuddin,24,M,M,Mymensingh,Farmer,1930387200
+Fall From height,239,Mahbuba Mehrin,17.01.004379.01,Manik Hossain,20,F,Si,Comilla,Not Applicable,1629805009
+Fall From height,240,Fajol Hoque,17.01.004516.01,Jafor Mollal,50,M,M,Tangail,Farmer,1747371003
+Fall From height,241,Momin,17.01.005426.01,Abed Sli Sarkar,25,M,M,Sirajganj,Not Applicable,1768911255
+Fall From height,242,Humayen Kobir,17.01.005919.01,Eman Alli,52,M,M,Gazipur,Not Applicable,1748023883
+Fall From height,243,Sahanaj,17.01.005977.01,M,30,F,M,Dinajpur,Not Applicable,1728867509
+Fall From height,244,Mahabub Md.,17.01.006089.01,Farid Miah,33,M,Si,Kishoreganj,Service holder,1706034585
+Fall From height,245,Nezamul Hoque,17.01.006529.01,A Razzak Khan,51,M,M,Barisal,Not Applicable,1840502534
+Fall From height,246,Salma,17.01.006620.01,M,38,F,M,Faridpur,Not Applicable,1724363833
+Fall From height,247,A. Mannan,17.01.006881.01,Late. A. Goni,68,M,M,Sylhet,Not Applicable,1749870227
+Fall From height,248,Soma,17.01.007372.01,Abdur Razzak,20,F,Si,Netrokona,Not Applicable,1727196785
+Fall From height,249,Rubaidul Islam,17.01.007390.01,"M, D Haris",8,M,Si,Feni,Student,1859260056
+Fall From height,250,Nurun Nahar,17.01.007742.01,A Majid,60,F,M,Jessore,Housewife,1799362713
+Fall From height,251,Nurun Nahar,17.01.007800.01,M,60,F,M,Jessore,Not Applicable,1799362713
+Fall From height,252,Johir,17.01.008640.01,Munna,35,M,M,Chandpur,Not Applicable,1734009333
+Fall From height,253,Juwel,17.01.008743.01,Badsha Sarker,32,M,M,Bogra,Service holder,1950434050
+Fall From height,254,Aminul,17.01.008757.01,Sahadat Hossain,24,M,M,Lakshmipur,Businessman,1782351222
+Fall From height,255,Md Razib,17.01.009137.01,Khalil Khan,30,M,M,Madaripur,Mason,1729094251
+Fall From height,256,Shuvo Mondol,17.01.010219.01,Horram Mondol,25,M,Si,Dhaka,Not Applicable,1911535170
+Fall From height,257,Faridur Rahman,17.01.010822.01,Sona Ullah,42,M,M,Dhaka,Service holder,1876482487
+Fall From height,258,Md. Abdus Salam,17.01.010883.01,Late. A. Sattar,65,M,M,Dhaka,Not Applicable,1971000333
+Fall From height,259,Hena Akter,17.01.011016.01,S,32,F,M,Dhaka,Housewife,1720050386
+Fall From height,260,Md. Jafor,17.01.011461.01,Kasrm Khan,35,M,M,Rajbari,Not Applicable,1735451090
+Fall From height,261,Abdul Khalil Sheikh,17.01.011750.01,Late. Muntaz Sheikh,60,M,M,Kushtia,Not Applicable,1744661931
+Fall From height,262,Mizanur Rahoman,17.01.011798.01,Moyazen Matobbar,37,M,M,Madaripur,Not Applicable,1721576234
+Fall From height,263,Ekbol Hossen,17.01.011900.01,Md Tazul Islam,35,M,Si,Comilla,Not Applicable,1828017566
+Fall From height,264,Md. Naimul Hoque,17.01.012901.01,Alap Hossen,48,M,M,Rajshahi,Not Applicable,1753965403
+Fall From height,265,Sumon,17.01.013211.01,Humayoun Kabir,28,M,M,Bhola,Not Applicable,1756317530
+Fall From height,266,Fatema,17.01.013897.01,B,32,F,M,Barisal,Not Applicable,1778980034
+Fall From height,267,Monsur Ali Md.,17.01.014057.01,Amjad Ali,50,M,M,Dhaka,Not Applicable,1941623445
+Fall From height,268,Nazim,17.01.014113.01,Nayan Khan,26,M,Si,Tangail,Not Applicable,1779843476
+Fall From height,269,Amin Uddin,17.01.014846.01,A Alim,23,M,M,Brahmanbaria,Not Applicable,1797478476
+Fall From height,270,Md Rabbi,17.01.015364.01,Md Alam,20,M,Si,Shariatpur,Businessman,1736769871
+Fall From height,271,Deloar Hosain,17.01.015459.01,Mohir Uddin,35,M,M,Tangail,Non-Govt. Service Holder,1966243238
+Fall From height,272,Abdur Rahim,17.01.015632.01,Late. Idris Ali,55,M,M,Gazipur,Not Applicable,1939884729
+Fall From height,273,Surjo Begum,17.01.016276.01,Hossain,35,F,M,Dhaka,Housewife,1952706961
+Fall From height,274,Monoara Begum,17.01.016473.01,G,60,F,M,Chandpur,Housewife,1723551018
+Fall From height,275,Pobitro Sarker,17.01.016726.01,X,40,M,M,Gazipur,Not Applicable,1752510093
+Fall From height,276,Md. Toyab Ali,17.01.017424.01,Kancon Ali,61,M,M,Barguna,Not Applicable,1753641579
+Fall From height,277,Bilkiss Nahar,17.01.017452.01,J,25,F,M,Jhenaidah,Not Applicable,1982735925
+Fall From height,278,Mohashin,17.01.017762.01,Taru Mia,40,M,M,Brahmanbaria,Not Applicable,1980235789
+Fall From height,279,Muklesur Rahman Md.,17.01.019204.01,Late Yeaciruddin,58,M,M,Kurigram,Farmer,1724549644
+Fall From height,280,Baduizzaman Md.,17.01.019523.01,Late Abdul Kadir,60,M,M,Mymensingh,Not Applicable,1723334411
+Fall From height,281,Jalil Miah,17.01.019630.01,Ismile Matbar,27,M,M,Madaripur,Not Applicable,1747120329
+Fall From height,282,Nazrul Islam,17.01.019954.01,Ali Ahmed,48,M,M,Shariatpur,Not Applicable,1914580666
+Fall From height,283,Md Torikul,17.01.022234.01,Mohidul,30,M,M,Chapai Nawabganj,Daily Labour,1627126531
+Fall From height,284,Abul Kalam,17.01.024012.01,Ziabul Haque,50,M,M,Bhola,Not Applicable,1916048010
+Fall From height,285,Salma Begum,17.01.024150.01,A Salam,28,F,M,Narsingdi,Student,1777483330
+Fall From height,286,Md Milon,17.01.024264.01,G,26,M,Si,Lakshmipur,Not Applicable,1868012261
+Fall From height,287,Abul Kalam Azad,17.01.024550.01,Late. Shafiullah,55,M,M,Rangpur,Not Applicable,1715949969
+Fall From height,288,Abdul Zolil,17.01.025450.01,Md Bosir Ussin,40,M,M,Tangail,Not Applicable,1768070047
+Fall From height,289,Mohammad Azizul Hoque,17.01.025864.01,Abdul Baker,28,M,M,Kurigram,Not Applicable,1740173953
+Fall From height,290,Rubel Hossain,17.01.025898.01,Yeasuf,26,M,M,Dhaka,Not Applicable,1627785507
+Fall From height,291,Ishak Biswash,17.01.026060.01,H,55,M,M,Magura,Not Applicable,1911856947
+Fall From height,292,Billal,17.01.026464.01,Md Nurul Islam,27,M,M,Mymensingh,Not Applicable,1628912711
+Fall From height,293,Md Rezaul Korim,17.01.026623.01,Md A Kalam,28,M,M,Chittagong,Businessman,179328819
+Fall From height,294,Khairul Islam,17.01.027453.01,Abdul Barak,23,M,M,Mymensingh,Not Applicable,1930640455
+Fall From height,295,Omor Faruk,17.01.027569.01,Sahajul,35,M,M,Kushtia,Not Applicable,1751182966
+Fall From height,296,Halima Sultana,17.01.027950.01,Abul Hasam,11,F,Si,Dhaka,Not Applicable,1715259107
+Fall From height,297,Yousuf Md.,17.01.030082.01,Abdul Khaleque,40,M,M,Munshiganj,Not Applicable,1749401726
+Fall From height,298,Md Hasim Raza,17.01.030099.01,Abul Kashim,45,M,M,Mymensingh,Not Applicable,1733285328
+Fall From height,299,Bikash,17.01.031290.01,Vaggo Bai,40,M,M,Gopalganj,Not Applicable,1991482533
+Fall From height,300,Yousuf,17.01.031319.01,Bokul,18,M,Si,Kishoreganj,Not Applicable,1742998575
+Fall From height,301,Al Mamun,17.01.032291.01,Md. Atiar Rahman,35,M,M,Jessore,Housewife,1745582477
+Fall From height,302,Md Obaidul,17.01.032817.01,Md Mokhlesur Rahman,35,M,M,Comilla,Not Applicable,1872874070
+Fall From height,303,Nusrat Jaman Mim,17.01.033144.01,S,19,F,M,Comilla,Not Applicable,1711201024
+Fall From height,304,Amena Begum,17.01.033312.01,X,52,F,M,Nowgaon,Not Applicable,1753559088
+Fall From height,305,Md Johirul Islam,17.01.033522.01,Abdul Batin,30,M,M,Gazipur,Not Applicable,1963618222
+Fall From height,306,Jahir Ahmed,17.01.034853.01,Late. Anor Ali,58,M,M,Cox’s Bazar,Not Applicable,1818612798
+Fall From height,307,Mokbul,17.01.035177.01,Amir Ali,38,M,M,Tangail,Driver,1913907581
+Fall From height,308,Aminur Rahman,17.01.035209.01,Jhuru Bapri,30,M,M,Tangail,Not Applicable,1715814229
+Fall From height,309,Umme Kulsum,17.01.035261.01,M,29,F,M,Dhaka,Not Applicable,1991158533
+Fall From height,310,Md Faruk Uddin Shakh,17.01.035642.01,Md Aynal Uddin,52,M,M,Kushtia,Not Applicable,173993262
+Fall From height,311,Rasheda Begum,17.01.035646.01,Md. Khursed Alam,30,F,M,Manikgonj,Not Applicable,1777124515
+Fall From height,312,Md. Osman Ali,17.01.035870.01,Late. Mortuz Ali,40,M,M,Habiganj,Not Applicable,1726775354
+Fall From height,313,Md Billal,17.01.036044.01,Abul,28,M,Si,Chandpur,Not Applicable,1818884587
+Fall From height,314,Abir,17.01.038133.01,X,10,M,Si,Dhaka,Student,1944108968
+Fall From height,315,Md Abdur Roub,17.01.038920.01,Late Abdul Gofur Pramanik,45,M,M,Kushtia,Not Applicable,1672610314
+Fall From height,316,Arif Khan Md.,17.01.039836.01,Late Kader Khan,31,M,M,Dhaka,Not Applicable,1920497363
+Fall From height,317,Mr. Sagor,17.01.040090.01,Late Sayet Ali,33,M,M,Bogra,Not Applicable,1732379390
+Fall From height,318,Belayet Hossain Md.,17.01.040102.01,Abul Kashem (late),60,M,M,Dhaka,Not Applicable,1715913358
+Fall From height,319,Abu Bakkor Saikh,17.01.040108.01,Nilu Saikh,82,M,M,Khulna,Not Applicable,1766017238
+Fall From height,320,Md. Alamgir,17.01.040602.01,F,42,M,M,Lakshmipur,Not Applicable,1712327532
+Fall From height,321,Nuruzzaman,17.01.040748.01,Abdur Sadak,28,M,Si,Mymensingh,Not Applicable,1727895489
+Fall From height,322,Moushumi,17.01.040854.01,S,24,F,M,Dhaka,Not Applicable,1710447871
+Fall From height,323,Md. Rakib,17.01.049181.01,Md. Aslam,19,M,Si,Madaripur,Not Applicable,1672388989
+Fall From height,324,Alom Mollah,17.01.042523.01,Late Abul Hossain,42,M,M,Kushtia,Not Applicable,1712464757
+Fall From height,325,Mozammel,17.01.042842.01,Gg,30,M,M,Mymensingh,Not Applicable,1756525134
+Fall From height,326,Shepon,18.01.000036.01,Ruhul Amin,22,M,Si,Chandpur,Not Applicable,1742482397
+Fall From height,327,Jalaluddin Md.,18.01.000279.01,Nur Hossain,60,M,M,Maulivibazar,Not Applicable,1717972624
+Fall From height,328,Sayeed,18.01.001100.01,Md Nazrul Islam,20,M,Si,Sirajganj,Not Applicable,1722611492
+Fall From height,329,Ahmmed Ali,18.01.001122.01,Insan Ali,55,M,M,Dhaka,Not Applicable,1721258845
+Fall From height,330,Md. Rakib,18.01.001197.01,Lal Mia,20,M,Si,Kishoreganj,Not Applicable,1638115024
+Fall From height,331,Lokman Hossain,18.01.001920.01,Nur Mahmed,15,M,Si,Dhaka,Not Applicable,1923474494
+Fall From height,332,Nurul Amin,18.01.002116.01,Abdul Motin,20,M,M,Chandpur,Not Applicable,1757549138
+Fall From height,333,Md Jubayed Mia,18.01.002171.01,Abdus Sattar,29,M,M,Brahmanbaria,Not Applicable,1817400784
+Fall From height,334,Suraiya,18.01.002348.01,X,45,F,M,Comilla,Not Applicable,1815315044
+Fall From height,335,Rubel,18.01.002392.01,Xx,30,M,Si,Mymensingh,Not Applicable,1732321379
+Fall From height,336,Nirmol Sarker,18.01.002764.01,Kitish Sarker,55,M,M,Gazipur,Not Applicable,1626653182
+Fall From height,337,Sahin Alam,18.01.003555.01,Md Habibur Rahoman,30,M,Si,Tangail,Not Applicable,1734820462
+Fall From height,338,Md. Babul Hossain,18.01.003715.01,F,40,M,M,Manikgonj,Not Applicable,1753236055
+Fall From height,340,Shikh Nazrul Islam,18.01.006301.01,Hatim Ali,46,M,M,Bagerhat,Not Applicable,1985958401
+Fall From height,341,Kamrunnahar,18.01.006305.01,M,17,F,Si,Dhaka,Not Applicable,1951788235
+Fall From height,342,Mst. Mariyam Khatun Parul,18.01.006738.01,D,29,F,M,Kishoreganj,Not Applicable,1777824913
+Fall From height,343,Md. Zakir Hossain,18.01.007050.01,A. Sattar,38,M,M,Satkhira,Not Applicable,1705724863
+Fall From height,344,Md. Abdul Kuddus,18.01.007739.01,Abdul Suban,38,M,M,Dhaka,Not Applicable,1742110845
+Fall From height,345,Abdul Rab,18.01.007742.01,Late Md. Belayat Hossain,55,M,M,Tangail,Not Applicable,1781808985
+Fall From height,346,Sabina Yesmin,18.01.009756.01,S,22,F,M,Chandpur,Not Applicable,1832780850
+Fall From height,347,Rasel,18.01.010219.01,Md. Mojibur,16,M,Si,Sirajganj,Not Applicable,1790960651
+Fall From height,348,Abed Sheikh,18.01.010518.01,Gedu Sheikh,55,M,M,Faridpur,Not Applicable,1705795966
+Fall From height,349,Dulal,18.01.010651.01,Jobed Ali,35,M,M,Nowgaon,Not Applicable,1723712689
+Fall From height,350,Goutom Mondol,18.01.012016.01,Late Robindra Nath Mondol,50,M,M,Dhaka,Not Applicable,1731760275
+Fall From height,351,Bushra,18.01.012357.01,Mohiuddin,12,F,Si,Dhaka,Not Applicable,1711349904
+Fall From height,352,Nafisa Anjum,18.01.012403.01,A Haque,14,M,Si,Chittagong,Not Applicable,1758113848
+Fall From height,353,Abdul Mozid,18.01.012553.01,X,50,M,M,Tangail,Not Applicable,1718489504
+Fall From height,354,Md Abdullah,18.01.012660.01,A Jolil,27,M,S,Dhaka,Not Applicable,1905643141
+Fall From height,355,Milon Tarofdar,18.01.012978.01,M,35,M,M,Narail,Not Applicable,1778012217
+Fall From height,356,Elaias Hossain,18.01.013444.01,Nur Md,48,M,M,Khulna,Not Applicable,1918601030
+Fall From height,357,Razjob Ali,18.01.014498.01,X,45,M,M,Rajbari,Not Applicable,1743125113
+Fall From height,358,Md Rasel,18.01.015127.01,M,28,M,M,Dhaka,Not Applicable,1674111936
+Fall From height,359,Josimuddin,18.01.015150.01,M,65,M,M,Narshindi,Not Applicable,1726201903
+Fall From height,360,Jakir Hossain,18.01.017690.01,Malak Kha,40,M,M,Khulna,Not Applicable,1902492220
+Fall From height,361,Vopoty Modo,18.01.018818.01,Sodanodo,60,M,M,Dhaka,Not Applicable,1797670249
+Fall From height,362,Dolil Uddin,18.01.019399.01,M,62,M,M,Manikgonj,Not Applicable,1715458392
+Fall From height,363,Rahima,18.01.019402.01,M,56,F,M,Chapai Nawabganj,Not Applicable,1799383845
+Fall From height,364,Jiaul Hassan,18.01.019796.01,Shofikul Islam,55,M,M,Brahmanbaria,Not Applicable,1828559070
+Fall From height,365,Humayun Ahmed,18.01.019959.01,M,40,M,M,Barisal,Not Applicable,1759708532
+Fall From height,366,Sirajul Islam,18.01.019992.01,M,48,M,M,Chuadanga,Not Applicable,1941575483
+Fall From height,367,Jamal,18.01.020138.01,Md Mubarak Ali,35,M,M,Sylhet,Not Applicable,1729534040
+Fall From height,368,Akter,18.01.020705.01,M,45,M,M,Tangail,Not Applicable,1729313853
+Fall From height,369,Baboranjon Boumik,18.01.020935.01,Sachindra Boumik,50,M,M,Noakhali,Not Applicable,1830078363
+Fall From height,370,Nurul Islam,18.01.021513.01,Mohabbat Ali,48,M,M,Mymensingh,Not Applicable,1759978746
+Fall From height,371,Hasim Reza,18.01.022329.01,M,40,M,M,Mymensingh,Not Applicable,1712080069
+Fall From height,372,Ruma,18.01.023072.01,J,32,F,M,Brahmanbaria,Not Applicable,1819519133
+Fall From height,373,Abul Bashar,18.01.023451.01,Asmann Khan,45,M,M,Dhaka,Not Applicable,1721624066
+Fall From height,374,Bilkis,18.01.024925.01,H,30,F,M,Dhaka,Not Applicable,1755860857
+Fall From height,375,Rumana Akter,18.01.024939.01,Abul Kajer,14,F,Si,Lakshmipur,Not Applicable,1970000639
+Fall From height,376,Nupur Akter,18.01.025614.01,Md Sajahan,17,F,Si,Faridpur,Not Applicable,1711131855
+Fall From height,377,Farhana Tasnim,18.01.026067.01,Md Rofikul Islam,17,F,Si,Nowgaon,Not Applicable,1721025276
+Fall From height,378,Ariful Islam,18.01.026363.01,Nobir Sarker G,22,M,M,Sirajganj,Not Applicable,1799857084
+Fall From height,379,Lokman Hossain,18.01.026569.01,Bodiuzzaman,45,M,M,Lakshmipur,Not Applicable,1711814792
+Fall From height,380,Samad Mia,18.01.026598.01,M,35,M,M,Dhaka,Not Applicable,1705065915
+Fall From height,381,Zia Uddin,18.01.027408.01,Lat Abdul Bari,59,M,M,Dhaka,Not Applicable,1711540277
+Fall From height,382,Basar Sikdar,18.01.028733.01,Md Younus,35,M,M,Patuakhali,Not Applicable,1781690095
+Fall From height,383,Salma Akter,18.01.028909.01,Abul Kalam,20,F,Si,Lakshmipur,Not Applicable,1671573214
+Fall From height,384,Shahdat Hossain,18.01.029967.01,Boshir Ullah,35,M,M,Chandpur,Not Applicable,1829514644
+Fall From height,385,Momta,18.01.030765.01,Sudir,50,F,M,Manikgonj,Not Applicable,1750002190
+Fall From height,386,Tayeb Hossain,18.01.031472.01,Helal Uddin,158*,M,Si,Dhaka,Not Applicable,1855879488
+Fall From height,387,Janant,18.01.032348.01,Md Milon,10,F,Si,Noakhali,Not Applicable,1855553412
+Fall From height,388,Mr. Sirajul Islam,18.01.032427.01,X,42,M,M,Dhaka,Not Applicable,194423083
+Fall From height,389,A Khalek,18.01.033044.01,M,59,M,Si,Chandpur,Not Applicable,1852680575
+Fall From height,390,Mohima Begum,18.01.033240.01,H,45,F,M,Chandpur,Housewife,1746630492
+Fall From height,391,Abdul Aziz,18.01.033596.01,Late Kala Gazi,70,M,M,Comilla,Not Applicable,1872327201
+Fall From height,392,Abdul Halim,18.01.034720.01,Abdul Satter,45,M,M,Khulna,Not Applicable,1794431735
+Fall From height,393,Shavana Akter Taposi,18.01.035400.01,M,35,F,M,Rajbari,Not Applicable,1739903786
+Fall From height,394,Tashan,18.01.035560.01,Abdur Razzak Khodoker,24,M,Si,Patuakhali,Not Applicable,1754135268
+Fall From height,395,Jakiya Sultana,18.01.035589.01,H,30,F,M,Bogra,Not Applicable,1762363456
+Fall From height,396,Alkes Bepari,18.01.035961.01,J,47,M,M,Shariatpur,Not Applicable,1952516094
+Fall From height,397,Sena Begum,18.01.036148.01,Masud Mia,16,F,Si,Sylhet,Not Applicable,1733907318
+Fall From height,398,Mosharrof Hossain,18.01.037021.01,G,25,M,Si,Chapai Nawabganj,Not Applicable,1741357738
+Fall From height,399,Nasir Azizul,18.01.037976.01,Azizul Hoque,40,M,M,Chittagong,Not Applicable,1818471820
+Fall From height,400,Halim Khan,18.01.038232.01,M,48,M,M,Jhenaidah,Not Applicable,1912071553
+Fall From height,401,Mr. Sumon,18.01.038299.01,Md. Ramjan Ali,27,M,M,Natore,Not Applicable,1716355334
+Fall From height,402,Monirul Islam,18.01.038459.01,Nazrul Islam,23,M,Si,Natore,Not Applicable,1950036513
+Fall From height,403,Tawhidul Haque,18.01.038463.01,Md. Amdadul Haque,2,M,Si,Dhaka,Not Applicable,1811442475
+Fall From height,404,Fazal,18.01.038628.01,Md. Lal Miah,30,M,M,Jamalpur,Not Applicable,1858335182
+Fall From height,405,Md. Nazmul Islam Joni,18.01.038851.01,H,23,M,Si,Gaibandha,Not Applicable,1950436534
+Fall From height,406,Nuruzzman,18.01.038986.01,Md. Arob Ali,25,M,M,Noakhali,Not Applicable,1859814725
+Fall From height,407,Mitu,18.01.039078.01,M,17,F,M,Dhaka,Not Applicable,1961622563
+Fall From height,408,Abdul Kaddus,18.01.039301.01,Md. Kabir Prmanik,45,M,M,Natore,Not Applicable,1784844143
+Fall From height,409,Afsar,18.01.039374.01,M,56,M,M,Narayanganj,Not Applicable,1981027995
+Fall From height,410,Billal Hossen,18.01.039398.01,M,55,M,M,Dhaka,Not Applicable,1849990832
+Fall From height,411,Md Etudul Islam,18.01.039527.01,Sajahan,39,M,Si,Khulna,Not Applicable,1922650094
+Fall From height,412,Md Mutaleb,18.01.039767.01,Md Mukarem Shekh,50,M,M,Rajbari,Not Applicable,1779048562
+Fall From height,387,Janant,18.01.032348.01,Md Milon,10,F,Si,Noakhali,Not Applicable,1855553412
+Fall From height,388,Mr. Sirajul Islam,18.01.032427.01,X,42,M,M,Dhaka,Not Applicable,194423083
+Fall From height,389,A Khalek,18.01.033044.01,M,59,M,Si,Chandpur,Not Applicable,1852680575
+Fall From height,390,Mohima Begum,18.01.033240.01,H,45,F,M,Chandpur,Housewife,1746630492
+Fall From height,391,Abdul Aziz,18.01.033596.01,Late Kala Gazi,70,M,M,Comilla,Not Applicable,1872327201
+Fall From height,392,Abdul Halim,18.01.034720.01,Abdul Satter,45,M,M,Khulna,Not Applicable,1794431735
+Fall From height,393,Shavana Akter Taposi,18.01.035400.01,M,35,F,M,Rajbari,Not Applicable,1739903786
+Fall From height,394,Tashan,18.01.035560.01,Abdur Razzak Khodoker,24,M,Si,Patuakhali,Not Applicable,1754135268
+Fall From height,395,Jakiya Sultana,18.01.035589.01,H,30,F,M,Bogra,Not Applicable,1762363456
+Fall From height,396,Alkes Bepari,18.01.035961.01,J,47,M,M,Shariatpur,Not Applicable,1952516094
+Fall From height,397,Sena Begum,18.01.036148.01,Masud Mia,16,F,Si,Sylhet,Not Applicable,1733907318
+Fall From height,398,Mosharrof Hossain,18.01.037021.01,G,25,M,Si,Chapai Nawabganj,Not Applicable,1741357738
+Fall From height,399,Nasir Azizul,18.01.037976.01,Azizul Hoque,40,M,M,Chittagong,Not Applicable,1818471820
+Fall From height,400,Halim Khan,18.01.038232.01,M,48,M,M,Jhenaidah,Not Applicable,1912071553
+Fall From height,401,Mr. Sumon,18.01.038299.01,Md. Ramjan Ali,27,M,M,Natore,Not Applicable,1716355334
+Fall From height,402,Monirul Islam,18.01.038459.01,Nazrul Islam,23,M,Si,Natore,Not Applicable,1950036513
+Fall From height,403,Tawhidul Haque,18.01.038463.01,Md. Amdadul Haque,2,M,Si,Dhaka,Not Applicable,1811442475
+Fall From height,404,Fazal,18.01.038628.01,Md. Lal Miah,30,M,M,Jamalpur,Not Applicable,1858335182
+Fall From height,405,Md. Nazmul Islam Joni,18.01.038851.01,H,23,M,Si,Gaibandha,Not Applicable,1950436534
+Fall From height,406,Nuruzzman,18.01.038986.01,Md. Arob Ali,25,M,M,Noakhali,Not Applicable,1859814725
+Fall From height,407,Mitu,18.01.039078.01,M,17,F,M,Dhaka,Not Applicable,1961622563
+Fall From height,408,Abdul Kaddus,18.01.039301.01,Md. Kabir Prmanik,45,M,M,Natore,Not Applicable,1784844143
+Fall From height,409,Afsar,18.01.039374.01,M,56,M,M,Narayanganj,Not Applicable,1981027995
+Fall From height,410,Billal Hossen,18.01.039398.01,M,55,M,M,Dhaka,Not Applicable,1849990832
+Fall From height,411,Md Etudul Islam,18.01.039527.01,Sajahan,39,M,Si,Khulna and Chattogram?,Not Applicable?,1922650094
+Fall From height,412,Md Mutaleb,18.01.039767.01,Md Mukarem Shekh,50,M,M,Rajbari,Not Applicable,1779048562
+Fall From height,413,Iqbal Md.,18.01.040900.01,Abdul Jabbar,30,M,M,Kishoreganj,Not Applicable,1780077485
+Fall From height,414,Rezaul Islam,18.01.041101.01,M,55,M,M,Jhenaidah,Not Applicable,1772420125
+Fall From height,415,Zohur Islam,18.01.041534.01,M,32,M,M,Barisal,Not Applicable,1713679148
+Fall From height,416,Johur,18.01.041602.01,Mandar Sorder,45,F,M,Jessore,Not Applicable,1725819136
+Fall From height,417,Lolita Begum,18.01.042805.01,Kutub Uddin,20,F,Si,Habiganj,Not Applicable,1761616734
+Fall From height,418,Nazmul,18.01.043126.01,Md Mojidul,23,M,Si,Kurigram,Not Applicable,1772764980
+Fall From height,419,Dulal,18.01.043355.01,Joynal,20,M,Si,Chittagong,Not Applicable,1869486873
+Fall From height,420,Abdur Razzak,18.01.043687.01,Selim,25,M,Si,Bhola,Not Applicable,1766193735
+Fall From height,421,Md Yeakub Ali,18.01.044206.01,Hafiz Ali Akbor,33,M,M,Comilla,Not Applicable,1832442888
+Fall From height,422,Md Sorab Ali,18.01.044387.01,Abuk Kashim,43,M,M,Manikgonj,Not Applicable,1713532087
+Fall From height,423,Abdul Hamid,18.01.044894.01,M,50,M,M,Pabna,Not Applicable,1788274290
+Fall From height,424,Komol Chondo Sarkar,18.01.045231.01,M,50,M,M,Brahmanbaria,Not Applicable,1774911893
+Fall From height,425,Md Farhad Hossain,18.01.045422.01,Md Abdul Based,27,M,M,Dhaka,Not Applicable,1963525490
+Fall From height,426,Potul,18.01.045510.01,M,22,F,M,Barisal,Not Applicable,1634229147
+Fall From height,427,Akidul,18.01.045540.01,Md Borud Ali,25,M,M,Mymensingh,Not Applicable,1980724932
+Fall From height,428,Dipu,18.01.046219.01,X,24,M,Si,Dhaka,Not Applicable,1812747474
+Fall From height,429,Abdul Mannan,18.01.046519.01,Md Abdul Samad,45,M,M,Bogra,Not Applicable,1721631108
+Fall From height,430,Mrs. Shahida Begum,19.01.000029.01,Gh,40,F,M,Madaripur,Not Applicable,1714584793
+Fall From height,431,Halima Begum,19.01.000098.01,Sirajul Haque,52,F,M,Pirojpur,Not Applicable,1916735451
+Fall From height,432,Alim,19.01.000282.01,Ahmed Ali,35,M,M,Dhaka,Not Applicable,1924314029
+Fall From height,433,Mr. Komol Das,19.01.000479.01,G,40,M,M,Dhaka,Not Applicable,1675495301
+Fall From height,434,Ibrahim,19.01.001204.01,Hatem Kazi,35,M,M,Bhola,Not Applicable,1726966581
+Fall From height,435,Kedir Mia,19.01.002850.01,Mona Mia,45,M,M,Maulivibazar,Not Applicable,1723518145
+Fall From height,436,Salman Hossain,19.01.003301.01,Monir Hossain,17,M,Si,Dhaka,Not Applicable,1715563512
+Fall From height,437,Md Babul Hossain,19.01.003775.01,Md Nosir Uddin,50,M,M,Dinajpur,Not Applicable,1774647742
+Fall From height,438,Golam Rabbi,19.01.003806.01,Fd,24,M,Si,Gazipur,Not Applicable,1722870766
+Fall From height,439,Rafique Islam,19.01.003910.01,Babor Ali,42,M,M,Chuadanga,Not Applicable,1735203503
+Fall from the stairs,1,Shefali Akter Mrs.,15.01.037623.01,X,32,F,M,Manikgonj,Not Applicable,1731654888
+Fall from the stairs,2,Rebeka Khatun,16.01.008735.01,X,47,M,M,Dhaka,Non-Govt. Service Holder,1731546446
+Fall from the stairs,3,Asadul,16.01.008780.01,Alom,25,M,M,Rangpur,Not Applicable,17581028747
+Fall from the stairs,4,Pinky,16.01.015591.01,Late Md. Dilu Miah,20,F,M,Narayanganj,Housewife,1681277999
+Fall from the stairs,5,Azizul Haque Md.,16.01.023287.01,Md. Lutfor Rahman,24,M,Si,Dhaka,Service – CRP,1924272803
+Fall from the stairs,6,Mofij,17.01.002944.01,Jamal Uddin,30,M,M,Dhaka,Not Applicable,01nai
+Fall from the stairs,8,Altaf Hossain,18.01.010394.01,A. Mannan,40,M,M,Rajshahi,Not Applicable,1720982572
+Fall from the stairs,9,Kollan Kumar Deb,18.01.023782.01,Krishna Kumar Deb,47,M,M,Habiganj,Not Applicable,1720329090
+Fall from the stairs,10,Md. Helal,18.01.036681.01,Md. Abdul Motin,32,M,M,Noakhali,Not Applicable,1816044815
+Fall from the stairs,11,Ronjit Kholifa,18.01.040690.01,Sotes Kholifa,60,M,M,Gopalganj,Not Applicable,1985823085
+Fall from the stairs,12,Mim,19.01.011285.01,Abdul Gofur,18,F,Si,Dhaka,Not Applicable,1717222691
+Fall from the stairs,13,Md Mudasser Billah,19.01.011596.01,X,60,M,M,Dhaka,Not Applicable,1552304591
+Fall from the stairs,14,Selina Akter,19.01.013002.01,X,32,F,M,Dhaka,Not Applicable,1813153445
+Fall from the stairs,15,Forida,19.01.014533.01,M,30,F,M,Jhenaidah,Not Applicable,1757523825
+Fall from the stairs,16,Sayera Begum,19.01.015179.01,X,65,F,M,Lakshmipur,Not Applicable,1721560540
+Fall from the stairs,17,Abdul Khaleque,19.01.015465.01,X,39,M,M,Dhaka,Not Applicable,1996507154
+Fall from the stairs,18,Jarin Rafa,19.01.015842.01,Shamsul Alam,21,F,Si,Dhaka,Not Applicable,1726137930
+Fall from the stairs,19,Abida Sultana,19.01.016232.01,X,15,F,Si,Dhaka,Not Applicable,1947790061
+Fall from the stairs,20,Shohidul Islam,19.01.016347.01,X,44,M,M,Manikgonj,Not Applicable,1401546209
+Fall from the stairs,21,Taslima Akter,19.01.016630.01,M,39,F,M,Gazipur,Not Applicable,1723684118
+Fall from the stairs,22,Farhana Hasan,19.01.017296.01,X,39,F,M,Tangail,Not Applicable,1760313146
+Fall from the stairs,23,Tara Banu,19.01.017888.01,J,30,F,M,Dhaka,Not Applicable,1710092234
+Fall from the stairs,24,Sheuli Tahari,19.01.019489.01,X,52,F,M,Dhaka,Not Applicable,1917522698
+Fall from the stairs,25,Lany Gomes,19.01.022381.01,Bernard Gomes,25,M,Si,Dhaka,Not Applicable,1854288620
+Fall from the stairs,26,Amatul,19.01.023311.01,Arif,3,F,Si,Dhaka,Not Applicable,1600289168
+Fall from the stairs,27,Jesmin Khatun,19.01.023376.01,X,22,F,M,Kushtia,Not Applicable,1843558879
+Fall from the stairs,28,Shikha Mrs.,19.01.023935.01,X,30,F,M,Dhaka,Not Applicable,1720964334
+Fall from the stairs,29,Salma Jahan Mrs.,19.01.024201.01,X,33,F,M,Dhaka,Not Applicable,1716219431
+Fall from the stairs,30,Taslima Most.,19.01.024220.01,X,47,F,M,Dhaka,Not Applicable,1996359258
+Fall from the stairs,31,Kona Akter,19.01.024267.01,S,22,F,M,Manikgonj,Not Applicable,1753594522
+Fall from the stairs,32,Sharmila Yeasmin Mrs.,19.01.024499.01,X,29,F,M,Dhaka,Not Applicable,1923626461
+Fall from the stairs,33,Hamida Begum Mrs.,19.01.024816.01,X,45,F,M,Jamalpur,Not Applicable,1797846285
+Fall from the stairs,34,A Awal,19.01.025099.01,A Hakim,35,M,M,Manikgonj,Not Applicable,1957615125
+Fall from the stairs,35,Gita Rani,19.01.026419.01,S,70,F,M,Manikgonj,Not Applicable,175255064
+Fall from the stairs,36,Razia Most.,19.01.027422.01,X,60,F,M,Manikgonj,Not Applicable,1720479695
+Fall from the stairs,37,Hafiza Akter,19.01.028603.01,Jkj,30,F,M,Tangail,Not Applicable,1558324781
+Fall from the stairs,38,Sajjad Ali Talukdar,19.01.030156.01,M,40,M,M,Dhaka,Not Applicable,1720617899
+Fall from the stairs,39,Bilkis,19.01.030192.01,Z,29,F,M,Dhaka,Not Applicable,1924101333
+Fall from the stairs,40,Sheuly,19.01.031004.01,M,30,F,M,Dhaka,Not Applicable,1647633622
+Fall from the stairs,41,Dalowara,19.01.031097.01,X,48,F,M,Dhaka,Not Applicable,1714202766
+Fall from the stairs,42,Salha,19.01.036299.01,Shakib,1,M,Si,Dhaka,Not Applicable,1940121103
+Fall from the stairs,43,Md Abrar,19.01.036858.01,Sofikul,9,M,Si,Dhaka,Not Applicable,1817611216
+Fall from the stairs,44,Liakat Hossain,19.01.037511.01,X,33,M,M,Dhaka,Not Applicable,1915888810
+Fall from the stairs,45,Ziyarul,19.01.037713.01,O,36,M,M,Dhaka,Not Applicable,1741391590
+Fall from the stairs,46,Ferdousi,19.01.038150.01,Eradul Islam,20,F,Si,Pirojpur,Not Applicable,1777328213
+Fall from the stairs,47,Md Rezaul Karim,19.01.038400.01,Khaled Hossain,37,M,M,Comilla,Not Applicable,1831340907
+Fall from the stairs,48,Montu Saha,19.01.039100.01,Brodandro Nat Saha,49,M,M,Dhaka,Not Applicable,1716189468
+Fall from the stairs,49,Aleya,19.01.039520.01,X,47,F,M,Nowgaon,Not Applicable,1779103074
+Fall from the stairs,50,Lal Chan,19.01.039567.01,X,50,M,M,Gazipur,Not Applicable,1741789451
+Fall from the stairs,51,Lucky,19.01.040337.01,X,43,F,M,Dhaka,Not Applicable,1715780290
+Fall from the stairs,52,Halima,19.01.040554.01,X,18,F,M,Bhola,Not Applicable,1856052309
+Fall from the stairs,53,Md Tazul Islam,19.01.040773.01,X,62,M,M,Dhaka,Not Applicable,1712833692
+Fall from the stairs,54,Orthi,19.01.041566.01,X,15,F,Si,Manikgonj,Not Applicable,1726451045
+Fall from the stairs,55,Yesmin,19.01.042271.01,S,28,F,M,Dhaka,Not Applicable,1782039977
+Fall from the stairs,56,Md. Momin Mia,19.01.042322.01,O,50,M,M,Brahmanbaria,Not Applicable,1726182251
+Fall from the stairs,57,Abdul Gofur,19.01.045197.01,Sodhu Mondul,52,M,M,Dhaka,Not Applicable,1818659705
+Fall from the stairs,58,Hazera Khatun,19.01.045236.01,Ali Newaz,45,F,M,Dhaka,Not Applicable,1878798533
+Fall from the stairs,59,Arifa,19.01.047288.01,X,30,F,Si,Pabna,Not Applicable,1739168108
+Fall from the stairs,60,Shahanaz Parvin,19.01.047586.01,M,40,F,M,Nowgaon,Not Applicable,1716933485
+Fall from the stairs,61,Nasima,19.01.048052.01,X,27,F,M,Rangpur,Not Applicable,1767954912
+Fall from the stairs,62,Md Oaes Khan,19.01.048987.01,X,23,M,Si,Dhaka,Not Applicable,1754940443
+Fall from the stairs,63,Md Faruk Sarkar,19.01.049024.01,Saijuddin,35,M,M,Narayanganj,Not Applicable,1671066381
+Fall from the stairs,64,Sultana Hawa,19.01.049764.01,Xx,32,F,M,Dhaka,Not Applicable,1915659088
+Fall from the stairs,65,Shehab Rana,19.01.050477.01,X,12,F,Si,Manikgonj,Not Applicable,1713517326
+Fall from the stairs,66,Shova Mrs.,20.01.000655.01,O,60,F,M,Dhaka,Not Applicable,1921556458
+Fall from the stairs,67,Rois Uddin,20.01.000837.01,Abul Hasem,33,M,M,Chuadanga,Not Applicable,1301941055
+Fall from the stairs,68,Nihab,20.01.003199.01,Alauddin,13,M,Si,Nowgaon,Not Applicable,1623212169
+Fall from the stairs,69,Amrito Chandro Day,20.01.003858.01,X,52,M,M,Chandpur,Not Applicable,1711025070
+Fall from the stairs,70,Sumista,20.01.005232.01,X,37,M,M,Khulna,Not Applicable,1716853634
+Fall from the stairs,71,Rubel,20.01.006435.01,X,18,M,Si,Dhaka,Not Applicable,1735831242
+Fall from the stairs,72,Md Abdul Hamid Khan,20.01.007975.01,M,56,M,M,Dhaka,Not Applicable,1712151811
+Fall from the stairs,73,Rijiya Begum,20.01.008288.01,O,70,F,M,Manikgonj,Not Applicable,1764468458
+Fall from the stairs,74,Shiuly,20.01.014781.01,M,31,F,M,Dhaka,Not Applicable,1647633622
+Fall from the stairs,75,Reba,20.01.029706.01,Aslam,26,F,M,Dhaka,Not Applicable,1861066377
+Fall from the stairs,76,Md Mostofa,20.01.033811.01,X,50,M,M,Dhaka,Not Applicable,1763904714
+Fall from the stairs,77,Aktara Mrs,21.01.004922.01,Nur Islam,25,F,M,Dhaka,Not Applicable,1795063988
+Fall from the stairs,78,Md. Shahin Miah,21.01.026960.01,X,50,M,M,Kishoreganj,Not Applicable,1742598480
+Fall from the stairs,79,Md. Ashraful,21.01.030207.01,X,45,M,M,Feni,Not Applicable,1711457601
+Fall from the stairs,80,Selina Begum,21.01.045020.01,Ibrahim Morol,33,F,M,Dhaka,Not Applicable,1911435494
+Fall from the stairs,81,Narayon Chandra Das,21.01.050042.01,S,72,M,M,Jhalokathi,Not Applicable,1999371572
+Fall From tree,1,Forhad,15.01.000170.01,Marfat Ali,25,M,M,Tangail,Daily Labour,1747321618
+Fall From tree,2,Delowar Hosain,15.01.001162.01,Tayoub Uddin,55,M,M,Mymensingh,Not Applicable,1920296389
+Fall From tree,3,Al-Amin,15.01.001227.01,Abdus Sobur Morol,23,M,Si,Khulna,Not Applicable,1714509074
+Fall From tree,4,Tarek,15.01.001824.01,Moksed,21,M,Si,Mymensingh,Not Applicable,1749257676
+Fall From tree,5,Md. Siddque Miah,15.01.002471.01,Kader,35,M,M,Dhaka,Not Applicable,1855802537
+Fall From tree,6,Afsar Hossain,15.01.002985.01,Sofik,17,M,Si,Chandpur,Student,1824042157
+Fall From tree,7,Abdur Razzak,15.01.003267.01,Md. Kobir Uddin,37,M,M,Sirajganj,Not Applicable,1765679319
+Fall From tree,8,Md. Delowar Hossain,15.01.004139.01,Nurul Haque,33,M,M,Noakhali,Not Applicable,1837598140
+Fall From tree,9,Abdul Zahed,15.01.004250.01,Late. Late. A. Hasem,45,M,M,Lakshmipur,Farmer,1748903480
+Fall From tree,10,Md Ibrahim,15.01.004540.01,Lat Zalal Ahmed,35,M,M,Chittagong,Not Applicable,1812771557
+Fall From tree,11,Jahirul Islam,15.01.004936.01,A. Sattar,40,M,M,Lakshmipur,Not Applicable,1791213576
+Fall From tree,12,Abu Tahar,15.01.005024.01,Md Zalal,50,M,M,Bhola,Not Applicable,1713030512
+Fall From tree,13,Azim Sharif,15.01.005183.01,Noor Mohammad,30,M,M,Lakshmipur,Not Applicable,1715098265
+Fall From tree,14,Abdur Razzak,15.01.005186.01,Late. A. Sattar,45,M,M,Rajshahi,Not Applicable,1714257253
+Fall From tree,15,Nurul Islam,15.01.005260.01,Afsar,45,M,M,Khulna,Not Applicable,1738866454
+Fall From tree,16,Md. Abdur Rahman,15.01.007066.01,Azizur Rahman,28,M,Si,Habiganj,Not Applicable,1785723795
+Fall From tree,17,Rowshan Ali,15.01.007215.01,Asmot Ali,65,M,M,Comilla,Not Applicable,1836819587
+Fall From tree,18,Moksud Shek,15.01.007345.01,Motior Rahman,48,M,M,Khulna,Not Applicable,1786643400
+Fall From tree,19,Sahidul Islam,15.01.007907.01,Rosul Late,48,M,M,Jessore,Not Applicable,17322326286
+Fall From tree,20,Harun Or Rashid,15.01.008174.01,Tazul Islam,40,M,M,Lakshmipur,Not Applicable,1746423405
+Fall From tree,21,Ariful Islam,15.01.009919.01,Sirajul,17,M,Si,Faridpur,Not Applicable,1727844892
+Fall From tree,22,Ibrahim,15.01.010052.01,A Razzak,20,M,Si,Magura,Not Applicable,1791688965
+Fall From tree,23,Nasir Uddin,15.01.010071.01,A Satter,23,M,Si,Brahmanbaria,Businessman,1766639570
+Fall From tree,24,Omor Thakur,15.01.010441.01,Salam,55,M,M,Gopalganj,Farmer,1912103821
+Fall From tree,25,Saiful Islam,15.01.010533.01,A Rouf,14,M,Si,Manikgonj,Student,1714162519
+Fall From tree,26,Anisur,15.01.011112.01,Soyeed Ali,40,M,M,Dhaka,Not Applicable,1796968871
+Fall From tree,27,Md. Noyon,15.01.011587.01,Late. Md. Nurun Nabi,20,M,M,Bhola,Not Applicable,1714281938
+Fall From tree,28,Md. Sumon,15.01.012460.01,Mohon Mia,20,M,Si,Chandpur,Not Applicable,1828983460
+Fall From tree,29,Motaleb Md.,15.01.012481.01,Md. Amir Hossain,33,M,M,Comilla,Daily Labour,1812926263
+Fall From tree,30,Abusul Latif,15.01.013002.01,Sobhan Mollah,60,M,M,Rajbari,Not Applicable,1760473788
+Fall From tree,31,Monir Hossain,15.01.013619.01,Abul Hasem,26,M,Si,Shariatpur,Student,1819163118
+Fall From tree,32,Rabbi,15.01.014612.01,Jobed Ali,11,M,Si,Manikgonj,Student,1703765120
+Fall From tree,33,Khalil Gazi,15.01.014616.01,Abdul Gafur,36,M,M,Brahmanbaria,Not Applicable,1756480146
+Fall From tree,34,Shahajan Kabir,15.01.014855.01,Abdul Karim Bhuiyan,24,M,Si,Mymensingh,Service holder,1713591335
+Fall From tree,35,Tariqullah Bapari,15.01.014994.01,Bashirullah Bapary,60,M,M,Chandpur,Businessman,1675491952
+Fall From tree,36,A Mannan,15.01.015153.01,A Gofur,41,M,M,Jessore,Not Applicable,1726033104
+Fall From tree,37,Aminul Islam,15.01.015165.01,Monsur Ali,27,M,M,Jessore,Not Applicable,1751053333
+Fall From tree,38,Rabiul Islam Md.,15.01.015729.01,Abed Ali,36,M,M,Pabna,Farmer,1683291583
+Fall From tree,39,Tazul Islam,15.01.015931.01,Late Jinnat Ali,46,M,M,Narsingdi,Not Applicable,1755030788
+Fall From tree,40,Moinul Islam Md.,15.01.015996.01,Md. Joynal Abedin,20,M,Si,Jessore,Student,1944975397
+Fall From tree,41,A Razzak,15.01.016106.01,A Mozid,32,M,M,Jessore,Not Applicable,1962716815
+Fall From tree,42,Jewel,15.01.016132.01,Jamiruddin,17,M,Si,Jhenaidah,Student,1737361369
+Fall From tree,43,Saidur Rahman,15.01.016207.01,A Mannan,50,M,M,Natore,Not Applicable,1722776612
+Fall From tree,44,Hazera Akter,15.01.016268.01,X,20,F,M,Comilla,Housewife,171350136
+Fall From tree,45,Ibraheem Sarker,15.01.016269.01,Mostafa Sarker,30,M,M,Gazipur,Not Applicable,1622329509
+Fall From tree,46,Abdul Khaleque,15.01.016320.01,Md Salah,30,M,Si,Chittagong,Not Applicable,1830161088
+Fall From tree,47,Mohamad Ali,15.01.016481.01,Arosh Ali,35,M,M,Brahmanbaria,Not Applicable,1
+Fall From tree,48,Md Sonam Uddin,15.01.016491.01,Late Sayeed Ali Bapari,62,M,M,Gazipur,Farmer,1871494709
+Fall From tree,49,Ismaile,15.01.016522.01,Zakaria,35,M,M,Gazipur,Not Applicable,1954932146
+Fall From tree,50,Shishir Ahmed,15.01.016554.02,Rabiul Islam,19,M,Si,Kushtia,Not Applicable,1723771707
+Fall From tree,51,Ripon Munshi,15.01.016580.01,Baleyet Munshi,31,M,M,Chandpur,Not Applicable,1812052445
+Fall From tree,52,Sahidul Islam,15.01.016644.01,A Rohim,25,M,M,Jessore,Daily Labour,1711210401
+Fall From tree,53,Sohel,15.01.016658.01,Dulal,16,M,Si,Noakhali,Student,155630781
+Fall From tree,54,Mow. Nazibullah,15.01.016966.01,Mow. Aminullah,65,M,M,Noakhali,Not Applicable,1928530722
+Fall From tree,55,Sharif Ali,15.01.017134.01,Hossan Ali Late,35,M,M,Chapai Nawabganj,Not Applicable,1714460372
+Fall From tree,56,Rabbi,15.01.017285.01,Jobed Bapari,11,M,Si,Manikgonj,Not Applicable,1754370310
+Fall From tree,57,Rubel Hossen,15.01.017333.01,Harun,26,M,M,Rajshahi,Not Applicable,1746014162
+Fall From tree,58,Emdadul Haque,15.01.017769.01,Muntaz,45,M,M,Dhaka,Not Applicable,01no
+Fall From tree,59,Sukur Ali,15.01.017813.01,Nowzesh Ali,30,M,M,Tangail,Not Applicable,1751585351
+Fall From tree,60,Rohima Begum,15.01.017932.01,X,70,F,M,Munshiganj,Not Applicable,1774716476
+Fall From tree,61,Habib,15.01.018106.01,Harun,8,M,Si,Sirajganj,Student,1790092823
+Fall From tree,62,Bakul,15.01.018170.01,Ali Ahmed,14,M,Si,Chuadanga,Not Applicable,1923181975
+Fall From tree,63,Eti,15.01.019043.01,Tajammel Haque Mondol,8,F,Si,Bogra,Student,1727363909
+Fall From tree,64,Sona Mia,15.01.019201.01,Late. Jafor,65,M,M,Tangail,Not Applicable,1731710789
+Fall From tree,65,Saidur Rahman,15.01.019208.01,Ruhul Amin,17,M,Si,Barisal,Not Applicable,1
+Fall From tree,66,Masud Sorder,15.01.019434.01,Samsu Sorder,27,M,M,Faridpur,Farmer,1713582835
+Fall From tree,67,Shahin,15.01.019522.01,Baccu,25,M,M,Lakshmipur,Not Applicable,1732010685
+Fall From tree,68,Maruf Ahmed,15.01.019523.01,Khalilur Rahman,32,M,M,Sylhet,Daily Labour,1710985296
+Fall From tree,69,Borsha,15.01.019546.01,Nurul Islam,14,F,Si,Rajbari,Not Applicable,1721399604
+Fall From tree,70,A Malek,15.01.019553.01,Late Chandu,45,M,M,Dhaka,Not Applicable,1961856502
+Fall From tree,71,Abdur Sobur Shaikh,15.01.020075.01,Md Aziz,29,M,M,Faridpur,Not Applicable,1920721998
+Fall From tree,72,Julhash Bapari,15.01.020448.01,Hasan Ali,30,M,M,Dhaka,Service holder,1711499723
+Fall From tree,73,Lilu Miah,15.01.020569.01,Habibur Rahman,50,M,M,Kishoreganj,Not Applicable,1766495803
+Fall From tree,74,Nur Islam,15.01.020982.01,Syed Ali,22,M,Si,Habiganj,Not Applicable,1983533141
+Fall From tree,75,Marjana Akter,15.01.021102.01,Farhad,15,F,Si,Kishoreganj,Not Applicable,1781278078
+Fall From tree,76,Masud,15.01.021118.01,Samsul,25,M,Si,Faridpur,Not Applicable,1000
+Fall From tree,77,Mofij Uddin,15.01.021374.01,Ofaj Uddin,50,M,M,Dhaka,Not Applicable,1727744657
+Fall From tree,78,Shohage,15.01.021616.01,Korim Ullah,26,M,M,Feni,Not Applicable,1821589685
+Fall From tree,79,Shahin Miah,15.01.021754.01,Billal Hossain,25,M,M,Lakshmipur,Daily Labour,1732010685
+Fall From tree,80,Aslam Majid,15.01.022006.01,Jibon Ai,40,M,M,Lakshmipur,Not Applicable,1720698737
+Fall From tree,81,Anowar,15.01.022042.01,Shairuddion,32,M,M,Rajshahi,Farmer,1725019395
+Fall From tree,82,Jakir Hossain Md.,15.01.022580.01,Abdul Majid Kha,24,M,Si,Dhaka,Not Applicable,1957111948
+Fall From tree,83,Asgor,15.01.023307.01,Ayeub Gazi,23,M,M,Jessore,Not Applicable,1922213706
+Fall From tree,84,Rezaul Sarder,15.01.024681.01,Ibrahim,28,M,Si,Jessore,Not Applicable,1720655381
+Fall From tree,85,Monir Md.,15.01.025455.01,Late Abdul Matin,30,M,Si,Chandpur,Not Applicable,1823235204
+Fall From tree,86,Md Ali,15.01.025841.01,Nuru Islam,11,M,Si,Dhaka,Student,1987997335
+Fall From tree,87,Sadakul Islam,15.01.026245.01,Abdul Kuddus Mia,35,M,M,Chapai Nawabganj,Not Applicable,1713761656
+Fall From tree,88,Sultan,15.01.026568.01,Kismot Ali,40,M,M,Jessore,Not Applicable,1712005977
+Fall From tree,89,Rubel,15.01.026656.01,Malak,19,M,Si,Manikgonj,Not Applicable,1682687174
+Fall From tree,90,Kubbat,15.01.027412.01,Rasuluddin Biswas,38,M,M,Manikgonj,Not Applicable,1931359706
+Fall From tree,91,Kamrul Islam,15.01.027488.01,Md. Asgar Ali,30,M,M,Satkhira,Not Applicable,1775921626
+Fall From tree,92,Insan Haulader,15.01.027512.01,Jakir,12,M,Si,Pirojpur,Student,1961958047
+Fall From tree,93,Shakhawat Hosain,15.01.027655.01,Milon Mia,38,M,M,Dhaka,Not Applicable,1747074201
+Fall From tree,94,Akbor,15.01.027905.01,Chandu Kha,48,M,M,Pabna,Not Applicable,1954894471
+Fall From tree,95,Mobarak Hossan,15.01.028040.01,Late Aziz,40,M,M,Brahmanbaria,Not Applicable,1712965719
+Fall From tree,96,Asadul,15.01.028656.01,Nur Box Mondol,30,M,M,Magura,Not Applicable,1867914461
+Fall From tree,97,Md Joynal Sarder,15.01.029140.01,Late Moslem Sarder,45,M,M,Jessore,Farmer,1917210150
+Fall From tree,98,A Bari,15.01.029826.01,Muntaj Sorder,40,M,M,Jessore,Not Applicable,1716204170
+Fall From tree,100,Ujjol,15.01.030769.01,Abdul Hai,25,M,M,Gazipur,Not Applicable,1924042885
+Fall From tree,101,Akash Biswas,15.01.030776.01,Md. Alauddin Biswas,16,M,Si,Magura,Not Applicable,1724521409
+Fall From tree,102,Md Sumon Ahmed,15.01.030959.01,Arek Uddin,25,M,M,Maulivibazar,Not Applicable,1776945909
+Fall From tree,103,Amzad,15.01.031931.01,Late Biru Sheikh,60,M,M,Narayanganj,Not Applicable,1919820698
+Fall From tree,104,Md. Rafique,15.01.032691.01,Idris Ali,40,M,M,Netrokona,Not Applicable,1981611949
+Fall From tree,105,Sumon,15.01.032726.01,Abul Hasem,20,M,Si,Lakshmipur,Not Applicable,1741103140
+Fall From tree,106,Kayoum Mia,15.01.032771.01,A. Halim Mia,30,M,M,Pirojpur,Not Applicable,1735650834
+Fall From tree,107,Jahangir,15.01.032968.01,Mojid,30,M,M,Barisal,Not Applicable,1767866410
+Fall From tree,108,Feroz Sorder,15.01.033007.01,A. Subhan,30,M,M,Barisal,Not Applicable,1967964328
+Fall From tree,109,Jalal Md.,15.01.033177.01,Sundar Ali,35,M,M,Comilla,Not Applicable,1846952819
+Fall From tree,110,Milon Mr.,15.01.033363.01,Nayab Ali,22,M,Si,Dhaka,Not Applicable,1717328927
+Fall From tree,111,Lavlu Mr.,15.01.033769.01,Mojibur Md.,26,M,M,Rangpur,Not Applicable,1726615153
+Fall From tree,112,Abdul Latif Sarder,15.01.033800.01,Latr. Wabidur Rahman,65,M,M,Barisal,Not Applicable,1726806657
+Fall From tree,113,Anowar Md.,15.01.033897.01,Alif Bepari,16,M,Si,Barisal,Not Applicable,1749170692
+Fall From tree,114,Md Abdul Salam,15.01.034112.01,Late Abdul Sobahan,70,M,M,Barisal,Not Applicable,1987264196
+Fall From tree,115,Joshim Uddin,15.01.034488.01,Late Dudu Miah,45,M,M,Feni,Farmer,1815105359
+Fall From tree,116,Shafiqul Islam Md.,15.01.034922.01,Md. Mannan Shaikh,27,M,M,Dhaka,Not Applicable,1712141931
+Fall From tree,117,Shuvo,15.01.035389.01,Emon,12,M,Si,Lakshmipur,Not Applicable,1.01828E+11
+Fall From tree,118,Johirul Md.,15.01.035428.01,Sohrab Mistery,24,M,Si,Barisal,Daily Labour,1759506116
+Fall From tree,119,Samsuddin,15.01.036967.01,Amin Khalifa,38,M,M,Barguna,Not Applicable,1727886917
+Fall From tree,120,Sirajul Islam Md.,15.01.037175.01,Late Amiruddin,55,M,M,Dhaka,Farmer,not recite
+Fall From tree,121,Rohim Ullah,15.01.037789.01,Siddikullah,40,M,M,Noakhali,Not Applicable,1813141244
+Fall From tree,122,Redoy,15.01.038040.01,Billal Hossain,15,M,Si,Jessore,Student,1728296492
+Fall From tree,123,Md Sakander Ali,15.01.038150.01,Arshed Ali,60,M,M,Patuakhali,Farmer,1713142488
+Fall From tree,124,Halima Khalun,15.01.038468.01,X,48,F,M,Noakhali,Not Applicable,1725054248
+Fall From tree,125,Azmir Hossain,16.01.000150.01,Azad Dali,22,M,Si,Khulna,Not Applicable,1933824315
+Fall From tree,126,Abdus Sattar,16.01.000321.01,Munchup Torodfar,60,M,M,Satkhira,Not Applicable,1724468506
+Fall From tree,127,Anisur Rahman Md.,16.01.000385.01,Abdus Salam Matbar,22,M,Si,Pirojpur,Not Applicable,1753737884
+Fall From tree,128,Rabbi Hossain,16.01.000550.01,Ibraim Bapari,16,M,Si,Dhaka,Student,1917247565
+Fall From tree,129,Abul Kashem,16.01.000606.01,Late. Munshi,70,M,M,Brahmanbaria,Not Applicable,1726221765
+Fall From tree,130,Md Milon Mollah,16.01.000941.01,Hisab Mollah,25,M,Si,Meherpur,Not Applicable,1712954724
+Fall From tree,131,Md Masum,16.01.000942.01,Md Babul,25,M,M,Pirojpur,Not Applicable,1728309220
+Fall From tree,132,A Shahid,16.01.001282.01,Ismail,25,M,Si,Lakshmipur,Farmer,1686748910
+Fall From tree,133,Sumi Akter,16.01.001960.01,Alamgir,20,F,M,Barisal,Housewife,1743891687
+Fall From tree,134,Giasuddin Md.,16.01.002163.01,Md. Alauddin,35,M,M,Bagerhat,Daily Labour,1964157119
+Fall From tree,135,Jahangir Hossain,16.01.002886.01,A Rohim,20,M,M,Kurigram,Not Applicable,1797929741
+Fall From tree,136,Mohmmed Khan,16.01.003046.01,Hazi Nobu Khan,55,M,M,Shariatpur,Not Applicable,1846740948
+Fall From tree,137,Abdul Gofur Sardar,16.01.003369.01,A Aziz,44,M,M,Jessore,Not Applicable,1919896542
+Fall From tree,138,A Bashar,16.01.004142.01,Sultan Ahmed,50,M,M,Lakshmipur,Not Applicable,1942122550
+Fall From tree,139,Suresh Chandro Sarker,16.01.004969.01,Satto Charon,65,M,M,Bogra,Not Applicable,1733121279
+Fall From tree,140,Md. Hasan Ali,16.01.005084.01,Md. Sofur Uddin,40,M,M,Dhaka,Farmer,1932040537
+Fall From tree,141,Lar,16.01.005855.01,Ring,45,M,M,Maulvibazar,Not Applicable,1929340606
+Fall From tree,142,Rahela,16.01.006210.01,‘,49,F,M,Tangail,Not Applicable,1725687007
+Fall From tree,143,Nur Mohammad,16.01.006211.01,A Motaleb,18,M,Si,Mymensingh,Not Applicable,
+Fall From tree,144,Shela Khatun,16.01.006486.01,Sunai Shak,10,F,Si,Pabna,Not Applicable,1915607222
+Fall From tree,145,Ibrahim Mr.,16.01.006640.01,Md. Nurul Haque,45,M,M,Pirojpur,Daily Labour,1771041640
+Fall From tree,146,Md. Mashuk,16.01.009221.01,Ador Hossain,17,M,Si,Habiganj,Not Applicable,1625268324
+Fall From tree,147,Md. Jahangir Alom,16.01.009439.01,Lalchan Mollik,35,M,M,Patuakhali,Not Applicable,1725497851
+Fall From tree,148,Zafor,16.01.009496.01,Chedu Chokider,25,M,M,Dhaka,Not Applicable,1924078573
+Fall From tree,149,Md. Asadur,16.01.009837.01,Soforullah,60,M,M,Habiganj,Not Applicable,1742761527
+Fall From tree,150,Razan Chandro Day,16.01.010200.01,Khatish Chandro,16,M,Si,Netrokona,Not Applicable,1725371791
+Fall From tree,151,Jomir Uddin,16.01.010515.01,Hatem Munshe,47,M,M,Magura,Not Applicable,1990540324
+Fall From tree,152,Ruhul Amin,16.01.010619.01,Razzak Khan,42,M,M,Dhaka,Not Applicable,1718829453
+Fall From tree,153,A Barek,16.01.011192.01,Late A Gofur,45,M,M,Jamalpur,Daily Labour,1768372686
+Fall From tree,154,Mr. Abu Bakkar,16.01.011719.01,Morshed Ali,72,M,M,Munshiganj,Not Applicable,1933435639
+Fall From tree,155,Ataur Rahman,16.01.012006.01,Akram,27,M,M,Rajshahi,Not Applicable,174387162
+Fall From tree,156,Anwer Hossain,16.01.012616.01,Muzzamal Hossain,25,M,M,Nowgaon,Farmer,1794580316
+Fall From tree,157,Prokash,16.01.012697.01,Nimai Mondol,30,M,M,Satkhira,Not Applicable,1714545406
+Fall From tree,158,Md Sopon,16.01.013136.01,A Malek,40,M,M,Dhaka,Daily Labour,1752723094
+Fall From tree,159,Popy,16.01.013438.01,A. Latif,28,F,M,Dhaka,Not Applicable,1624945024
+Fall From tree,160,Md. Sohel,16.01.013552.01,Late Md. Altaf Ali,23,M,M,Comilla,Not Applicable,1732752590
+Fall From tree,161,Pavel Miah,16.01.013727.01,Md. Rozob Ali,17,M,Si,Habiganj,Not Applicable,1746396512
+Fall From tree,162,Abul Kalam Azad,16.01.015118.01,Jakir Hossain,27,M,M,Feni,Not Applicable,1670123484
+Fall From tree,163,Md. Saiful Islam,16.01.015281.01,Syeed Mahfuzur Rahman Iran,38,M,M,Narail,Service holder,185431448
+Fall From tree,164,Poritosh Boiragi,16.01.015460.01,Odhir Boiragi,55,M,M,Khulna,Farmer,1911696767
+Fall From tree,165,Mamun Hossain,16.01.015489.01,Abul Hossain,30,M,M,Tangail,Govt. Service Holder,1715260892
+Fall From tree,166,Jahidul Md.,16.01.015556.01,Late Dudu Akondo,40,M,M,Gaibandha,Tailoring,1764441362
+Fall From tree,167,Md. Hasan,16.01.015561.01,Late. Abul Bashar,20,M,Si,Noakhali,Not Applicable,1686299665
+Fall From tree,168,Joni,16.01.015577.01,Md. Anwar Hosain,10,M,Si,Dhaka,Not Applicable,1745661015
+Fall From tree,169,Piar Ali,16.01.016169.01,Sobed Ali,60,M,M,Satkhira,Not Applicable,1960085428
+Fall From tree,170,Md. Shofiqul Islam,16.01.016416.01,Late. Ismail,32,M,M,Mymensingh,Rickshaw Puller,1710730005
+Fall From tree,171,Babu,16.01.016421.01,Late. Aris Tullah,50,M,M,Jessore,Not Applicable,1714238731
+Fall From tree,172,Anando Das,16.01.016426.01,Anil Das,45,M,M,Jhenaidah,Not Applicable,1916618770
+Fall From tree,173,Md Shanin,16.01.016553.01,A Aziz,40,M,M,Tangail,Not Applicable,1790372236
+Fall From tree,174,Nur Islam,16.01.016564.01,Hujur Alim,40,M,M,Jamalpur,Not Applicable,1913431297
+Fall From tree,175,Md. Siddik Sheikh,16.01.016575.01,Ala Uddin Sheikh,40,M,M,Jhenaidah,Not Applicable,1712086826
+Fall From tree,176,Md. Masud,16.01.016937.01,Md. Billal,13,M,Si,Comilla,Not Applicable,1791377313
+Fall From tree,177,Abu Kalam,16.01.017184.01,Jalal Ahmad,38,M,M,Bhola,Not Applicable,1746031291
+Fall From tree,178,Nazim Uddin,16.01.017235.01,Fazlul Haque,40,M,M,Natore,Not Applicable,1721568714
+Fall From tree,179,Nazrul Islam,16.01.017304.01,Sobhan Haulader,18,M,Si,Patuakhali,Not Applicable,1764960681
+Fall From tree,180,Monojit Laskor,16.01.017310.01,Profullo Lasker,22,M,Si,Khulna,Not Applicable,1710752333
+Fall From tree,181,Nikhil Ray,16.01.017754.01,J,55,M,M,Khulna,Not Applicable,1969773387
+Fall From tree,182,Abdul Momin,16.01.017775.01,Lat Motlab Ali,35,M,M,Sylhet,Not Applicable,1779031226
+Fall From tree,183,Abdul Hakim,16.01.018002.01,Kolim Uddin,22,M,M,Jhenaidah,Not Applicable,1951368999
+Fall From tree,184,Abdus Samad,16.01.018004.01,Moslem Gazi,50,M,M,Satkhira,Not Applicable,1778251363
+Fall From tree,185,Md. Mizan,16.01.018222.01,X,26,M,M,Bhola,Not Applicable,1726007010
+Fall From tree,186,Md. Mizanur Rahman,16.01.018248.01,Late. Abdur Rouf,40,M,M,Satkhira,Not Applicable,1766078384
+Fall From tree,187,Shahabuddin,16.01.018369.01,X,63,M,M,Mymensingh,Not Applicable,1740233945
+Fall From tree,188,Fatema Begum,16.01.018548.01,Late. Hazi Abdul Ali,45,F,M,Noakhali,Not Applicable,1716751814
+Fall From tree,189,Nur Islam,16.01.018657.01,Motiur Rahman,35,M,M,Barisal,Not Applicable,1710753715
+Fall From tree,190,Abdul Aziz,16.01.018983.01,X,47,M,M,Sirajganj,Not Applicable,1738618028
+Fall From tree,191,Abul Hosain,16.01.019268.01,Muntaz Uddin,35,M,M,Comilla,Not Applicable,1875779133
+Fall From tree,192,Md. Samsuddin,16.01.019747.01,X,18,M,Si,Noakhali,Not Applicable,1832626582
+Fall From tree,193,Md Bairul Islam,16.01.019819.01,Fohi Uddin,42,M,M,Chapai Nawabganj,Not Applicable,1745736454
+Fall From tree,194,Shustir Pal,16.01.019828.01,Sudir Pal,32,M,M,Manikgonj,Not Applicable,01nai
+Fall From tree,195,Raju,16.01.020166.01,Nur Islam,25,M,M,Comilla,Not Applicable,01nai
+Fall From tree,196,Abdul Mannan,16.01.020635.01,Late. Samsul Haque,45,M,M,Dhaka,Service holder,1728939898
+Fall From tree,197,Sajon Mia,16.01.020704.01,Moharum Ali,45,M,M,Netrokona,Not Applicable,1727730078
+Fall From tree,198,Kaium,16.01.020810.01,A Zabbar,16,M,Si,Barisal,Not Applicable,1714872998
+Fall From tree,199,Abdul Hannan,16.01.021068.01,Zabbar,40,M,M,Mymensingh,Not Applicable,1715297325
+Fall From tree,200,Azim Uddin,16.01.021327.01,Saheb Uddin,38,M,M,Nowgaon,Service holder,1752549899
+Fall From tree,201,Nahid Hassan,16.01.021648.01,Didar Bhuyan,17,M,Si,Narayanganj,Not Applicable,1676902851
+Fall From tree,202,Jaheda Baugm,16.01.022019.01,M,60,F,M,Gopalganj,Not Applicable,1713587876
+Fall From tree,203,Badsha,16.01.022204.01,Md. A. Samad,30,M,M,Gazipur,Not Applicable,1858166005
+Fall From tree,204,Sumon,16.01.023264.01,Sumir,13,M,Si,Thakurgaon,Student,1751487200
+Fall From tree,205,Md. Shamsul Alom,16.01.023527.01,A Rahman,50,M,M,Narsingdi,Not Applicable,1714680720
+Fall From tree,206,Md Shahidul Islam,16.01.024677.01,Hafez Solaiman,20,M,Si,Jhenaidah,Not Applicable,1718834074
+Fall From tree,207,Anwar Hossain,16.01.024849.01,Abul Khayer,31,M,M,Comilla,Not Applicable,176073393
+Fall From tree,208,Abdul Mozid,16.01.025738.01,Khyrul Islam,27,M,M,Bogra,Not Applicable,1785389510
+Fall From tree,209,Khairul Shek,16.01.025928.01,Mozaher Shek,55,M,M,Bagerhat,Not Applicable,1611517408
+Fall From tree,210,Md Ali Akbor,16.01.026125.01,Dolaur Uddin,60,M,M,Madaripur,Not Applicable,1938477361
+Fall From tree,211,Abu Bokkar,16.01.026547.01,Can Miya,26,M,M,Mymensingh,Not Applicable,1716540846
+Fall From tree,212,Rowshon Ali,16.01.027082.01,Osman,60,M,M,Chuadanga,Not Applicable,1937592526
+Fall From tree,213,Md. Farid,16.01.027441.01,X,30,M,M,Mymensingh,Not Applicable,1963651109
+Fall From tree,214,Md. Faruk,16.01.028619.01,X,28,M,M,Lakshmipur,Not Applicable,1830771423
+Fall From tree,215,Motiyar,16.01.028621.01,X,30,M,M,Rajbari,Not Applicable,1918407082
+Fall From tree,216,Oliar Rahman,16.01.029079.01,Moksad Ali,60,M,M,Khulna,Not Applicable,1918613465
+Fall From tree,217,Nurul Alam,16.01.029618.01,Roz Ali,21,M,Si,Netrokona,Not Applicable,1718900434
+Fall From tree,218,A. Mannan,16.01.029641.01,Late. Mozibul Haque,40,M,M,Lakshmipur,Not Applicable,1822483347
+Fall From tree,219,Mehedi Hsasan Mizan,16.01.030054.01,A Khalek,22,M,Si,Feni,Not Applicable,1711541821
+Fall From tree,220,Bosir,16.01.030310.01,Md Sadem Alimira,28,M,M,Barguna,Not Applicable,1918316186
+Fall From tree,221,A Salam,16.01.030668.01,Moslem,45,M,M,Jessore,Not Applicable,1727274241
+Fall From tree,222,Forid Ahmad,16.01.030709.01,Late. Abdul Kadir Ansari,32,M,M,Chandpur,Not Applicable,1817125448
+Fall From tree,223,Tofawel Ahmed,16.01.031086.01,Aminullah,50,M,M,Lakshmipur,Not Applicable,1825207650
+Fall From tree,224,Billal Ahmed,16.01.031476.01,Mosharof Hossain,20,M,M,Sylhet,Not Applicable,1742652614
+Fall From tree,225,Amin Molla,16.01.031494.01,Hossen Molla,50,M,M,Magura,Not Applicable,1916576622
+Fall From tree,226,Afzal Hossain (Ronju),16.01.031656.01,Late. Azgor Mondol,50,M,M,Kushtia,Not Applicable,1768151890
+Fall From tree,227,Rajon,16.01.031981.01,Habi,18,M,Si,Narsingdi,Not Applicable,1745920301
+Fall From tree,228,Jogodhis Chandro Pondit,16.01.032596.01,Sree Dham,57,M,M,Sunamganj,Not Applicable,1937503358
+Fall From tree,229,Minna,16.01.032959.01,Nazrul Islam,23,M,Si,Jessore,Not Applicable,1718208444
+Fall From tree,230,Jahangir Alom,16.01.033271.01,Hazi Nur Mohammad,45,M,M,Bhola,Businessman,1790973767
+Fall From tree,231,Charak Ali,16.01.033776.01,A Sater,35,M,M,Habiganj,Farmer,1715291128
+Fall From tree,232,Pori,16.01.034689.01,Cv,30,F,M,Tangail,Not Applicable,1814733410
+Fall From tree,233,Maruf,16.01.035133.01,Abdul Haque,20,M,Si,Gazipur,Not Applicable,1775601726
+Fall From tree,234,Abul Kalam,16.01.035152.01,Imam Hossain,25,M,M,Narayanganj,Not Applicable,1955630172
+Fall From tree,235,Santo,16.01.035871.01,Liton Miah,12,M,Si,Gazipur,Student,1913542960
+Fall From tree,236,Azad Mia,16.01.036027.01,Ibrahim,47,M,M,Tangail,Not Applicable,1721655379
+Fall From tree,237,Monir Hossain,16.01.036950.01,Moslem Uddin,40,M,M,Comilla,Not Applicable,1758325755
+Fall From tree,238,Abdul Motin,16.01.037762.01,Ajit Ullah,60,M,M,Gaibandha,Not Applicable,1749299719
+Fall From tree,239,Khalil,16.01.038234.01,Late Arfan Howlader,46,M,M,Pirojpur,Not Applicable,1990917752
+Fall From tree,240,Abul Kalam Azad,16.01.038701.01,Hashem Md.,25,M,Si,Narayanganj,Not Applicable,1812104748
+Fall From tree,241,Abidur Rahman Md.,16.01.038991.01,Md. Shahidur Rahman,25,M,M,Habiganj,Businessman,1779141940
+Fall From tree,242,Alam Saikh Md.,16.01.039099.01,Habib Saikh,30,M,M,Bagerhat,Businessman,1772866513
+Fall From tree,243,Md. Hanif,16.01.039322.01,Late Latif Munshi,30,M,M,Barisal,Not Applicable,1742007097
+Fall From tree,244,Md. Tara Miah,16.01.039440.01,Late Lokumuddin,60,M,M,Manikgonj,Not Applicable,1736523471
+Fall From tree,245,A. Mannan,16.01.039884.01,Kalu Mollah,50,M,M,Jhenaidah,Not Applicable,1935295174
+Fall From tree,246,Sabuz,16.01.040145.01,A Baten,26,M,M,Narayanganj,Not Applicable,1712244324
+Fall From tree,247,Maruf Md.,16.01.040305.01,Samsul Haque,25,M,Si,Gazipur,Student,1744543612
+Fall From tree,248,Roni Md.,16.01.040399.01,Md. Golam Mostofa,14,M,Si,Bogra,Student,1790534694
+Fall From tree,249,Shakawat Hossain,17.01.000008.01,Golam Rosul,52,M,M,Kushtia,Farmer,1679331523
+Fall From tree,250,Md. Rahis Uddin Pridhan,17.01.000704.01,Lat Momtaz,64,M,M,Tangail,Farmer,1818661791
+Fall From tree,251,Pintu,17.01.000795.01,Nazrul Islam,35,M,M,Satkhira,Not Applicable,1717388315
+Fall From tree,252,Mintu Mia,17.01.000846.01,Suja Mia,38,M,M,Lakshmipur,Not Applicable,1829681805
+Fall From tree,253,Bellal Hossain,17.01.001035.01,Late Hiron Ahmed,30,M,M,Feni,Not Applicable,1784594676
+Fall From tree,254,Monirul Islam Md.,17.01.001298.01,Md. Khazer Losker,40,M,M,Jhenaidah,Businessman,1930332433
+Fall From tree,255,Md Manik,17.01.002443.01,Fazkur Hoque,30,M,Si,Pirojpur,Businessman,1794721228
+Fall From tree,256,Jonaprio Barmon,17.01.002546.01,Spreas,21,M,Si,Khulna,Student,1712266845
+Fall From tree,257,Md Karim,17.01.002966.01,Md Bosir Uddin,25,M,Si,Thakurgaon,Farmer,1705803063
+Fall From tree,258,Abdul Kaium (Shawkat),17.01.004326.01,Abul Bashar,15,M,Si,Lakshmipur,Student,1825987181
+Fall From tree,259,Josim Uddin,17.01.004654.01,Moyez Uddin,32,M,M,Netrokona,Not Applicable,1727190482
+Fall From tree,260,Md. Ibrahim Khalil,17.01.006055.01,Md. Rostom Ali Miah,34,M,M,Gopalganj,Not Applicable,1710886052
+Fall From tree,261,Lokman Hossain,17.01.006915.01,Mobarak Shekh,35,M,M,Pirojpur,Shop keeping,1861766158
+Fall From tree,262,Azad Miah,17.01.007236.01,Late. Md. Ibrahim Miah,48,M,M,Tangail,Not Applicable,1927379264
+Fall From tree,263,Md. Monir,17.01.007345.01,Mabub Khan,22,M,M,Pirojpur,Farmer,1944789790
+Fall From tree,264,Nur Islam,17.01.009245.01,Niamot Ali,52,F,M,Satkhira,Not Applicable,1798051034
+Fall From tree,265,Rajib,17.01.009421.01,Abdullah,18,M,Si,Noakhali,Not Applicable,1825855655
+Fall From tree,266,Mikail,17.01.009473.01,Ajijul Haque,45,M,M,Chuadanga,Not Applicable,1712781895
+Fall From tree,267,Amir Hossain,17.01.009477.01,Md A Weaz,50,M,M,Chuadanga,Not Applicable,1959932922
+Fall From tree,268,Md Sah Alom,17.01.009943.01,Md Nazrul Islam Mollah,32,M,M,Gopalganj,Not Applicable,1736516981
+Fall From tree,269,Chan Miah,17.01.009949.01,Late Omor Ali,50,M,M,Mymensingh,Farmer,1743073926
+Fall From tree,270,Md. Alal Uddin,17.01.012438.01,Late. Chandu Miah,45,M,M,Gazipur,Not Applicable,1721061418
+Fall From tree,271,Alom,17.01.012543.01,Chand Ali,40,M,M,Pabna,Not Applicable,1786747525
+Fall From tree,272,Gopal Mondol,17.01.012875.01,Tarapado Mondol,35,M,M,Jessore,Not Applicable,1727462291
+Fall From tree,273,Mohammad Ali,17.01.013614.01,Late. Hossain Ali,55,M,M,Tangail,Not Applicable,1916882625
+Fall From tree,274,Delowar,17.01.013935.01,Mesor Alli,34,M,M,Nowgaon,Not Applicable,1755939710
+Fall From tree,275,Abdur Razzak Md.,17.01.014586.01,Omor Kawser,28,M,M,Dhaka,Not Applicable,1985996366
+Fall From tree,276,Maruf Billah,17.01.014738.01,A. Hamid,27,F,M,Satkhira,Not Applicable,177385137
+Fall From tree,277,Jomshed Ali,17.01.014870.01,Johir Uddin,60,M,M,Pabna,Not Applicable,1711339446
+Fall From tree,278,Sheikh Sahabuddin,17.01.015221.01,Sheikh Forid,21,M,Si,Noakhali,Driver,1820230178
+Fall From tree,279,A Malek,17.01.015383.01,Md Torful Ulla,45,M,M,Sylhet,Not Applicable,1788487586
+Fall From tree,280,Babul,17.01.015754.01,Md Suk Deb,25,M,M,Madaripur,Not Applicable,1942465529
+Fall From tree,281,Ruhul Amin,17.01.015758.01,X,35,M,M,Tangail,Non-Govt. Service Holder,1724147590
+Fall From tree,282,Md Imran,17.01.015958.01,Sohidullah,32,M,M,Comilla,Not Applicable,1866983347
+Fall From tree,283,Md Sumon,17.01.016077.01,Md Ali,16,M,Si,Mymensingh,Not Applicable,1931605569
+Fall From tree,284,Nazmul Islam,17.01.016529.01,Mafuj Uddin,15,M,Si,Dhaka,Not Applicable,1727732953
+Fall From tree,286,Abdul Khalek,17.01.017094.01,Nobis Uddin,60,M,M,Chuadanga,Not Applicable,1918936712
+Fall From tree,287,A Halim,17.01.017410.01,Md Firoj Miah,42,M,M,Narsingdi,Not Applicable,1815456353
+Fall From tree,288,Habibur Rahman,17.01.017722.01,Sirajul Haque,45,M,M,Manikgonj,Not Applicable,1749702778
+Fall From tree,289,Maoun Khan,17.01.017737.01,Muksed,11,M,Si,Manikgonj,Student,1914719073
+Fall From tree,290,Ala Uddin,17.01.017999.01,A Mannan,35,M,M,Gazipur,Farmer,1723012707
+Fall From tree,291,Rakib Uddin,17.01.018069.01,Helal Uddin,26,M,Si,Noakhali,Not Applicable,1723012707
+Fall From tree,292,Rothindronath Modhu,17.01.018688.01,Robindronath,29,M,Si,Gopalganj,Not Applicable,1766627181
+Fall From tree,293,Sofikur Rahman,17.01.018735.01,Ali Ullah,34,M,M,Chandpur,Not Applicable,1721228808
+Fall From tree,294,Pair Alom,17.01.018803.01,Aynal Islam Khan,58,M,M,Faridpur,Not Applicable,1731876585
+Fall From tree,295,Ranim,17.01.018929.01,Motahaer Hossain,19,M,Si,Madaripur,Businessman,1913616479
+Fall From tree,296,Nurun Nabi,17.01.019054.01,Rofikul Islam,26,M,M,Comilla,Not Applicable,181549168
+Fall From tree,297,Mir Jahan,17.01.019256.01,Haran Ali,50,M,M,Gazipur,Not Applicable,1701710942
+Fall From tree,298,Chandu Mia,17.01.019284.01,Asman Mondol,30,M,M,Jhenaidah,Not Applicable,1920432133
+Fall From tree,299,Iran Fakir,17.01.019627.01,Awal Fakir,35,M,M,Bagerhat,Farmer,1629052860
+Fall From tree,300,Saidur Rahman Khan,17.01.020011.01,Eman Uddin Khan,60,M,M,Jamalpur,Not Applicable,1730431856
+Fall From tree,301,Sohal Rana,17.01.020033.01,Basher Mola,25,M,M,Shariatpur,Not Applicable,1931281386
+Fall From tree,302,Nazrul Islam,17.01.020048.01,Sonameya,70,M,M,Meherpur,Not Applicable,1712893509
+Fall From tree,303,Bachu Bapari,17.01.020071.01,Jabber Bapari,35,M,M,Madaripur,Not Applicable,1771330627
+Fall From tree,304,Md Sahzan Mollah,17.01.020131.01,Md Aziz Mollah,25,M,M,Shariatpur,Not Applicable,1965811449
+Fall From tree,305,Sawkat,17.01.020205.01,Mukter Hossain,30,M,M,Comilla,Not Applicable,1835993920
+Fall of heavy object,1,Mojibur Rahman,19.01.000045.01,X,45,M,M,Dhaka,Not Applicable,1824885637
+Fall of heavy object,2,Habibur Rahamn,19.01.002443.01,Dulu Miah,19,M,Si,Rangpur,Not Applicable,1798706914
+Fall of heavy object,3,Maleka,19.01.017075.01,S,60,F,M,Dhaka,Not Applicable,1768893387
+Fall of heavy object,4,Anwar Hossain,19.01.019165.01,Abdu,45,M,M,Rangpur,Not Applicable,1
+Fall of heavy object,5,Salma Sultana,19.01.022483.01,Abdul Haque,22,F,Si,Noakhali,Not Applicable,1625666850
+Fall of heavy object,6,Kazi Shofiul Islam,19.01.030987.01,Aminul,70,M,M,Kushtia,Not Applicable,1715686410
+Fall of heavy object,7,Jismin,19.01.032715.01,X,35,F,M,Dhaka,Not Applicable,1682616590
+Fall of heavy object,8,Abdul Hai,19.01.037289.01,X,55,M,M,Dhaka,Not Applicable,1798656542
+Fall of heavy object,9,Asma Begum,19.01.038417.01,S,48,F,M,Dhaka,Not Applicable,1911178558
+Fall of heavy object,10,Rafique,19.01.042125.01,Sahjahan Gazi,30,M,M,Satkhira,Not Applicable,1941248699
+Fall of heavy object,11,Shimul Bonik,19.01.043252.01,Probat Bonik,38,M,M,Feni,Not Applicable,1857097192
+Fall of heavy object,12,Moinul Islam,19.01.048245.01,Yakub Mia Late,32,M,Si,Maulvibazar,Not Applicable,1737232148
+Fall of heavy object,13,Md Jinnot Ali,20.01.000024.01,Gofur Ali,70,M,M,Manikgonj,Not Applicable,1736425479
+Fall of heavy object,14,Boktar Shek,21.01.016239.01,X,60,M,M,Manikgonj,Not Applicable,1725524917
+Fall of heavy object,15,Md Milon,21.01.019110.01,Rofik,29,M,Si,Lakshmipur,Not Applicable,1628200134
+Fall of heavy object,16,Sabina Mrs.,21.01.034097.01,X,32,F,M,Pabna,Not Applicable,1736602507
+Fall of heavy object,17,Dilu Mollah,22.01.002686.01,S,65,M,M,Comilla,Not Applicable,1771440904
